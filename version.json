@@ -1,16 +1,18 @@
 {
-  "version": "1.6.8",
-  "versionCode": 36,
+  "version": "1.8.0",
+  "versionCode": 39,
   "apk": "mikes-grindhouse-full.apk",
   "lightApk": "mikes-grindhouse-light.apk",
   "ipa": "mikes-grindhouse.ipa",
   "plist": "mikes-grindhouse.plist",
-  "url": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.6.8/mikes-grindhouse-full.apk",
-  "lightUrl": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.6.8/mikes-grindhouse-light.apk",
-  "iosUrl": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.6.8/mikes-grindhouse.ipa",
+  "bundle": "dist.zip",
+  "url": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.8.0/mikes-grindhouse-full.apk",
+  "lightUrl": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.8.0/mikes-grindhouse-light.apk",
+  "iosUrl": "https://github.com/kburna243/mikes-420grindhouse-app/releases/download/v1.8.0/mikes-grindhouse.ipa",
   "iosVersion": "1.2.2",
-  "notes": "v1.6.8 (Android): Seamless YouTube-to-movie stream transitions. Fixed player getting stuck in pause state when transitioning between web streams and direct video streams.\nv1.6.7 (Android): Hardware decoder stability & multi-tier adaptive speed nudging. Completely resolves periodic video freezes on Fire TV / Android TV by replacing hard decoder seeks with smooth 1.02x-1.12x rate adjustments.\nv1.6.6 (Android): Playback lead-time fix — lead time only applies when joining mid-video, clean YouTube start and improved player watchdog. Both APKs signed with official production RSA-4096 release key.\nv1.6.5 (Android): WebP asset optimization — APK size reduced by nearly 50% from 37 MB to 20.3 MB. Native update feed migrated to GitHub Releases.\nv1.6.4 (Android): Persistent chat account login & guest access, fullscreen chat mode for mobile/tablets, and responsive layout polish.",
+  "bundleUrl": "dist.zip",
+  "notes": "v1.8.0 (Android): Universal Subtitle Support (SRT/WebVTT/SSA/TTML) with high-contrast TV & mobile styling, dedicated Subtitles (CC) toggle under Playback settings with persistence across restarts, and seamless track switching.\nv1.7.0 (Android): Clean movie/show title recognition with raw fallback, scrollable up-next queue schedule with D-pad navigation, start times instead of numbering in queue/HUD, and renamed trivia to 'Additional Facts'.\nv1.6.8 (Android): Seamless YouTube-to-movie stream transitions. Fixed player getting stuck in pause state when transitioning between web streams and direct video streams.\nv1.6.7 (Android): Hardware decoder stability & multi-tier adaptive speed nudging. Completely resolves periodic video freezes on Fire TV / Android TV by replacing hard decoder seeks with smooth 1.02x-1.12x rate adjustments.\nv1.6.6 (Android): Playback lead-time fix — lead time only applies when joining mid-video, clean YouTube start and improved player watchdog. Both APKs signed with official production RSA-4096 release key.\nv1.6.5 (Android): WebP asset optimization — APK size reduced by nearly 50% from 37 MB to 20.3 MB. Native update feed migrated to GitHub Releases.",
   "minAndroid": 7,
   "minIos": 17,
-  "publishedAt": "2026-08-22"
+  "publishedAt": "2026-08-29"
 }
