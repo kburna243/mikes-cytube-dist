@@ -1,0 +1,50 @@
+[
+  {
+    "file": "backgrounds/background-01-queue.png",
+    "bytes": 2764062,
+    "sha": "6e155b0bf77a3a76a944e44f4262bab70e26f30c",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/backgrounds/background-01-queue.png"
+  },
+  {
+    "file": "backgrounds/background-02-entrance.png",
+    "bytes": 3061534,
+    "sha": "2f7764155e4ff731eb57987e065f3722e6bbc91e",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/backgrounds/background-02-entrance.png"
+  },
+  {
+    "file": "backgrounds/background-03-cloakroom.png",
+    "bytes": 2774801,
+    "sha": "afe2f7709a27f076dee632f841e061d3d36446ed",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/backgrounds/background-03-cloakroom.png"
+  },
+  {
+    "file": "backgrounds/background-04-dancefloor.png",
+    "bytes": 3007019,
+    "sha": "0765582ef62f1d7511aa7f88d0e5499dbeb7a70b",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/backgrounds/background-04-dancefloor.png"
+  },
+  {
+    "file": "backgrounds/background-05-boss.png",
+    "bytes": 3108766,
+    "sha": "7c6cf3eabed33c356b4ba9c0adf775d333824591",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/backgrounds/background-05-boss.png"
+  },
+  {
+    "file": "characters/characters-atlas.png",
+    "bytes": 2570272,
+    "sha": "67e1ce4e01cf6c54e86b6f91c538bfde811cfa4b",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/characters/characters-atlas.png"
+  },
+  {
+    "file": "screens/title-screen.png",
+    "bytes": 2968209,
+    "sha": "6ceadee0fb0509e7eb146f843d24445a5afa0a12",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/screens/title-screen.png"
+  },
+  {
+    "file": "ui/ui-atlas.png",
+    "bytes": 1328959,
+    "sha": "fe7ff85b0399b0e30630433988e15e5911f278af",
+    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/ui/ui-atlas.png"
+  }
+]
