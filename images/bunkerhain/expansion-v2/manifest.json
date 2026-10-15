@@ -1,0 +1,1720 @@
+{
+  "schemaVersion": 1,
+  "project": "BUNKERHAIN – Zombie Rave Apocalypse",
+  "basis": "SHOOTER version 3; not walking/dialogue version 2",
+  "created": "2026-10-15",
+  "status": "Generated assets and implementation handoff; expansion gameplay not yet implemented",
+  "originalAssetsManifest": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/manifest.json",
+  "assets": [
+    {
+      "id": "zombie-mesh-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/zombie-mesh-gestures.png",
+      "localPath": "public/assets/expansion/animations/zombie-mesh-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/zombie-mesh-gestures.png",
+      "bytes": 1398470,
+      "sha256": "39849b7470bffd30e12e1c4bee24e6929ea0c7dadacb839df86b63f4c1f6de84",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 1048329,
+      "transparentFraction": 0.66666,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            625,
+            1254
+          ],
+          [
+            0,
+            660,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          633,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 625,
+            "h": 633
+          },
+          "contentBoundsInCell": {
+            "x": 151,
+            "y": 10,
+            "w": 353,
+            "h": 605
+          },
+          "suggestedPivotInCell": {
+            "x": 312,
+            "y": 614
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "step-reach",
+          "rect": {
+            "x": 625,
+            "y": 0,
+            "w": 629,
+            "h": 633
+          },
+          "contentBoundsInCell": {
+            "x": 122,
+            "y": 16,
+            "w": 405,
+            "h": 610
+          },
+          "suggestedPivotInCell": {
+            "x": 314,
+            "y": 625
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "attack",
+          "rect": {
+            "x": 0,
+            "y": 633,
+            "w": 660,
+            "h": 621
+          },
+          "contentBoundsInCell": {
+            "x": 82,
+            "y": 7,
+            "w": 492,
+            "h": 601
+          },
+          "suggestedPivotInCell": {
+            "x": 330,
+            "y": 607
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "hit",
+          "rect": {
+            "x": 660,
+            "y": 633,
+            "w": 594,
+            "h": 621
+          },
+          "contentBoundsInCell": {
+            "x": 87,
+            "y": 44,
+            "w": 411,
+            "h": 561
+          },
+          "suggestedPivotInCell": {
+            "x": 297,
+            "y": 604
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "approach": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 6,
+          "loop": true
+        },
+        "attack": {
+          "frames": [
+            2
+          ],
+          "durationMs": 200,
+          "loop": false
+        },
+        "hit": {
+          "frames": [
+            3
+          ],
+          "durationMs": 160,
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "zombie-tracksuit-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/zombie-tracksuit-gestures.png",
+      "localPath": "public/assets/expansion/animations/zombie-tracksuit-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/zombie-tracksuit-gestures.png",
+      "bytes": 1763809,
+      "sha256": "18d1dc45d5b73b4a26cedfbc1d32cf049c927095dee9165e749c134287f41d5b",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 891503,
+      "transparentFraction": 0.56693,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            638,
+            1254
+          ],
+          [
+            0,
+            665,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          626,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 638,
+            "h": 626
+          },
+          "contentBoundsInCell": {
+            "x": 95,
+            "y": 34,
+            "w": 464,
+            "h": 563
+          },
+          "suggestedPivotInCell": {
+            "x": 319,
+            "y": 596
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "step-reach",
+          "rect": {
+            "x": 638,
+            "y": 0,
+            "w": 616,
+            "h": 626
+          },
+          "contentBoundsInCell": {
+            "x": 80,
+            "y": 39,
+            "w": 458,
+            "h": 571
+          },
+          "suggestedPivotInCell": {
+            "x": 308,
+            "y": 609
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "attack",
+          "rect": {
+            "x": 0,
+            "y": 626,
+            "w": 665,
+            "h": 628
+          },
+          "contentBoundsInCell": {
+            "x": 49,
+            "y": 17,
+            "w": 565,
+            "h": 576
+          },
+          "suggestedPivotInCell": {
+            "x": 332,
+            "y": 592
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "hit",
+          "rect": {
+            "x": 665,
+            "y": 626,
+            "w": 589,
+            "h": 628
+          },
+          "contentBoundsInCell": {
+            "x": 52,
+            "y": 16,
+            "w": 476,
+            "h": 579
+          },
+          "suggestedPivotInCell": {
+            "x": 294,
+            "y": 594
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "approach": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 6,
+          "loop": true
+        },
+        "attack": {
+          "frames": [
+            2
+          ],
+          "durationMs": 200,
+          "loop": false
+        },
+        "hit": {
+          "frames": [
+            3
+          ],
+          "durationMs": 160,
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "zombie-punk-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/zombie-punk-gestures.png",
+      "localPath": "public/assets/expansion/animations/zombie-punk-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/zombie-punk-gestures.png",
+      "bytes": 1068910,
+      "sha256": "ccd4e1d90b6b413c380b066f6705b8653f3261f4566e5f637458a131ed83f1bc",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 1189080,
+      "transparentFraction": 0.75616,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            649,
+            1254
+          ],
+          [
+            0,
+            672,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          648,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 649,
+            "h": 648
+          },
+          "contentBoundsInCell": {
+            "x": 155,
+            "y": 95,
+            "w": 356,
+            "h": 485
+          },
+          "suggestedPivotInCell": {
+            "x": 324,
+            "y": 579
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "step-reach",
+          "rect": {
+            "x": 649,
+            "y": 0,
+            "w": 605,
+            "h": 648
+          },
+          "contentBoundsInCell": {
+            "x": 138,
+            "y": 98,
+            "w": 330,
+            "h": 491
+          },
+          "suggestedPivotInCell": {
+            "x": 302,
+            "y": 588
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "attack",
+          "rect": {
+            "x": 0,
+            "y": 648,
+            "w": 672,
+            "h": 606
+          },
+          "contentBoundsInCell": {
+            "x": 117,
+            "y": 59,
+            "w": 450,
+            "h": 457
+          },
+          "suggestedPivotInCell": {
+            "x": 336,
+            "y": 515
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "hit",
+          "rect": {
+            "x": 672,
+            "y": 648,
+            "w": 582,
+            "h": 606
+          },
+          "contentBoundsInCell": {
+            "x": 105,
+            "y": 67,
+            "w": 390,
+            "h": 447
+          },
+          "suggestedPivotInCell": {
+            "x": 291,
+            "y": 513
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "approach": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 6,
+          "loop": true
+        },
+        "attack": {
+          "frames": [
+            2
+          ],
+          "durationMs": 200,
+          "loop": false
+        },
+        "hit": {
+          "frames": [
+            3
+          ],
+          "durationMs": 160,
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "zombie-dj-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/zombie-dj-gestures.png",
+      "localPath": "public/assets/expansion/animations/zombie-dj-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/zombie-dj-gestures.png",
+      "bytes": 1424537,
+      "sha256": "48c080320b626fc72b0c1a36d78a638df03cc6b371466ed400c96a79be13dffc",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 998949,
+      "transparentFraction": 0.63526,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            647,
+            1254
+          ],
+          [
+            0,
+            647,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          633,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 647,
+            "h": 633
+          },
+          "contentBoundsInCell": {
+            "x": 149,
+            "y": 42,
+            "w": 401,
+            "h": 576
+          },
+          "suggestedPivotInCell": {
+            "x": 323,
+            "y": 617
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "rave",
+          "rect": {
+            "x": 647,
+            "y": 0,
+            "w": 607,
+            "h": 633
+          },
+          "contentBoundsInCell": {
+            "x": 97,
+            "y": 11,
+            "w": 430,
+            "h": 609
+          },
+          "suggestedPivotInCell": {
+            "x": 303,
+            "y": 619
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "attack",
+          "rect": {
+            "x": 0,
+            "y": 633,
+            "w": 647,
+            "h": 621
+          },
+          "contentBoundsInCell": {
+            "x": 117,
+            "y": 22,
+            "w": 461,
+            "h": 555
+          },
+          "suggestedPivotInCell": {
+            "x": 323,
+            "y": 576
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "hit",
+          "rect": {
+            "x": 647,
+            "y": 633,
+            "w": 607,
+            "h": 621
+          },
+          "contentBoundsInCell": {
+            "x": 70,
+            "y": 13,
+            "w": 466,
+            "h": 573
+          },
+          "suggestedPivotInCell": {
+            "x": 303,
+            "y": 585
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "approach": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 6,
+          "loop": true
+        },
+        "attack": {
+          "frames": [
+            2
+          ],
+          "durationMs": 200,
+          "loop": false
+        },
+        "hit": {
+          "frames": [
+            3
+          ],
+          "durationMs": 160,
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "civilian-yellow-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/civilian-yellow-gestures.png",
+      "localPath": "public/assets/expansion/animations/civilian-yellow-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/civilian-yellow-gestures.png",
+      "bytes": 1238357,
+      "sha256": "93504c9b19c14571a05af630fee629f4d799695aa659a97bda6a136f3df3a90b",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 1087169,
+      "transparentFraction": 0.69136,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            640,
+            1254
+          ],
+          [
+            0,
+            618,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          676,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 640,
+            "h": 676
+          },
+          "contentBoundsInCell": {
+            "x": 145,
+            "y": 71,
+            "w": 402,
+            "h": 587
+          },
+          "suggestedPivotInCell": {
+            "x": 320,
+            "y": 657
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "warning",
+          "rect": {
+            "x": 640,
+            "y": 0,
+            "w": 614,
+            "h": 676
+          },
+          "contentBoundsInCell": {
+            "x": 93,
+            "y": 31,
+            "w": 423,
+            "h": 633
+          },
+          "suggestedPivotInCell": {
+            "x": 307,
+            "y": 663
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "duck",
+          "rect": {
+            "x": 0,
+            "y": 676,
+            "w": 618,
+            "h": 578
+          },
+          "contentBoundsInCell": {
+            "x": 188,
+            "y": 54,
+            "w": 335,
+            "h": 449
+          },
+          "suggestedPivotInCell": {
+            "x": 309,
+            "y": 502
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "escape",
+          "rect": {
+            "x": 618,
+            "y": 676,
+            "w": 636,
+            "h": 578
+          },
+          "contentBoundsInCell": {
+            "x": 95,
+            "y": 13,
+            "w": 503,
+            "h": 529
+          },
+          "suggestedPivotInCell": {
+            "x": 318,
+            "y": 541
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "idle": {
+          "frames": [
+            0
+          ],
+          "loop": true
+        },
+        "warning": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 4,
+          "loop": true
+        },
+        "duck": {
+          "frames": [
+            2
+          ],
+          "loop": false
+        },
+        "escape": {
+          "frames": [
+            3
+          ],
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "civilian-turquoise-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/civilian-turquoise-gestures.png",
+      "localPath": "public/assets/expansion/animations/civilian-turquoise-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/civilian-turquoise-gestures.png",
+      "bytes": 1148506,
+      "sha256": "e83fe131637ed02ed48165e39600b126cdf76af3b86a7553b886c7d4e53b8c58",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 1050060,
+      "transparentFraction": 0.66776,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            635,
+            1254
+          ],
+          [
+            0,
+            597,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          635,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 635,
+            "h": 635
+          },
+          "contentBoundsInCell": {
+            "x": 165,
+            "y": 39,
+            "w": 383,
+            "h": 573
+          },
+          "suggestedPivotInCell": {
+            "x": 317,
+            "y": 611
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "warning",
+          "rect": {
+            "x": 635,
+            "y": 0,
+            "w": 619,
+            "h": 635
+          },
+          "contentBoundsInCell": {
+            "x": 87,
+            "y": 54,
+            "w": 488,
+            "h": 562
+          },
+          "suggestedPivotInCell": {
+            "x": 309,
+            "y": 615
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "duck",
+          "rect": {
+            "x": 0,
+            "y": 635,
+            "w": 597,
+            "h": 619
+          },
+          "contentBoundsInCell": {
+            "x": 167,
+            "y": 96,
+            "w": 353,
+            "h": 456
+          },
+          "suggestedPivotInCell": {
+            "x": 298,
+            "y": 551
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "escape",
+          "rect": {
+            "x": 597,
+            "y": 635,
+            "w": 657,
+            "h": 619
+          },
+          "contentBoundsInCell": {
+            "x": 78,
+            "y": 20,
+            "w": 536,
+            "h": 546
+          },
+          "suggestedPivotInCell": {
+            "x": 328,
+            "y": 565
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "idle": {
+          "frames": [
+            0
+          ],
+          "loop": true
+        },
+        "warning": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 4,
+          "loop": true
+        },
+        "duck": {
+          "frames": [
+            2
+          ],
+          "loop": false
+        },
+        "escape": {
+          "frames": [
+            3
+          ],
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "techno-bat-flight",
+      "kind": "animation-sheet",
+      "file": "assets/animations/techno-bat-flight.png",
+      "localPath": "public/assets/expansion/animations/techno-bat-flight.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/techno-bat-flight.png",
+      "bytes": 1220717,
+      "sha256": "ce59c297239d9220b12470439ccaa09e9599b54bdded2028f96aa2ca5176b580",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 1056294,
+      "transparentFraction": 0.67172,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            605,
+            1254
+          ],
+          [
+            0,
+            599,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          636,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "wings-up",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 605,
+            "h": 636
+          },
+          "contentBoundsInCell": {
+            "x": 45,
+            "y": 99,
+            "w": 552,
+            "h": 437
+          },
+          "suggestedPivotInCell": {
+            "x": 302,
+            "y": 318
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "wings-mid-down",
+          "rect": {
+            "x": 605,
+            "y": 0,
+            "w": 649,
+            "h": 636
+          },
+          "contentBoundsInCell": {
+            "x": 8,
+            "y": 230,
+            "w": 623,
+            "h": 306
+          },
+          "suggestedPivotInCell": {
+            "x": 324,
+            "y": 318
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "wings-down",
+          "rect": {
+            "x": 0,
+            "y": 636,
+            "w": 599,
+            "h": 618
+          },
+          "contentBoundsInCell": {
+            "x": 44,
+            "y": 101,
+            "w": 546,
+            "h": 368
+          },
+          "suggestedPivotInCell": {
+            "x": 299,
+            "y": 309
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "wings-mid-up",
+          "rect": {
+            "x": 599,
+            "y": 636,
+            "w": 655,
+            "h": 618
+          },
+          "contentBoundsInCell": {
+            "x": 10,
+            "y": 101,
+            "w": 624,
+            "h": 313
+          },
+          "suggestedPivotInCell": {
+            "x": 327,
+            "y": 309
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "flight": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "fps": 8,
+          "loop": true
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "granny-handbag-attack",
+      "kind": "animation-sheet",
+      "file": "assets/animations/granny-handbag-attack.png",
+      "localPath": "public/assets/expansion/animations/granny-handbag-attack.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/granny-handbag-attack.png",
+      "bytes": 1851161,
+      "sha256": "8c3fd2e8a31360a9944a50e222b1a8840151e1a1de44e1f35381886fa45fc2a0",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 879113,
+      "transparentFraction": 0.55905,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            636,
+            1254
+          ],
+          [
+            0,
+            664,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          627,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 636,
+            "h": 627
+          },
+          "contentBoundsInCell": {
+            "x": 45,
+            "y": 18,
+            "w": 547,
+            "h": 599
+          },
+          "suggestedPivotInCell": {
+            "x": 318,
+            "y": 616
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "windup",
+          "rect": {
+            "x": 636,
+            "y": 0,
+            "w": 618,
+            "h": 627
+          },
+          "contentBoundsInCell": {
+            "x": 44,
+            "y": 33,
+            "w": 543,
+            "h": 587
+          },
+          "suggestedPivotInCell": {
+            "x": 309,
+            "y": 619
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "release",
+          "rect": {
+            "x": 0,
+            "y": 627,
+            "w": 664,
+            "h": 627
+          },
+          "contentBoundsInCell": {
+            "x": 131,
+            "y": 7,
+            "w": 482,
+            "h": 571
+          },
+          "suggestedPivotInCell": {
+            "x": 332,
+            "y": 577
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "recovery",
+          "rect": {
+            "x": 664,
+            "y": 627,
+            "w": 590,
+            "h": 627
+          },
+          "contentBoundsInCell": {
+            "x": 51,
+            "y": 19,
+            "w": 501,
+            "h": 559
+          },
+          "suggestedPivotInCell": {
+            "x": 295,
+            "y": 577
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "idle": {
+          "frames": [
+            0
+          ],
+          "loop": true
+        },
+        "throw": {
+          "frames": [
+            1,
+            2,
+            3
+          ],
+          "frameDurationsMs": [
+            750,
+            180,
+            650
+          ],
+          "loop": false,
+          "spawnProjectileAtPose": "release"
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "market-vendor-gestures",
+      "kind": "animation-sheet",
+      "file": "assets/animations/market-vendor-gestures.png",
+      "localPath": "public/assets/expansion/animations/market-vendor-gestures.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/animations/market-vendor-gestures.png",
+      "bytes": 1831043,
+      "sha256": "9d47f41142e3b4ec451dcd5e705458b6ca3eec853ec6b43cdc2654166cbfc596",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 845270,
+      "transparentFraction": 0.53753,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            687,
+            1254
+          ],
+          [
+            0,
+            654,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          624,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "idle",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 687,
+            "h": 624
+          },
+          "contentBoundsInCell": {
+            "x": 93,
+            "y": 17,
+            "w": 510,
+            "h": 590
+          },
+          "suggestedPivotInCell": {
+            "x": 343,
+            "y": 606
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "step-reach",
+          "rect": {
+            "x": 687,
+            "y": 0,
+            "w": 567,
+            "h": 624
+          },
+          "contentBoundsInCell": {
+            "x": 84,
+            "y": 12,
+            "w": 431,
+            "h": 602
+          },
+          "suggestedPivotInCell": {
+            "x": 283,
+            "y": 613
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "attack",
+          "rect": {
+            "x": 0,
+            "y": 624,
+            "w": 654,
+            "h": 630
+          },
+          "contentBoundsInCell": {
+            "x": 41,
+            "y": 13,
+            "w": 576,
+            "h": 578
+          },
+          "suggestedPivotInCell": {
+            "x": 327,
+            "y": 590
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "hit",
+          "rect": {
+            "x": 654,
+            "y": 624,
+            "w": 600,
+            "h": 630
+          },
+          "contentBoundsInCell": {
+            "x": 38,
+            "y": 10,
+            "w": 513,
+            "h": 589
+          },
+          "suggestedPivotInCell": {
+            "x": 300,
+            "y": 598
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "approach": {
+          "frames": [
+            0,
+            1
+          ],
+          "fps": 6,
+          "loop": true
+        },
+        "attack": {
+          "frames": [
+            2
+          ],
+          "durationMs": 200,
+          "loop": false
+        },
+        "hit": {
+          "frames": [
+            3
+          ],
+          "durationMs": 160,
+          "loop": false
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "level2-01-boxi-arrival",
+      "kind": "background",
+      "file": "assets/backgrounds/level2-01-boxi-arrival.png",
+      "localPath": "public/assets/expansion/backgrounds/level2-01-boxi-arrival.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/backgrounds/level2-01-boxi-arrival.png",
+      "bytes": 3580879,
+      "sha256": "894a744167a25c943785607220e52453693eedc08083d6918e691267a3f80cf6",
+      "width": 1672,
+      "height": 941,
+      "hasAlphaChannel": false
+    },
+    {
+      "id": "level2-02-market-setup",
+      "kind": "background",
+      "file": "assets/backgrounds/level2-02-market-setup.png",
+      "localPath": "public/assets/expansion/backgrounds/level2-02-market-setup.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/backgrounds/level2-02-market-setup.png",
+      "bytes": 3320486,
+      "sha256": "d0fb809f78efcd8ff3e7a481cbab63394289fd6b9d9f2bc9620429541e83293b",
+      "width": 1672,
+      "height": 941,
+      "hasAlphaChannel": false
+    },
+    {
+      "id": "level2-03-granny-square",
+      "kind": "background",
+      "file": "assets/backgrounds/level2-03-granny-square.png",
+      "localPath": "public/assets/expansion/backgrounds/level2-03-granny-square.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/backgrounds/level2-03-granny-square.png",
+      "bytes": 3488671,
+      "sha256": "1ad41b23aaad0d5aeb9a3b975bade98e01a5d650f552b9294d93b18dbfcd65fb",
+      "width": 1672,
+      "height": 941,
+      "hasAlphaChannel": false
+    },
+    {
+      "id": "powerups-weapons-atlas",
+      "kind": "pickup-atlas",
+      "file": "assets/pickups/powerups-weapons-atlas.png",
+      "localPath": "public/assets/expansion/pickups/powerups-weapons-atlas.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/pickups/powerups-weapons-atlas.png",
+      "bytes": 2051337,
+      "sha256": "58b9da650e1878bfb94677403d8becc3ba731e1a2b0ca9ddcbec3ec592344383",
+      "width": 1536,
+      "height": 1024,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 914707,
+      "transparentFraction": 0.58156,
+      "grid": {
+        "columns": 3,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            542,
+            981,
+            1536
+          ],
+          [
+            0,
+            549,
+            1093,
+            1536
+          ]
+        ],
+        "yCuts": [
+          0,
+          535,
+          1024
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "health",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 542,
+            "h": 535
+          },
+          "contentBoundsInCell": {
+            "x": 61,
+            "y": 115,
+            "w": 439,
+            "h": 369
+          },
+          "suggestedPivotInCell": {
+            "x": 271,
+            "y": 267
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "ammo",
+          "rect": {
+            "x": 542,
+            "y": 0,
+            "w": 439,
+            "h": 535
+          },
+          "contentBoundsInCell": {
+            "x": 43,
+            "y": 97,
+            "w": 364,
+            "h": 403
+          },
+          "suggestedPivotInCell": {
+            "x": 219,
+            "y": 267
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "shotgun",
+          "rect": {
+            "x": 981,
+            "y": 0,
+            "w": 555,
+            "h": 535
+          },
+          "contentBoundsInCell": {
+            "x": 32,
+            "y": 187,
+            "w": 491,
+            "h": 293
+          },
+          "suggestedPivotInCell": {
+            "x": 277,
+            "y": 267
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "smg",
+          "rect": {
+            "x": 0,
+            "y": 535,
+            "w": 549,
+            "h": 489
+          },
+          "contentBoundsInCell": {
+            "x": 53,
+            "y": 57,
+            "w": 484,
+            "h": 358
+          },
+          "suggestedPivotInCell": {
+            "x": 274,
+            "y": 244
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 4,
+          "pose": "bass-cannon",
+          "rect": {
+            "x": 549,
+            "y": 535,
+            "w": 544,
+            "h": 489
+          },
+          "contentBoundsInCell": {
+            "x": 12,
+            "y": 49,
+            "w": 496,
+            "h": 354
+          },
+          "suggestedPivotInCell": {
+            "x": 272,
+            "y": 244
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 5,
+          "pose": "shield",
+          "rect": {
+            "x": 1093,
+            "y": 535,
+            "w": 443,
+            "h": 489
+          },
+          "contentBoundsInCell": {
+            "x": 36,
+            "y": 35,
+            "w": 341,
+            "h": 384
+          },
+          "suggestedPivotInCell": {
+            "x": 221,
+            "y": 244
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 512.0,
+        "height": 512.0
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    },
+    {
+      "id": "handbag-projectile-spin",
+      "kind": "animation-sheet",
+      "file": "assets/projectiles/handbag-projectile-spin.png",
+      "localPath": "public/assets/expansion/projectiles/handbag-projectile-spin.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/bunkerhain/expansion-v2/assets/projectiles/handbag-projectile-spin.png",
+      "bytes": 1600669,
+      "sha256": "779c2843e1ea086cb47e6288b90d317c9794e3d2b5d0d1ddfb8b90d80dbdc921",
+      "width": 1254,
+      "height": 1254,
+      "hasAlphaChannel": true,
+      "fullyTransparentPixels": 776466,
+      "transparentFraction": 0.49377,
+      "grid": {
+        "columns": 2,
+        "rows": 2,
+        "readingOrder": "row-major",
+        "xCutsByRow": [
+          [
+            0,
+            745,
+            1254
+          ],
+          [
+            0,
+            725,
+            1254
+          ]
+        ],
+        "yCuts": [
+          0,
+          620,
+          1254
+        ],
+        "note": "Two-dimensional layout, not necessarily equal cells. Use explicit frame.rect values; boundaries measured from clear alpha gutters."
+      },
+      "frames": [
+        {
+          "index": 0,
+          "pose": "front",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 745,
+            "h": 620
+          },
+          "contentBoundsInCell": {
+            "x": 58,
+            "y": 47,
+            "w": 631,
+            "h": 533
+          },
+          "suggestedPivotInCell": {
+            "x": 372,
+            "y": 310
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 1,
+          "pose": "right-side",
+          "rect": {
+            "x": 745,
+            "y": 0,
+            "w": 509,
+            "h": 620
+          },
+          "contentBoundsInCell": {
+            "x": 57,
+            "y": 47,
+            "w": 373,
+            "h": 555
+          },
+          "suggestedPivotInCell": {
+            "x": 254,
+            "y": 310
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 2,
+          "pose": "inverted",
+          "rect": {
+            "x": 0,
+            "y": 620,
+            "w": 725,
+            "h": 634
+          },
+          "contentBoundsInCell": {
+            "x": 55,
+            "y": 53,
+            "w": 620,
+            "h": 518
+          },
+          "suggestedPivotInCell": {
+            "x": 362,
+            "y": 317
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "pose": "left-side",
+          "rect": {
+            "x": 725,
+            "y": 620,
+            "w": 529,
+            "h": 634
+          },
+          "contentBoundsInCell": {
+            "x": 51,
+            "y": 18,
+            "w": 398,
+            "h": 553
+          },
+          "suggestedPivotInCell": {
+            "x": 264,
+            "y": 317
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "referencePixels": {
+        "width": 627.0,
+        "height": 627.0
+      },
+      "suggestedClips": {
+        "spin": {
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "fps": 12,
+          "loop": true
+        }
+      },
+      "geometryNote": "Frame rectangles follow clear alpha gutters; cells may have different sizes. Content bounds use alpha >16. Keep the SAME source-pixel-to-world scale across all frames, render rect.w/rect.h at that scale and offset by the frame pivot. Never normalize each frame to equal height or auto-fit opaque bounds. Pivots/clips are integration suggestions, not tested hitboxes."
+    }
+  ]
+}
