@@ -1,0 +1,1265 @@
+{
+  "zombie-mesh-gestures": {
+    "file": "/assets/expansion/animations/zombie-mesh-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 625,
+          "h": 633
+        },
+        "bounds": {
+          "x": 151,
+          "y": 10,
+          "w": 353,
+          "h": 605
+        },
+        "pivot": {
+          "x": 312,
+          "y": 614
+        }
+      },
+      {
+        "index": 1,
+        "pose": "step-reach",
+        "rect": {
+          "x": 625,
+          "y": 0,
+          "w": 629,
+          "h": 633
+        },
+        "bounds": {
+          "x": 122,
+          "y": 16,
+          "w": 405,
+          "h": 610
+        },
+        "pivot": {
+          "x": 314,
+          "y": 625
+        }
+      },
+      {
+        "index": 2,
+        "pose": "attack",
+        "rect": {
+          "x": 0,
+          "y": 633,
+          "w": 660,
+          "h": 621
+        },
+        "bounds": {
+          "x": 82,
+          "y": 7,
+          "w": 492,
+          "h": 601
+        },
+        "pivot": {
+          "x": 330,
+          "y": 607
+        }
+      },
+      {
+        "index": 3,
+        "pose": "hit",
+        "rect": {
+          "x": 660,
+          "y": 633,
+          "w": 594,
+          "h": 621
+        },
+        "bounds": {
+          "x": 87,
+          "y": 44,
+          "w": 411,
+          "h": 561
+        },
+        "pivot": {
+          "x": 297,
+          "y": 604
+        }
+      }
+    ],
+    "clips": {
+      "approach": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 6,
+        "loop": true
+      },
+      "attack": {
+        "frames": [
+          2
+        ],
+        "durationMs": 200,
+        "loop": false
+      },
+      "hit": {
+        "frames": [
+          3
+        ],
+        "durationMs": 160,
+        "loop": false
+      }
+    }
+  },
+  "zombie-tracksuit-gestures": {
+    "file": "/assets/expansion/animations/zombie-tracksuit-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 638,
+          "h": 626
+        },
+        "bounds": {
+          "x": 95,
+          "y": 34,
+          "w": 464,
+          "h": 563
+        },
+        "pivot": {
+          "x": 319,
+          "y": 596
+        }
+      },
+      {
+        "index": 1,
+        "pose": "step-reach",
+        "rect": {
+          "x": 638,
+          "y": 0,
+          "w": 616,
+          "h": 626
+        },
+        "bounds": {
+          "x": 80,
+          "y": 39,
+          "w": 458,
+          "h": 571
+        },
+        "pivot": {
+          "x": 308,
+          "y": 609
+        }
+      },
+      {
+        "index": 2,
+        "pose": "attack",
+        "rect": {
+          "x": 0,
+          "y": 626,
+          "w": 665,
+          "h": 628
+        },
+        "bounds": {
+          "x": 49,
+          "y": 17,
+          "w": 565,
+          "h": 576
+        },
+        "pivot": {
+          "x": 332,
+          "y": 592
+        }
+      },
+      {
+        "index": 3,
+        "pose": "hit",
+        "rect": {
+          "x": 665,
+          "y": 626,
+          "w": 589,
+          "h": 628
+        },
+        "bounds": {
+          "x": 52,
+          "y": 16,
+          "w": 476,
+          "h": 579
+        },
+        "pivot": {
+          "x": 294,
+          "y": 594
+        }
+      }
+    ],
+    "clips": {
+      "approach": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 6,
+        "loop": true
+      },
+      "attack": {
+        "frames": [
+          2
+        ],
+        "durationMs": 200,
+        "loop": false
+      },
+      "hit": {
+        "frames": [
+          3
+        ],
+        "durationMs": 160,
+        "loop": false
+      }
+    }
+  },
+  "zombie-punk-gestures": {
+    "file": "/assets/expansion/animations/zombie-punk-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 649,
+          "h": 648
+        },
+        "bounds": {
+          "x": 155,
+          "y": 95,
+          "w": 356,
+          "h": 485
+        },
+        "pivot": {
+          "x": 324,
+          "y": 579
+        }
+      },
+      {
+        "index": 1,
+        "pose": "step-reach",
+        "rect": {
+          "x": 649,
+          "y": 0,
+          "w": 605,
+          "h": 648
+        },
+        "bounds": {
+          "x": 138,
+          "y": 98,
+          "w": 330,
+          "h": 491
+        },
+        "pivot": {
+          "x": 302,
+          "y": 588
+        }
+      },
+      {
+        "index": 2,
+        "pose": "attack",
+        "rect": {
+          "x": 0,
+          "y": 648,
+          "w": 672,
+          "h": 606
+        },
+        "bounds": {
+          "x": 117,
+          "y": 59,
+          "w": 450,
+          "h": 457
+        },
+        "pivot": {
+          "x": 336,
+          "y": 515
+        }
+      },
+      {
+        "index": 3,
+        "pose": "hit",
+        "rect": {
+          "x": 672,
+          "y": 648,
+          "w": 582,
+          "h": 606
+        },
+        "bounds": {
+          "x": 105,
+          "y": 67,
+          "w": 390,
+          "h": 447
+        },
+        "pivot": {
+          "x": 291,
+          "y": 513
+        }
+      }
+    ],
+    "clips": {
+      "approach": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 6,
+        "loop": true
+      },
+      "attack": {
+        "frames": [
+          2
+        ],
+        "durationMs": 200,
+        "loop": false
+      },
+      "hit": {
+        "frames": [
+          3
+        ],
+        "durationMs": 160,
+        "loop": false
+      }
+    }
+  },
+  "zombie-dj-gestures": {
+    "file": "/assets/expansion/animations/zombie-dj-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 647,
+          "h": 633
+        },
+        "bounds": {
+          "x": 149,
+          "y": 42,
+          "w": 401,
+          "h": 576
+        },
+        "pivot": {
+          "x": 323,
+          "y": 617
+        }
+      },
+      {
+        "index": 1,
+        "pose": "rave",
+        "rect": {
+          "x": 647,
+          "y": 0,
+          "w": 607,
+          "h": 633
+        },
+        "bounds": {
+          "x": 97,
+          "y": 11,
+          "w": 430,
+          "h": 609
+        },
+        "pivot": {
+          "x": 303,
+          "y": 619
+        }
+      },
+      {
+        "index": 2,
+        "pose": "attack",
+        "rect": {
+          "x": 0,
+          "y": 633,
+          "w": 647,
+          "h": 621
+        },
+        "bounds": {
+          "x": 117,
+          "y": 22,
+          "w": 461,
+          "h": 555
+        },
+        "pivot": {
+          "x": 323,
+          "y": 576
+        }
+      },
+      {
+        "index": 3,
+        "pose": "hit",
+        "rect": {
+          "x": 647,
+          "y": 633,
+          "w": 607,
+          "h": 621
+        },
+        "bounds": {
+          "x": 70,
+          "y": 13,
+          "w": 466,
+          "h": 573
+        },
+        "pivot": {
+          "x": 303,
+          "y": 585
+        }
+      }
+    ],
+    "clips": {
+      "approach": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 6,
+        "loop": true
+      },
+      "attack": {
+        "frames": [
+          2
+        ],
+        "durationMs": 200,
+        "loop": false
+      },
+      "hit": {
+        "frames": [
+          3
+        ],
+        "durationMs": 160,
+        "loop": false
+      }
+    }
+  },
+  "civilian-yellow-gestures": {
+    "file": "/assets/expansion/animations/civilian-yellow-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 640,
+          "h": 676
+        },
+        "bounds": {
+          "x": 145,
+          "y": 71,
+          "w": 402,
+          "h": 587
+        },
+        "pivot": {
+          "x": 320,
+          "y": 657
+        }
+      },
+      {
+        "index": 1,
+        "pose": "warning",
+        "rect": {
+          "x": 640,
+          "y": 0,
+          "w": 614,
+          "h": 676
+        },
+        "bounds": {
+          "x": 93,
+          "y": 31,
+          "w": 423,
+          "h": 633
+        },
+        "pivot": {
+          "x": 307,
+          "y": 663
+        }
+      },
+      {
+        "index": 2,
+        "pose": "duck",
+        "rect": {
+          "x": 0,
+          "y": 676,
+          "w": 618,
+          "h": 578
+        },
+        "bounds": {
+          "x": 188,
+          "y": 54,
+          "w": 335,
+          "h": 449
+        },
+        "pivot": {
+          "x": 309,
+          "y": 502
+        }
+      },
+      {
+        "index": 3,
+        "pose": "escape",
+        "rect": {
+          "x": 618,
+          "y": 676,
+          "w": 636,
+          "h": 578
+        },
+        "bounds": {
+          "x": 95,
+          "y": 13,
+          "w": 503,
+          "h": 529
+        },
+        "pivot": {
+          "x": 318,
+          "y": 541
+        }
+      }
+    ],
+    "clips": {
+      "idle": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      },
+      "warning": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 4,
+        "loop": true
+      },
+      "duck": {
+        "frames": [
+          2
+        ],
+        "loop": false
+      },
+      "escape": {
+        "frames": [
+          3
+        ],
+        "loop": false
+      }
+    }
+  },
+  "civilian-turquoise-gestures": {
+    "file": "/assets/expansion/animations/civilian-turquoise-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 635,
+          "h": 635
+        },
+        "bounds": {
+          "x": 165,
+          "y": 39,
+          "w": 383,
+          "h": 573
+        },
+        "pivot": {
+          "x": 317,
+          "y": 611
+        }
+      },
+      {
+        "index": 1,
+        "pose": "warning",
+        "rect": {
+          "x": 635,
+          "y": 0,
+          "w": 619,
+          "h": 635
+        },
+        "bounds": {
+          "x": 87,
+          "y": 54,
+          "w": 488,
+          "h": 562
+        },
+        "pivot": {
+          "x": 309,
+          "y": 615
+        }
+      },
+      {
+        "index": 2,
+        "pose": "duck",
+        "rect": {
+          "x": 0,
+          "y": 635,
+          "w": 597,
+          "h": 619
+        },
+        "bounds": {
+          "x": 167,
+          "y": 96,
+          "w": 353,
+          "h": 456
+        },
+        "pivot": {
+          "x": 298,
+          "y": 551
+        }
+      },
+      {
+        "index": 3,
+        "pose": "escape",
+        "rect": {
+          "x": 597,
+          "y": 635,
+          "w": 657,
+          "h": 619
+        },
+        "bounds": {
+          "x": 78,
+          "y": 20,
+          "w": 536,
+          "h": 546
+        },
+        "pivot": {
+          "x": 328,
+          "y": 565
+        }
+      }
+    ],
+    "clips": {
+      "idle": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      },
+      "warning": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 4,
+        "loop": true
+      },
+      "duck": {
+        "frames": [
+          2
+        ],
+        "loop": false
+      },
+      "escape": {
+        "frames": [
+          3
+        ],
+        "loop": false
+      }
+    }
+  },
+  "techno-bat-flight": {
+    "file": "/assets/expansion/animations/techno-bat-flight.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "wings-up",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 605,
+          "h": 636
+        },
+        "bounds": {
+          "x": 45,
+          "y": 99,
+          "w": 552,
+          "h": 437
+        },
+        "pivot": {
+          "x": 302,
+          "y": 318
+        }
+      },
+      {
+        "index": 1,
+        "pose": "wings-mid-down",
+        "rect": {
+          "x": 605,
+          "y": 0,
+          "w": 649,
+          "h": 636
+        },
+        "bounds": {
+          "x": 8,
+          "y": 230,
+          "w": 623,
+          "h": 306
+        },
+        "pivot": {
+          "x": 324,
+          "y": 318
+        }
+      },
+      {
+        "index": 2,
+        "pose": "wings-down",
+        "rect": {
+          "x": 0,
+          "y": 636,
+          "w": 599,
+          "h": 618
+        },
+        "bounds": {
+          "x": 44,
+          "y": 101,
+          "w": 546,
+          "h": 368
+        },
+        "pivot": {
+          "x": 299,
+          "y": 309
+        }
+      },
+      {
+        "index": 3,
+        "pose": "wings-mid-up",
+        "rect": {
+          "x": 599,
+          "y": 636,
+          "w": 655,
+          "h": 618
+        },
+        "bounds": {
+          "x": 10,
+          "y": 101,
+          "w": 624,
+          "h": 313
+        },
+        "pivot": {
+          "x": 327,
+          "y": 309
+        }
+      }
+    ],
+    "clips": {
+      "flight": {
+        "frames": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "fps": 8,
+        "loop": true
+      }
+    }
+  },
+  "granny-handbag-attack": {
+    "file": "/assets/expansion/animations/granny-handbag-attack.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 636,
+          "h": 627
+        },
+        "bounds": {
+          "x": 45,
+          "y": 18,
+          "w": 547,
+          "h": 599
+        },
+        "pivot": {
+          "x": 318,
+          "y": 616
+        }
+      },
+      {
+        "index": 1,
+        "pose": "windup",
+        "rect": {
+          "x": 636,
+          "y": 0,
+          "w": 618,
+          "h": 627
+        },
+        "bounds": {
+          "x": 44,
+          "y": 33,
+          "w": 543,
+          "h": 587
+        },
+        "pivot": {
+          "x": 309,
+          "y": 619
+        }
+      },
+      {
+        "index": 2,
+        "pose": "release",
+        "rect": {
+          "x": 0,
+          "y": 627,
+          "w": 664,
+          "h": 627
+        },
+        "bounds": {
+          "x": 131,
+          "y": 7,
+          "w": 482,
+          "h": 571
+        },
+        "pivot": {
+          "x": 332,
+          "y": 577
+        }
+      },
+      {
+        "index": 3,
+        "pose": "recovery",
+        "rect": {
+          "x": 664,
+          "y": 627,
+          "w": 590,
+          "h": 627
+        },
+        "bounds": {
+          "x": 51,
+          "y": 19,
+          "w": 501,
+          "h": 559
+        },
+        "pivot": {
+          "x": 295,
+          "y": 577
+        }
+      }
+    ],
+    "clips": {
+      "idle": {
+        "frames": [
+          0
+        ],
+        "loop": true
+      },
+      "throw": {
+        "frames": [
+          1,
+          2,
+          3
+        ],
+        "frameDurationsMs": [
+          750,
+          180,
+          650
+        ],
+        "loop": false,
+        "spawnProjectileAtPose": "release"
+      }
+    }
+  },
+  "market-vendor-gestures": {
+    "file": "/assets/expansion/animations/market-vendor-gestures.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "idle",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 687,
+          "h": 624
+        },
+        "bounds": {
+          "x": 93,
+          "y": 17,
+          "w": 510,
+          "h": 590
+        },
+        "pivot": {
+          "x": 343,
+          "y": 606
+        }
+      },
+      {
+        "index": 1,
+        "pose": "step-reach",
+        "rect": {
+          "x": 687,
+          "y": 0,
+          "w": 567,
+          "h": 624
+        },
+        "bounds": {
+          "x": 84,
+          "y": 12,
+          "w": 431,
+          "h": 602
+        },
+        "pivot": {
+          "x": 283,
+          "y": 613
+        }
+      },
+      {
+        "index": 2,
+        "pose": "attack",
+        "rect": {
+          "x": 0,
+          "y": 624,
+          "w": 654,
+          "h": 630
+        },
+        "bounds": {
+          "x": 41,
+          "y": 13,
+          "w": 576,
+          "h": 578
+        },
+        "pivot": {
+          "x": 327,
+          "y": 590
+        }
+      },
+      {
+        "index": 3,
+        "pose": "hit",
+        "rect": {
+          "x": 654,
+          "y": 624,
+          "w": 600,
+          "h": 630
+        },
+        "bounds": {
+          "x": 38,
+          "y": 10,
+          "w": 513,
+          "h": 589
+        },
+        "pivot": {
+          "x": 300,
+          "y": 598
+        }
+      }
+    ],
+    "clips": {
+      "approach": {
+        "frames": [
+          0,
+          1
+        ],
+        "fps": 6,
+        "loop": true
+      },
+      "attack": {
+        "frames": [
+          2
+        ],
+        "durationMs": 200,
+        "loop": false
+      },
+      "hit": {
+        "frames": [
+          3
+        ],
+        "durationMs": 160,
+        "loop": false
+      }
+    }
+  },
+  "powerups-weapons-atlas": {
+    "file": "/assets/expansion/pickups/powerups-weapons-atlas.png",
+    "width": 1536,
+    "height": 1024,
+    "referencePixels": {
+      "width": 512,
+      "height": 512
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "health",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 542,
+          "h": 535
+        },
+        "bounds": {
+          "x": 61,
+          "y": 115,
+          "w": 439,
+          "h": 369
+        },
+        "pivot": {
+          "x": 271,
+          "y": 267
+        }
+      },
+      {
+        "index": 1,
+        "pose": "ammo",
+        "rect": {
+          "x": 542,
+          "y": 0,
+          "w": 439,
+          "h": 535
+        },
+        "bounds": {
+          "x": 43,
+          "y": 97,
+          "w": 364,
+          "h": 403
+        },
+        "pivot": {
+          "x": 219,
+          "y": 267
+        }
+      },
+      {
+        "index": 2,
+        "pose": "shotgun",
+        "rect": {
+          "x": 981,
+          "y": 0,
+          "w": 555,
+          "h": 535
+        },
+        "bounds": {
+          "x": 32,
+          "y": 187,
+          "w": 491,
+          "h": 293
+        },
+        "pivot": {
+          "x": 277,
+          "y": 267
+        }
+      },
+      {
+        "index": 3,
+        "pose": "smg",
+        "rect": {
+          "x": 0,
+          "y": 535,
+          "w": 549,
+          "h": 489
+        },
+        "bounds": {
+          "x": 53,
+          "y": 57,
+          "w": 484,
+          "h": 358
+        },
+        "pivot": {
+          "x": 274,
+          "y": 244
+        }
+      },
+      {
+        "index": 4,
+        "pose": "bass-cannon",
+        "rect": {
+          "x": 549,
+          "y": 535,
+          "w": 544,
+          "h": 489
+        },
+        "bounds": {
+          "x": 12,
+          "y": 49,
+          "w": 496,
+          "h": 354
+        },
+        "pivot": {
+          "x": 272,
+          "y": 244
+        }
+      },
+      {
+        "index": 5,
+        "pose": "shield",
+        "rect": {
+          "x": 1093,
+          "y": 535,
+          "w": 443,
+          "h": 489
+        },
+        "bounds": {
+          "x": 36,
+          "y": 35,
+          "w": 341,
+          "h": 384
+        },
+        "pivot": {
+          "x": 221,
+          "y": 244
+        }
+      }
+    ]
+  },
+  "handbag-projectile-spin": {
+    "file": "/assets/expansion/projectiles/handbag-projectile-spin.png",
+    "width": 1254,
+    "height": 1254,
+    "referencePixels": {
+      "width": 627,
+      "height": 627
+    },
+    "frames": [
+      {
+        "index": 0,
+        "pose": "front",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 745,
+          "h": 620
+        },
+        "bounds": {
+          "x": 58,
+          "y": 47,
+          "w": 631,
+          "h": 533
+        },
+        "pivot": {
+          "x": 372,
+          "y": 310
+        }
+      },
+      {
+        "index": 1,
+        "pose": "right-side",
+        "rect": {
+          "x": 745,
+          "y": 0,
+          "w": 509,
+          "h": 620
+        },
+        "bounds": {
+          "x": 57,
+          "y": 47,
+          "w": 373,
+          "h": 555
+        },
+        "pivot": {
+          "x": 254,
+          "y": 310
+        }
+      },
+      {
+        "index": 2,
+        "pose": "inverted",
+        "rect": {
+          "x": 0,
+          "y": 620,
+          "w": 725,
+          "h": 634
+        },
+        "bounds": {
+          "x": 55,
+          "y": 53,
+          "w": 620,
+          "h": 518
+        },
+        "pivot": {
+          "x": 362,
+          "y": 317
+        }
+      },
+      {
+        "index": 3,
+        "pose": "left-side",
+        "rect": {
+          "x": 725,
+          "y": 620,
+          "w": 529,
+          "h": 634
+        },
+        "bounds": {
+          "x": 51,
+          "y": 18,
+          "w": 398,
+          "h": 553
+        },
+        "pivot": {
+          "x": 264,
+          "y": 317
+        }
+      }
+    ],
+    "clips": {
+      "spin": {
+        "frames": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "fps": 12,
+        "loop": true
+      }
+    }
+  }
+}
