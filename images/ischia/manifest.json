@@ -1,0 +1,3915 @@
+{
+ "name": "MY CRAZY TRIP TO ISCHIA",
+ "milestone": "Level 1–8 Grafik + Intro",
+ "logicalResolution": [
+  1672,
+  941
+ ],
+ "backgrounds": [
+  {
+   "localPath": "public/assets/backgrounds/l1-01-jetbridge.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l1-01-jetbridge.png",
+   "bytes": 2256158,
+   "sha256": "c7f594d253c27388535abc16b839f7042cb00d475cdfe7cf02b79474c4590541",
+   "width": 1672,
+   "height": 941,
+   "label": "Station 1 Fluggastbrücke (Tutorial)"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l1-02-passport.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l1-02-passport.png",
+   "bytes": 1925815,
+   "sha256": "fad7a716fcae87bee0224b4d3cbfb6976d39f3e84d5a8d509e7c6dbf93f54210",
+   "width": 1672,
+   "height": 941,
+   "label": "Station 2 Grenzkontrolle"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l1-03-baggage.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l1-03-baggage.png",
+   "bytes": 2216505,
+   "sha256": "cc5f6f386b4522334e025add7b6fb19f78714543980db0795a1c05abaace8c1f",
+   "width": 1672,
+   "height": 941,
+   "label": "Station 3 Gepäckausgabe (Sub-Boss)"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l1-04-exit.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l1-04-exit.png",
+   "bytes": 2121795,
+   "sha256": "7e5ff3138ccd34ac7acac2dfc8f8facc6d3a0164448ffe91c68749eebad8728a",
+   "width": 1672,
+   "height": 941,
+   "label": "Station 4 Ausgang"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l1-05-forecourt.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l1-05-forecourt.png",
+   "bytes": 2176932,
+   "sha256": "b39591a7c2237f45f48cde7b3626ebab3c2a7251af7cf47f49af75c27724a549",
+   "width": 1672,
+   "height": 941,
+   "label": "Station 5 Vorplatz (Boss)"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l2-01-gate.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l2-01-gate.png",
+   "bytes": 2486637,
+   "sha256": "9f82aecc9ba31bd94e0caf1b7dcf71e26af9f87b72bf0469ed9f9ec6f7e12f33",
+   "width": 1672,
+   "height": 941,
+   "label": "L2 NATO-Basis (erfunden) · Zaun/Schranke"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l2-02-hangar.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l2-02-hangar.png",
+   "bytes": 2055182,
+   "sha256": "807faac3be67675526dafd50c9a7612ffb7c41bb4b05b1630088a3ceed1393dd",
+   "width": 1672,
+   "height": 941,
+   "label": "L2 Hangar"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l2-03-motorpool.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l2-03-motorpool.png",
+   "bytes": 2010320,
+   "sha256": "31633cfd39a3e37cfcc6e9e2f9c0b20c60fb8a452eb49bab09adef6e631e632a",
+   "width": 1672,
+   "height": 941,
+   "label": "L2 Fahrzeughof · Boss"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l3-01-quartieri.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l3-01-quartieri.png",
+   "bytes": 2232702,
+   "sha256": "0aaca54ef8482a73a567552ac972c2dfa8ac6f3899be40dd9ddbabbfb2ae1270",
+   "width": 1672,
+   "height": 941,
+   "label": "L3 Fahrt Quartieri Spagnoli"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l3-02-lungomare.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l3-02-lungomare.png",
+   "bytes": 2088278,
+   "sha256": "f22ad04fd1cbcf555e90510050da6bb45708325111ad7a38f96b94764aec08ea",
+   "width": 1672,
+   "height": 941,
+   "label": "L3 Fahrt Lungomare"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l3-03-stadium-street.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l3-03-stadium-street.png",
+   "bytes": 2360976,
+   "sha256": "ffe7ae9ecdf451e393c813e9222b87e600354390549f5823dbc6dd7ce1cf35f1",
+   "width": 1672,
+   "height": 941,
+   "label": "L3 vor dem Stadion"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l3-04-stadium.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l3-04-stadium.png",
+   "bytes": 2399489,
+   "sha256": "1c0a0b132239cecebb37ea0eb135b569e439eb90e8350c91fb6bb4a4095003bd",
+   "width": 1672,
+   "height": 941,
+   "label": "L3 Stadion · Boss El Diez"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l4-01-molo.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l4-01-molo.png",
+   "bytes": 1899510,
+   "sha256": "307d853a58f553f0a65041226eda978c197c1d7c394d651e31ed554c2e8ef552",
+   "width": 1672,
+   "height": 941,
+   "label": "L4 Molo/Fähranleger"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l4-02-containers.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l4-02-containers.png",
+   "bytes": 2031794,
+   "sha256": "ca9d9a59de3f527a92b7ff30b1c499edd66f4003469a5b358dd00359f97b2df9",
+   "width": 1672,
+   "height": 941,
+   "label": "L4 Containerterminal"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l4-03-maritime.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l4-03-maritime.png",
+   "bytes": 2094592,
+   "sha256": "51eb04c3432b52b000660293d97eee62b909042db960141a983ff9ce88111bbc",
+   "width": 1672,
+   "height": 941,
+   "label": "L4 Stazione Marittima · Boss"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l5-01-deck.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l5-01-deck.png",
+   "bytes": 2249389,
+   "sha256": "d4830221dfb4f8a618e0bbfda000d149b3f7530a6355cd6c8ec59032a51ce1b9",
+   "width": 1672,
+   "height": 941,
+   "label": "L5 Fähre Oberdeck"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l5-02-cabin.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l5-02-cabin.png",
+   "bytes": 2122770,
+   "sha256": "2f5504614fc625fc65e5a959e6934eb16e8d8ca85e8e712736afc88ad5009e80",
+   "width": 1672,
+   "height": 941,
+   "label": "L5 Fähre Kabine/Bar"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l5-03-stern.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l5-03-stern.png",
+   "bytes": 2355329,
+   "sha256": "f9e0f6c954f6a32ac7d2b5f0e88d19935561de368290e3913f7f05bcb11f80d9",
+   "width": 1672,
+   "height": 941,
+   "label": "L5 Fähre Heck · Boss"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l6-01-porto.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l6-01-porto.png",
+   "bytes": 2183129,
+   "sha256": "6a6e303d3e998f9d563f61cce02950a5a2eeea5b3b10694ee229fbc6cb6ed17d",
+   "width": 1672,
+   "height": 941,
+   "label": "L6 Ischia Porto"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l6-02-lane.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l6-02-lane.png",
+   "bytes": 2021619,
+   "sha256": "388c7f9405caf0e3b68cf4d90c86e1c60093fcaa0a84a80405ba110eafac3af4",
+   "width": 1672,
+   "height": 941,
+   "label": "L6 Gasse Lavastein"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l6-03-stairs.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l6-03-stairs.png",
+   "bytes": 2143398,
+   "sha256": "6ee5f61e48f0f087c854d6107489ce1c9f05d517e59e09981501f71694397f94",
+   "width": 1672,
+   "height": 941,
+   "label": "L6 Treppengasse"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l6-04-ponte.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l6-04-ponte.png",
+   "bytes": 2079105,
+   "sha256": "a2b2499330e9bbb4c8f2d32d3e6df59281e38047aee813a1043aa46cccdc1d0b",
+   "width": 1672,
+   "height": 941,
+   "label": "L6 Ischia Ponte · Boss"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l7-01-causeway.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l7-01-causeway.png",
+   "bytes": 1972496,
+   "sha256": "8940adb74b3572e302d7544983918a2c641637e83b962aa4b68d196f0202d264",
+   "width": 1672,
+   "height": 941,
+   "label": "L7 Pontile"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l7-02-rock.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l7-02-rock.png",
+   "bytes": 2231606,
+   "sha256": "df5fa93cbc5717ef5aa78d5916c3107fa640f5cee0b337008855c60c30507429",
+   "width": 1672,
+   "height": 941,
+   "label": "L7 Burgfelsen"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l7-03-gate.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l7-03-gate.png",
+   "bytes": 2055016,
+   "sha256": "0890a6e9278631c6abe8e9843ae5eab8b3942375451cabf40efeed12db5823b9",
+   "width": 1672,
+   "height": 941,
+   "label": "L7 Burgtor · Boss"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l8-01-tunnel.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l8-01-tunnel.png",
+   "bytes": 2174847,
+   "sha256": "970286e1e31ac1ac345f2e2919217904d84f6cda28cef5197bcdbbe7e45425d0",
+   "width": 1672,
+   "height": 941,
+   "label": "L8 Felstunnel"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l8-02-passage.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l8-02-passage.png",
+   "bytes": 2398317,
+   "sha256": "08c07b89cda8734d4b6f90ff4b3ddde4e31b74c5d3ff36102cb0c27b2b4f11c8",
+   "width": 1672,
+   "height": 941,
+   "label": "L8 Mauergang"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l8-03-terrace.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l8-03-terrace.png",
+   "bytes": 2187343,
+   "sha256": "25c2e69a34b762493d8f4fbe233242c26e2d4e0f47c2bbf17a01e803f52f616b",
+   "width": 1672,
+   "height": 941,
+   "label": "L8 Terrasse"
+  },
+  {
+   "localPath": "public/assets/backgrounds/l8-04-summit.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/backgrounds/l8-04-summit.png",
+   "bytes": 2262996,
+   "sha256": "b2a764b8605ad497fb24258317e733fc04ce63454374e4b783f9dd868dacb2bf",
+   "width": 1672,
+   "height": 941,
+   "label": "L8 Gipfel · Finale Mr. Burna"
+  }
+ ],
+ "sheets": [
+  {
+   "localPath": "public/assets/sprites/staff-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/staff-zombie.png",
+   "bytes": 1183605,
+   "sha256": "2a032defbc4a5d0c0f365dfbe4a9e080e1a39ea9c9eb9601e7859e590c6ef836",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 95,
+      "y": 35,
+      "w": 461,
+      "h": 562
+     },
+     "pivot": {
+      "x": 325,
+      "y": 597
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "step-reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 120,
+      "y": 38,
+      "w": 439,
+      "h": 556
+     },
+     "pivot": {
+      "x": 339,
+      "y": 594
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 119,
+      "y": 14,
+      "w": 501,
+      "h": 577
+     },
+     "pivot": {
+      "x": 369,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 91,
+      "y": 15,
+      "w": 469,
+      "h": 579
+     },
+     "pivot": {
+      "x": 325,
+      "y": 594
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "Flughafenpersonal, Nahkampf mit Einweiser-Stab.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/nonna-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/nonna-zombie.png",
+   "bytes": 940024,
+   "sha256": "903f09931c4a82bd81763b336641e159659bcac8f9243c9749b051fd0a4e0d06",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-meatball",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 172,
+      "y": 43,
+      "w": 302,
+      "h": 556
+     },
+     "pivot": {
+      "x": 323,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 119,
+      "y": 51,
+      "w": 431,
+      "h": 549
+     },
+     "pivot": {
+      "x": 334,
+      "y": 600
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 65,
+      "y": 27,
+      "w": 521,
+      "h": 559
+     },
+     "pivot": {
+      "x": 325,
+      "y": 586
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 44,
+      "y": 27,
+      "w": 527,
+      "h": 562
+     },
+     "pivot": {
+      "x": 307,
+      "y": 589
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "Werferin. Fleischbällchen nur in idle-meatball sichtbar; Projektil 'meatball' erst bei release erzeugen. reach dient als Ausholpose.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/polizia-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/polizia-zombie.png",
+   "bytes": 1022493,
+   "sha256": "a1821aafd9f723ca38af6c9a66eb3689a5870aec82635d0f992392563e0d2bdb",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 126,
+      "y": 35,
+      "w": 409,
+      "h": 589
+     },
+     "pivot": {
+      "x": 330,
+      "y": 624
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "step-reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 96,
+      "y": 38,
+      "w": 447,
+      "h": 586
+     },
+     "pivot": {
+      "x": 319,
+      "y": 624
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 108,
+      "y": 9,
+      "w": 505,
+      "h": 593
+     },
+     "pivot": {
+      "x": 360,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 93,
+      "y": 18,
+      "w": 459,
+      "h": 592
+     },
+     "pivot": {
+      "x": 322,
+      "y": 610
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "Fiktive Uniform, keine echten Abzeichen.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/tourist-woman.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/tourist-woman.png",
+   "bytes": 682796,
+   "sha256": "3a36dc4175d149eb3d7db3df34704bf4189b07500eeab9ccf0796d00cb03fa33",
+   "width": 1254,
+   "height": 1254,
+   "kind": "civilian",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 200,
+      "y": 42,
+      "w": 309,
+      "h": 557
+     },
+     "pivot": {
+      "x": 354,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "warning",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 102,
+      "y": 39,
+      "w": 418,
+      "h": 560
+     },
+     "pivot": {
+      "x": 311,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "duck",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 196,
+      "y": 49,
+      "w": 279,
+      "h": 526
+     },
+     "pivot": {
+      "x": 335,
+      "y": 575
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "escape",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 112,
+      "y": 49,
+      "w": 373,
+      "h": 520
+     },
+     "pivot": {
+      "x": 298,
+      "y": 569
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "idle": [
+     0
+    ],
+    "warn": [
+     0,
+     1
+    ],
+    "duck": [
+     2
+    ],
+    "escape": [
+     3
+    ]
+   },
+   "notes": "Lebende Touristin – NICHT schießen (Herz + Sonderwaffe weg).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/tourist-man.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/tourist-man.png",
+   "bytes": 625883,
+   "sha256": "fe99b3a3a5b57df6a0cf98d3216aa95ba8ab2c887021d56cdcfc5746477e1b62",
+   "width": 1254,
+   "height": 1254,
+   "kind": "civilian",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 216,
+      "y": 42,
+      "w": 240,
+      "h": 557
+     },
+     "pivot": {
+      "x": 336,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "warning",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 160,
+      "y": 42,
+      "w": 265,
+      "h": 557
+     },
+     "pivot": {
+      "x": 292,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "duck",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 196,
+      "y": 49,
+      "w": 279,
+      "h": 526
+     },
+     "pivot": {
+      "x": 335,
+      "y": 575
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "escape",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 112,
+      "y": 49,
+      "w": 374,
+      "h": 520
+     },
+     "pivot": {
+      "x": 299,
+      "y": 569
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "idle": [
+     0
+    ],
+    "warn": [
+     0,
+     1
+    ],
+    "duck": [
+     2
+    ],
+    "escape": [
+     3
+    ]
+   },
+   "notes": "Lebender Tourist – NICHT schießen.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/monk.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/monk.png",
+   "bytes": 1000925,
+   "sha256": "8b5fd417d33e10038507e26c65dd7675d1af8dbe079111c009db6ac64e6605cf",
+   "width": 1254,
+   "height": 1254,
+   "kind": "helper",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "run-a",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 116,
+      "y": 54,
+      "w": 390,
+      "h": 521
+     },
+     "pivot": {
+      "x": 311,
+      "y": 575
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "run-b",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 85,
+      "y": 54,
+      "w": 400,
+      "h": 521
+     },
+     "pivot": {
+      "x": 285,
+      "y": 575
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "toss",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 111,
+      "y": 1,
+      "w": 399,
+      "h": 568
+     },
+     "pivot": {
+      "x": 310,
+      "y": 569
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "cheer",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 72,
+      "y": 28,
+      "w": 443,
+      "h": 541
+     },
+     "pivot": {
+      "x": 293,
+      "y": 569
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "run": [
+     0,
+     1
+    ],
+    "toss": [
+     2
+    ],
+    "cheer": [
+     3
+    ]
+   },
+   "notes": "Fraticello: läuft durchs Bild, Treffer = Drop aus items/weapons.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/baggage-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/baggage-boss.png",
+   "bytes": 1240401,
+   "sha256": "783c7537af07fcf066c1e67c9fab475329d96aecb2f362889b38ac8509cdf424",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 139,
+      "y": 47,
+      "w": 383,
+      "h": 546
+     },
+     "pivot": {
+      "x": 330,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 110,
+      "y": 0,
+      "w": 390,
+      "h": 592
+     },
+     "pivot": {
+      "x": 305,
+      "y": 592
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 80,
+      "y": 8,
+      "w": 509,
+      "h": 571
+     },
+     "pivot": {
+      "x": 334,
+      "y": 579
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 106,
+      "y": 17,
+      "w": 420,
+      "h": 571
+     },
+     "pivot": {
+      "x": 316,
+      "y": 588
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "idle": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hurt": [
+     3
+    ]
+   },
+   "notes": "Sub-Boss Gepäck-Koloss. Projektil 'suitcase' bei release. windup berührt die Zelloberkante (Koffer über dem Kopf) – Pivot trotzdem Fußpunkt.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/customs-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/customs-boss.png",
+   "bytes": 1204615,
+   "sha256": "1473a27c11e2aa79977a16b5fc32117859ce404799e98a529aec97499ba788f8",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "p1-idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 84,
+      "y": 39,
+      "w": 425,
+      "h": 555
+     },
+     "pivot": {
+      "x": 296,
+      "y": 594
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "p1-attack",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 71,
+      "y": 60,
+      "w": 480,
+      "h": 539
+     },
+     "pivot": {
+      "x": 311,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "p2-rage",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 29,
+      "y": 25,
+      "w": 565,
+      "h": 566
+     },
+     "pivot": {
+      "x": 311,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "p2-hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 50,
+      "y": 35,
+      "w": 529,
+      "h": 557
+     },
+     "pivot": {
+      "x": 314,
+      "y": 592
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "p1": [
+     0,
+     1
+    ],
+    "p2": [
+     2,
+     3
+    ]
+   },
+   "notes": "Boss Zoll-Kommandant, Phase 2 ab 50 % HP (mutiert).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/projectiles.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/projectiles.png",
+   "bytes": 968140,
+   "sha256": "a34d7bbadb5206060edba6e589d44eddabd95c2cec6a7d91b9deae4456e82263",
+   "width": 1254,
+   "height": 1254,
+   "kind": "projectile",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "meatball",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 94,
+      "y": 100,
+      "w": 444,
+      "h": 423
+     },
+     "pivot": {
+      "x": 316,
+      "y": 523
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "parmesao",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 127,
+      "y": 94,
+      "w": 373,
+      "h": 440
+     },
+     "pivot": {
+      "x": 313,
+      "y": 534
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "suitcase",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 73,
+      "y": 78,
+      "w": 481,
+      "h": 461
+     },
+     "pivot": {
+      "x": 313,
+      "y": 539
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "pizza-ananas",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 59,
+      "y": 88,
+      "w": 514,
+      "h": 452
+     },
+     "pivot": {
+      "x": 316,
+      "y": 540
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {},
+   "notes": "Ein Motiv pro Zelle; Drehung im Code. PARMESAO = gefälschtes Produkt, Pizza mit Ananas = amerikanisiertes Produkt.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/items.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/items.png",
+   "bytes": 501988,
+   "sha256": "ce25a4f59f1b6aba0ee583faf849deaec80ccccae14f75d6648770086d547acf",
+   "width": 1254,
+   "height": 836,
+   "kind": "pickup",
+   "grid": [
+    3,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "chili",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 63,
+      "y": 31,
+      "w": 268,
+      "h": 307
+     },
+     "pivot": {
+      "x": 197,
+      "y": 338
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "zingara",
+     "rect": {
+      "x": 418,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 14,
+      "y": 51,
+      "w": 389,
+      "h": 296
+     },
+     "pivot": {
+      "x": 208,
+      "y": 347
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "melloncello",
+     "rect": {
+      "x": 836,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 154,
+      "y": 24,
+      "w": 111,
+      "h": 369
+     },
+     "pivot": {
+      "x": 209,
+      "y": 393
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "limoncello",
+     "rect": {
+      "x": 0,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 139,
+      "y": 18,
+      "w": 151,
+      "h": 381
+     },
+     "pivot": {
+      "x": 214,
+      "y": 399
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 4,
+     "pose": "chinotto",
+     "rect": {
+      "x": 418,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 147,
+      "y": 38,
+      "w": 124,
+      "h": 349
+     },
+     "pivot": {
+      "x": 209,
+      "y": 387
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 5,
+     "pose": "ampolla",
+     "rect": {
+      "x": 836,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 130,
+      "y": 31,
+      "w": 160,
+      "h": 359
+     },
+     "pivot": {
+      "x": 210,
+      "y": 390
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {},
+   "notes": "Mönch-Drops/HUD-Icons. ampolla = Sammelobjekt (3 pro Spiel).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/weapons.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/weapons.png",
+   "bytes": 1149355,
+   "sha256": "33000865407cdee80029f96a2bf747f12ad2e68ef8d23d53fd9a8c9f06a9f0c8",
+   "width": 1254,
+   "height": 1254,
+   "kind": "pickup",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "shotgun",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 38,
+      "y": 39,
+      "w": 531,
+      "h": 554
+     },
+     "pivot": {
+      "x": 303,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "smg",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 49,
+      "y": 103,
+      "w": 549,
+      "h": 432
+     },
+     "pivot": {
+      "x": 323,
+      "y": 535
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "vesuvio",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 83,
+      "y": 85,
+      "w": 466,
+      "h": 491
+     },
+     "pivot": {
+      "x": 316,
+      "y": 576
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "ammo",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 48,
+      "y": 47,
+      "w": 519,
+      "h": 519
+     },
+     "pivot": {
+      "x": 307,
+      "y": 566
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {},
+   "notes": "Waffen-Pickups/HUD-Icons, keine First-Person-Ansicht.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/carabiniere-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/carabiniere-zombie.png",
+   "bytes": 1075408,
+   "sha256": "a5742debc982c610cf0c204dbec6f4b7c984498755c3e21d3d0681a2b0fdd067",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 154,
+      "y": 38,
+      "w": 336,
+      "h": 565
+     },
+     "pivot": {
+      "x": 322,
+      "y": 603
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "step-reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 95,
+      "y": 40,
+      "w": 454,
+      "h": 571
+     },
+     "pivot": {
+      "x": 322,
+      "y": 611
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 115,
+      "y": 16,
+      "w": 440,
+      "h": 577
+     },
+     "pivot": {
+      "x": 335,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 91,
+      "y": 15,
+      "w": 470,
+      "h": 578
+     },
+     "pivot": {
+      "x": 326,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L2/L3 · fiktive Uniform.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/soldier-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/soldier-zombie.png",
+   "bytes": 1046212,
+   "sha256": "31bb63ffc5426a979ab86c115f1022d82990fb23bd90087192a2abe325ed63c1",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 93,
+      "y": 30,
+      "w": 466,
+      "h": 568
+     },
+     "pivot": {
+      "x": 326,
+      "y": 598
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "step-reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 101,
+      "y": 34,
+      "w": 448,
+      "h": 574
+     },
+     "pivot": {
+      "x": 325,
+      "y": 608
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 19,
+      "y": 14,
+      "w": 583,
+      "h": 579
+     },
+     "pivot": {
+      "x": 310,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 91,
+      "y": 14,
+      "w": 468,
+      "h": 580
+     },
+     "pivot": {
+      "x": 325,
+      "y": 594
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L2 · Wachposten, fiktive Uniform ohne Abzeichen.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/business-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/business-zombie.png",
+   "bytes": 812600,
+   "sha256": "37a08affa38b84c4373516e2255f1c8086018e20aab6cdebabf037f735e16397",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 154,
+      "y": 27,
+      "w": 383,
+      "h": 587
+     },
+     "pivot": {
+      "x": 345,
+      "y": 614
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 113,
+      "y": 35,
+      "w": 451,
+      "h": 579
+     },
+     "pivot": {
+      "x": 338,
+      "y": 614
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 35,
+      "y": 16,
+      "w": 571,
+      "h": 584
+     },
+     "pivot": {
+      "x": 320,
+      "y": 600
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 140,
+      "y": 16,
+      "w": 307,
+      "h": 584
+     },
+     "pivot": {
+      "x": 293,
+      "y": 600
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L3/L4 · wirft Espressokapsel (projectiles2).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/proll-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/proll-zombie.png",
+   "bytes": 1539549,
+   "sha256": "d67e02e89a4cfd47e10b05847261b9320cc69bb818aa7e534100fc1eba5173c8",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 95,
+      "y": 33,
+      "w": 464,
+      "h": 564
+     },
+     "pivot": {
+      "x": 327,
+      "y": 597
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 116,
+      "y": 35,
+      "w": 431,
+      "h": 592
+     },
+     "pivot": {
+      "x": 331,
+      "y": 627
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 50,
+      "y": 11,
+      "w": 577,
+      "h": 581
+     },
+     "pivot": {
+      "x": 338,
+      "y": 592
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 0,
+      "y": 0,
+      "w": 566,
+      "h": 594
+     },
+     "pivot": {
+      "x": 283,
+      "y": 594
+     },
+     "touchesCellEdge": true
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L3/L6 · wirft Fake-Sonnenbrille (projectiles2).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/pizzaiolo-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/pizzaiolo-zombie.png",
+   "bytes": 1159876,
+   "sha256": "15b50b6d339c038322b3193677ec5988d297d3dd696ed75d8eab55aabcfe6371",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 93,
+      "y": 26,
+      "w": 462,
+      "h": 565
+     },
+     "pivot": {
+      "x": 324,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 81,
+      "y": 27,
+      "w": 376,
+      "h": 589
+     },
+     "pivot": {
+      "x": 269,
+      "y": 616
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 43,
+      "y": 9,
+      "w": 554,
+      "h": 583
+     },
+     "pivot": {
+      "x": 320,
+      "y": 592
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 89,
+      "y": 15,
+      "w": 472,
+      "h": 577
+     },
+     "pivot": {
+      "x": 325,
+      "y": 592
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L3 · wirft Ananas-Pizza (projectiles).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/dock-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/dock-zombie.png",
+   "bytes": 1030140,
+   "sha256": "8b242a03bf51de045d6224b6fbecc0232592a33452f70c4ac3655af738985337",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 98,
+      "y": 36,
+      "w": 461,
+      "h": 561
+     },
+     "pivot": {
+      "x": 328,
+      "y": 597
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "step-reach",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 98,
+      "y": 36,
+      "w": 450,
+      "h": 573
+     },
+     "pivot": {
+      "x": 323,
+      "y": 609
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 38,
+      "y": 17,
+      "w": 589,
+      "h": 576
+     },
+     "pivot": {
+      "x": 332,
+      "y": 593
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 0,
+      "y": 11,
+      "w": 582,
+      "h": 588
+     },
+     "pivot": {
+      "x": 291,
+      "y": 599
+     },
+     "touchesCellEdge": true
+    }
+   ],
+   "clips": {
+    "walk": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L4 · Hafenarbeiter.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/ferry-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/ferry-zombie.png",
+   "bytes": 934387,
+   "sha256": "f3a469590dc2b5cf30bc32cd030cb14e9ddf9b8bc6565e755eb18d6cbbb7134e",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 136,
+      "y": 40,
+      "w": 365,
+      "h": 545
+     },
+     "pivot": {
+      "x": 318,
+      "y": 585
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 136,
+      "y": 40,
+      "w": 383,
+      "h": 553
+     },
+     "pivot": {
+      "x": 327,
+      "y": 593
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 97,
+      "y": 19,
+      "w": 483,
+      "h": 545
+     },
+     "pivot": {
+      "x": 338,
+      "y": 564
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 123,
+      "y": 9,
+      "w": 441,
+      "h": 569
+     },
+     "pivot": {
+      "x": 343,
+      "y": 578
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L4/L5 · Fährcrew, wirft Rettungsring (im Bild, kein eigenes Projektil).",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/vespa-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/vespa-zombie.png",
+   "bytes": 1243937,
+   "sha256": "099bcb6277ad14310bef186f653d57f2f34d899b8c018dbfc620ec829a6771f5",
+   "width": 1254,
+   "height": 1254,
+   "kind": "vehicle",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "far",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 170,
+      "y": 67,
+      "w": 288,
+      "h": 519
+     },
+     "pivot": {
+      "x": 314,
+      "y": 586
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "near",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 135,
+      "y": 46,
+      "w": 339,
+      "h": 527
+     },
+     "pivot": {
+      "x": 304,
+      "y": 573
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "attack",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 102,
+      "y": 45,
+      "w": 469,
+      "h": 550
+     },
+     "pivot": {
+      "x": 336,
+      "y": 595
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "wreck",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 35,
+      "y": 14,
+      "w": 540,
+      "h": 569
+     },
+     "pivot": {
+      "x": 305,
+      "y": 583
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "drive": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "wreck": [
+     3
+    ]
+   },
+   "notes": "L3/L6 · Fahrzeuggegner, kommt frontal.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/ape-car.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/ape-car.png",
+   "bytes": 988759,
+   "sha256": "0c7f4818c7103677f3f33dfb0cea8e41024d4474df787cfd5d2882138c739da9",
+   "width": 1254,
+   "height": 1254,
+   "kind": "vehicle",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "far",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 180,
+      "y": 90,
+      "w": 280,
+      "h": 472
+     },
+     "pivot": {
+      "x": 320,
+      "y": 562
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "near",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 107,
+      "y": 98,
+      "w": 428,
+      "h": 455
+     },
+     "pivot": {
+      "x": 321,
+      "y": 553
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "ram",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 36,
+      "y": 82,
+      "w": 561,
+      "h": 462
+     },
+     "pivot": {
+      "x": 316,
+      "y": 544
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "wreck",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 16,
+      "y": 63,
+      "w": 573,
+      "h": 496
+     },
+     "pivot": {
+      "x": 302,
+      "y": 559
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "drive": [
+     0,
+     1
+    ],
+    "attack": [
+     2
+    ],
+    "wreck": [
+     3
+    ]
+   },
+   "notes": "L3 · Ape-Dreirad, Sub-Boss-Kolonne.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/ultras-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/ultras-zombie.png",
+   "bytes": 999062,
+   "sha256": "7b7240800a2aad9b334857ea9719c7c81aef12913bf71d1d95021017979b7a59",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 95,
+      "y": 19,
+      "w": 401,
+      "h": 585
+     },
+     "pivot": {
+      "x": 295,
+      "y": 604
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 64,
+      "y": 39,
+      "w": 519,
+      "h": 564
+     },
+     "pivot": {
+      "x": 323,
+      "y": 603
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 93,
+      "y": 14,
+      "w": 500,
+      "h": 577
+     },
+     "pivot": {
+      "x": 343,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 7,
+      "y": 42,
+      "w": 576,
+      "h": 546
+     },
+     "pivot": {
+      "x": 295,
+      "y": 588
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L3 · Schergen von El Diez, werfen Rauchfackel.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/suora-zombie.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/suora-zombie.png",
+   "bytes": 1028266,
+   "sha256": "8d4ada05e38c7185114d0634125df707b9646208ff0158cc690bde8a2d7d09aa",
+   "width": 1254,
+   "height": 1254,
+   "kind": "enemy",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle-projectile",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 144,
+      "y": 40,
+      "w": 435,
+      "h": 587
+     },
+     "pivot": {
+      "x": 361,
+      "y": 627
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 154,
+      "y": 40,
+      "w": 377,
+      "h": 551
+     },
+     "pivot": {
+      "x": 342,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 53,
+      "y": 0,
+      "w": 559,
+      "h": 588
+     },
+     "pivot": {
+      "x": 332,
+      "y": 588
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 3,
+     "pose": "hit",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 47,
+      "y": 14,
+      "w": 482,
+      "h": 572
+     },
+     "pivot": {
+      "x": 288,
+      "y": 586
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L8 · Sub-Boss Gefängnis-Nonne, wirft Gesangbuch.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/sergente-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/sergente-boss.png",
+   "bytes": 1109701,
+   "sha256": "aa34f68a57f36319a88b2ec275a93e4bcf485487cbd615b080dfad58c3c25ca2",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 84,
+      "y": 33,
+      "w": 471,
+      "h": 564
+     },
+     "pivot": {
+      "x": 319,
+      "y": 597
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 126,
+      "y": 39,
+      "w": 444,
+      "h": 561
+     },
+     "pivot": {
+      "x": 348,
+      "y": 600
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 43,
+      "y": 14,
+      "w": 584,
+      "h": 566
+     },
+     "pivot": {
+      "x": 335,
+      "y": 580
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 0,
+      "y": 10,
+      "w": 594,
+      "h": 573
+     },
+     "pivot": {
+      "x": 297,
+      "y": 583
+     },
+     "touchesCellEdge": true
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L2 Boss.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/eldiez-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/eldiez-boss.png",
+   "bytes": 1276648,
+   "sha256": "8b222dc489c4f7010294fa78dcdcc55f8384d115b6d6bd87c36d88b93ee4126a",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "p1-juggle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 49,
+      "y": 34,
+      "w": 502,
+      "h": 568
+     },
+     "pivot": {
+      "x": 300,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "p1-kick",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 68,
+      "y": 33,
+      "w": 529,
+      "h": 570
+     },
+     "pivot": {
+      "x": 332,
+      "y": 603
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "p2-hand",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 43,
+      "y": 4,
+      "w": 560,
+      "h": 594
+     },
+     "pivot": {
+      "x": 323,
+      "y": 598
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "p2-hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 44,
+      "y": 19,
+      "w": 543,
+      "h": 564
+     },
+     "pivot": {
+      "x": 315,
+      "y": 583
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "p1": [
+     0,
+     1
+    ],
+    "p2": [
+     2,
+     3
+    ]
+   },
+   "notes": "L3 Boss 'El Diez' – Parodie, KEIN Name/Bild einer echten Person verwenden.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/capitano-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/capitano-boss.png",
+   "bytes": 1186248,
+   "sha256": "f7e7a990d36b38687abd9b678cac294a57bcbf5d1ba8d4ef298dd9a55aa917f5",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 122,
+      "y": 30,
+      "w": 503,
+      "h": 582
+     },
+     "pivot": {
+      "x": 373,
+      "y": 612
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 78,
+      "y": 30,
+      "w": 435,
+      "h": 572
+     },
+     "pivot": {
+      "x": 295,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 140,
+      "y": 15,
+      "w": 486,
+      "h": 576
+     },
+     "pivot": {
+      "x": 383,
+      "y": 591
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 127,
+      "y": 17,
+      "w": 365,
+      "h": 577
+     },
+     "pivot": {
+      "x": 309,
+      "y": 594
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L4 Boss Hafenkapitän, wirft Anker.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/polpo-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/polpo-boss.png",
+   "bytes": 1578018,
+   "sha256": "6933dae6109727aa4195db0a1623dfe7eb29c0e1b11cd579020a14e45814d8cd",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 69,
+      "y": 162,
+      "w": 535,
+      "h": 412
+     },
+     "pivot": {
+      "x": 336,
+      "y": 574
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 25,
+      "y": 44,
+      "w": 558,
+      "h": 543
+     },
+     "pivot": {
+      "x": 304,
+      "y": 587
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "slam",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 45,
+      "y": 24,
+      "w": 582,
+      "h": 556
+     },
+     "pivot": {
+      "x": 336,
+      "y": 580
+     },
+     "touchesCellEdge": true
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 0,
+      "y": 14,
+      "w": 583,
+      "h": 566
+     },
+     "pivot": {
+      "x": 291,
+      "y": 580
+     },
+     "touchesCellEdge": true
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L5 Boss Seeungeheuer.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/limoncello-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/limoncello-boss.png",
+   "bytes": 1133551,
+   "sha256": "77bbe0c505324eee5ba305ee1f13c11d36dea5d2c1a47cc4721d6de21068d950",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 158,
+      "y": 35,
+      "w": 376,
+      "h": 539
+     },
+     "pivot": {
+      "x": 346,
+      "y": 574
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "windup",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 155,
+      "y": 35,
+      "w": 393,
+      "h": 548
+     },
+     "pivot": {
+      "x": 351,
+      "y": 583
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "release",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 102,
+      "y": 35,
+      "w": 505,
+      "h": 540
+     },
+     "pivot": {
+      "x": 354,
+      "y": 575
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 156,
+      "y": 41,
+      "w": 334,
+      "h": 539
+     },
+     "pivot": {
+      "x": 323,
+      "y": 580
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "walk": [
+     0
+    ],
+    "throw": [
+     1,
+     2
+    ],
+    "hit": [
+     3
+    ]
+   },
+   "notes": "L6 Sub-Boss Limoncello-Verkäufer.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/vespacapo-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/vespacapo-boss.png",
+   "bytes": 1540776,
+   "sha256": "1c72fcce3622a90a63eaea943e61a92a0bbcaeaed8aa85cf66084a732e49a0c1",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 59,
+      "y": 35,
+      "w": 541,
+      "h": 567
+     },
+     "pivot": {
+      "x": 329,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "attack",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 45,
+      "y": 35,
+      "w": 540,
+      "h": 567
+     },
+     "pivot": {
+      "x": 315,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "rage",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 77,
+      "y": 17,
+      "w": 514,
+      "h": 575
+     },
+     "pivot": {
+      "x": 334,
+      "y": 592
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 57,
+      "y": 18,
+      "w": 529,
+      "h": 574
+     },
+     "pivot": {
+      "x": 321,
+      "y": 592
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "idle": [
+     0
+    ],
+    "attack": [
+     1
+    ],
+    "rage": [
+     2
+    ],
+    "hurt": [
+     3
+    ]
+   },
+   "notes": "L6 Boss Vespa-Gang-Chef.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/cavaliere-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/cavaliere-boss.png",
+   "bytes": 1284556,
+   "sha256": "feff9b540f061c2d3caf9faf127783af8589d5104314228aaa5677d27f67d5bb",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "p1-idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 143,
+      "y": 20,
+      "w": 376,
+      "h": 593
+     },
+     "pivot": {
+      "x": 331,
+      "y": 613
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "p1-attack",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 39,
+      "y": 16,
+      "w": 557,
+      "h": 606
+     },
+     "pivot": {
+      "x": 317,
+      "y": 622
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "p2-rage",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 31,
+      "y": 39,
+      "w": 492,
+      "h": 570
+     },
+     "pivot": {
+      "x": 277,
+      "y": 609
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "p2-hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 110,
+      "y": 38,
+      "w": 410,
+      "h": 571
+     },
+     "pivot": {
+      "x": 315,
+      "y": 609
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "p1": [
+     0,
+     1
+    ],
+    "p2": [
+     2,
+     3
+    ]
+   },
+   "notes": "L7 Boss Brückenwächter.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/burna-boss.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/burna-boss.png",
+   "bytes": 1048303,
+   "sha256": "24c73308ae2c8865e964f20f13d015220fc937011204cecfecf2ef0445b173f7",
+   "width": 1254,
+   "height": 1254,
+   "kind": "boss",
+   "grid": [
+    2,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "p1-idle",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 178,
+      "y": 35,
+      "w": 259,
+      "h": 575
+     },
+     "pivot": {
+      "x": 307,
+      "y": 610
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "p1-throw",
+     "rect": {
+      "x": 627,
+      "y": 0,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 71,
+      "y": 76,
+      "w": 514,
+      "h": 535
+     },
+     "pivot": {
+      "x": 328,
+      "y": 611
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "p2-mutant",
+     "rect": {
+      "x": 0,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 31,
+      "y": 21,
+      "w": 579,
+      "h": 578
+     },
+     "pivot": {
+      "x": 320,
+      "y": 599
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "p2-hurt",
+     "rect": {
+      "x": 627,
+      "y": 627,
+      "w": 627,
+      "h": 627
+     },
+     "bounds": {
+      "x": 110,
+      "y": 13,
+      "w": 373,
+      "h": 589
+     },
+     "pivot": {
+      "x": 296,
+      "y": 602
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {
+    "p1": [
+     0,
+     1
+    ],
+    "p2": [
+     2,
+     3
+    ]
+   },
+   "notes": "L8 Endboss Mr. Burna.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/hummer-hood.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/hummer-hood.png",
+   "bytes": 522015,
+   "sha256": "76727116e639e54ed7ea33059343cec6c9ca140741ca1740fb90244ed7f8989e",
+   "width": 1254,
+   "height": 705,
+   "kind": "overlay",
+   "grid": [
+    1,
+    1
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "hood",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1254,
+      "h": 705
+     },
+     "bounds": {
+      "x": 22,
+      "y": 340,
+      "w": 1208,
+      "h": 365
+     },
+     "pivot": {
+      "x": 626,
+      "y": 705
+     },
+     "touchesCellEdge": true
+    }
+   ],
+   "clips": {},
+   "notes": "L3 Fahrten: Vordergrund-Overlay (Motorhaube), unten bündig, Breite auf Bildschirm skalieren; Wackeln per Code.",
+   "alpha": true
+  },
+  {
+   "localPath": "public/assets/sprites/projectiles2.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/sprites/projectiles2.png",
+   "bytes": 832743,
+   "sha256": "457f5306b19e70700956d7fd4ba82fc6211e2a1727766737f30bdaa0a3d7cb3f",
+   "width": 1254,
+   "height": 836,
+   "kind": "projectile",
+   "grid": [
+    3,
+    2
+   ],
+   "frames": [
+    {
+     "index": 0,
+     "pose": "espresso-capsule",
+     "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 59,
+      "y": 69,
+      "w": 304,
+      "h": 287
+     },
+     "pivot": {
+      "x": 211,
+      "y": 356
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 1,
+     "pose": "fake-sunglasses",
+     "rect": {
+      "x": 418,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 8,
+      "y": 99,
+      "w": 399,
+      "h": 224
+     },
+     "pivot": {
+      "x": 207,
+      "y": 323
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 2,
+     "pose": "lab-sausage",
+     "rect": {
+      "x": 836,
+      "y": 0,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 17,
+      "y": 40,
+      "w": 359,
+      "h": 306
+     },
+     "pivot": {
+      "x": 196,
+      "y": 346
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 3,
+     "pose": "fake-mozzarella",
+     "rect": {
+      "x": 0,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 57,
+      "y": 61,
+      "w": 321,
+      "h": 299
+     },
+     "pivot": {
+      "x": 217,
+      "y": 360
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 4,
+     "pose": "fettuccine-alfredo",
+     "rect": {
+      "x": 418,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 8,
+      "y": 75,
+      "w": 402,
+      "h": 283
+     },
+     "pivot": {
+      "x": 209,
+      "y": 358
+     },
+     "touchesCellEdge": false
+    },
+    {
+     "index": 5,
+     "pose": "ketchup-spaghetti",
+     "rect": {
+      "x": 836,
+      "y": 418,
+      "w": 418,
+      "h": 418
+     },
+     "bounds": {
+      "x": 95,
+      "y": 24,
+      "w": 208,
+      "h": 352
+     },
+     "pivot": {
+      "x": 199,
+      "y": 376
+     },
+     "touchesCellEdge": false
+    }
+   ],
+   "clips": {},
+   "notes": "Gegnerprojektile Level 2–8; Drehung im Code.",
+   "alpha": true
+  }
+ ],
+ "screens": [
+  {
+   "localPath": "public/assets/screens/title-screen.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/screens/title-screen.png",
+   "bytes": 2385137,
+   "sha256": "93db41a941c887eda38ee6c6fa56b2c8601f2b31aa8f721f55b3d0de53f55f2d",
+   "label": "Titelbild"
+  }
+ ],
+ "story": [
+  {
+   "localPath": "public/assets/story/characters/char-fried.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/story/characters/char-fried.png",
+   "bytes": 2054483,
+   "sha256": "81517d5b7cd4c1f212174f8f82d02c82ec24c8bf8de1daea151709cf13a7033c",
+   "label": "Charakterbogen Held Fried"
+  },
+  {
+   "localPath": "public/assets/story/characters/char-burna.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/story/characters/char-burna.png",
+   "bytes": 1941049,
+   "sha256": "b94092f3c1ffbe83bc8b78f83d1fd9dd1d77bc1014514916ff4b9c185b184f90",
+   "label": "Charakterbogen Mr. Burna"
+  },
+  {
+   "localPath": "public/assets/story/characters/char-fraticello.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/story/characters/char-fraticello.png",
+   "bytes": 1680553,
+   "sha256": "76cb7275473d764ae437748a02a28057e89e573ea9bc3cb6bb49d29c7b15858b",
+   "label": "Charakterbogen Mönch"
+  },
+  {
+   "localPath": "public/assets/story/characters/char-tonino.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/assets/story/characters/char-tonino.png",
+   "bytes": 1986645,
+   "sha256": "3bc066a109fae3c1af4780cf25f5848a7a77b05538cb716a97b0158dcf84916e",
+   "label": "Charakterbogen Tonino (Sidekick ab Level 2)"
+  }
+ ],
+ "cutscenes": [
+  {
+   "localPath": "public/cutscenes/intro-prologo-720p.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-720p.mp4",
+   "bytes": 9213810,
+   "sha256": "fa9532ec8cc7549e9cdc0a3fcdf7363e6e71f9e0ad94f00b0140257a68560ddc"
+  },
+  {
+   "localPath": "public/cutscenes/intro-prologo-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-poster.jpg",
+   "bytes": 277913,
+   "sha256": "e85b66a4f9d14523c2809c98204ce9f7024a7a6b89142fac5d82e1670f7beada"
+  },
+  {
+   "localPath": "public/cutscenes/intro-prologo.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo.mp4",
+   "bytes": 17718403,
+   "sha256": "c9a96e4f720a65475925917fca2a8788536332f3eb43f95b8579d6fd19a31959"
+  }
+ ]
+}
