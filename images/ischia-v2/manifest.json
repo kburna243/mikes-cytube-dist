@@ -1,0 +1,8974 @@
+{
+ "name": "MY CRAZY TRIP TO ISCHIA – Galerie-Assets v2",
+ "logicalResolution": [
+  1672,
+  941
+ ],
+ "entries": [
+  {
+   "id": "l1a-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 364738,
+   "sha256": "026754743ce5475bad53ccdef26c039f839545277efb47928e2be69e5881ce8c",
+   "source": "l1a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "l1b-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 463248,
+   "sha256": "8d57db39d6ccadae64105145d1a41871d8994f45c8776669f25fad3e1ec2f115",
+   "source": "l1b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "l1c-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 457890,
+   "sha256": "f36830418d00a1bc7e2fec6bc6ca08391bfa358e9694d395b14c7d2c150e4764",
+   "source": "l1c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "l1d-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 417632,
+   "sha256": "95acbd2483c0db4202313101cbbc872d16f29f04fb1d350cfbc598af8494d55f",
+   "source": "l1d-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "boss-zoll-arm",
+   "level": "L1",
+   "kind": "boss-part",
+   "localPath": "public/assets/boss-zoll-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/boss-zoll-arm.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 152286,
+   "sha256": "5b413736d5dfca16c843247bdab1ae49b4dc5d5997d9ebca4bb7439b3511161b",
+   "source": "boss-zoll-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      78,
+      80,
+      1146,
+      1137
+     ],
+     "pivot": [
+      651,
+      1217
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "boss-zoll-koerper",
+   "level": "L1",
+   "kind": "boss-part",
+   "localPath": "public/assets/boss-zoll-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/boss-zoll-koerper.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 196846,
+   "sha256": "4abcbafb98db6f4735637aa4d1ab6f3391cba54d057ce3d90eab7106a8f14753",
+   "source": "boss-zoll-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      234,
+      66,
+      788,
+      1140
+     ],
+     "pivot": [
+      628,
+      1206
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "boss-zoll-kopf",
+   "level": "L1",
+   "kind": "boss-part",
+   "localPath": "public/assets/boss-zoll-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/boss-zoll-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 346230,
+   "sha256": "312ac4ccf8543cd7a09e83d6442ec77c902e9ea9f2aa714e57700a3ec72a1c37",
+   "source": "boss-zoll-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      94,
+      36,
+      452,
+      575
+     ],
+     "pivot": [
+      320,
+      611
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      694,
+      37,
+      460,
+      575
+     ],
+     "pivot": [
+      924,
+      612
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      89,
+      638,
+      482,
+      584
+     ],
+     "pivot": [
+      330,
+      1222
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      687,
+      634,
+      474,
+      592
+     ],
+     "pivot": [
+      924,
+      1226
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "flughafen-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/flughafen-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/flughafen-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 403848,
+   "sha256": "5131bf3d723a3848def97a443b165bc7a5c75a83c17100020d8c3dcd48ab91f4",
+   "source": "flughafen-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      127,
+      9,
+      349,
+      489
+     ],
+     "pivot": [
+      301,
+      498
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      602,
+      9,
+      341,
+      490
+     ],
+     "pivot": [
+      772,
+      499
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1040,
+      71,
+      427,
+      423
+     ],
+     "pivot": [
+      1253,
+      494
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      64,
+      549,
+      448,
+      434
+     ],
+     "pivot": [
+      288,
+      983
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      512,
+      494,
+      494
+     ],
+     "pivot": [
+      759,
+      1006
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1038,
+      539,
+      420,
+      448
+     ],
+     "pivot": [
+      1248,
+      987
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "flughafen-zombie-sprung",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/flughafen-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/flughafen-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 319328,
+   "sha256": "47d5178886f0de77e8e5aea1d2d4cfc759ca3ace14b4a3868f7077180a6d3764",
+   "source": "flughafen-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      66,
+      80,
+      1166,
+      1126
+     ],
+     "pivot": [
+      649,
+      1206
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "nonna-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/nonna-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/nonna-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 442882,
+   "sha256": "8ef1d8d74505bca03d31e13d50397d7f685da0031ffb4dbb51a78238617397ec",
+   "source": "nonna-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      115,
+      12,
+      373,
+      460
+     ],
+     "pivot": [
+      301,
+      472
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      590,
+      12,
+      399,
+      500
+     ],
+     "pivot": [
+      789,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1071,
+      31,
+      344,
+      446
+     ],
+     "pivot": [
+      1243,
+      477
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      62,
+      534,
+      369,
+      451
+     ],
+     "pivot": [
+      246,
+      985
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      551,
+      512,
+      458,
+      472
+     ],
+     "pivot": [
+      780,
+      984
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1076,
+      528,
+      414,
+      456
+     ],
+     "pivot": [
+      1283,
+      984
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "nonna-zombie-sprung",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/nonna-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/nonna-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 352998,
+   "sha256": "ace6e7ec91db5b1173dc049e78d82fca302acddfb9c6cf6365a12f94c4bf3dcd",
+   "source": "nonna-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      30,
+      32,
+      1199,
+      1195
+     ],
+     "pivot": [
+      629,
+      1227
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "polizia-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/polizia-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/polizia-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 393966,
+   "sha256": "2a7d3f08fd1c78e1630c26c1fa07673df145fc418dfa5f7a69a0d9f3e82ae7a9",
+   "source": "polizia-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      119,
+      20,
+      382,
+      467
+     ],
+     "pivot": [
+      310,
+      487
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      601,
+      20,
+      349,
+      492
+     ],
+     "pivot": [
+      775,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1087,
+      52,
+      378,
+      429
+     ],
+     "pivot": [
+      1276,
+      481
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      42,
+      552,
+      454,
+      449
+     ],
+     "pivot": [
+      269,
+      1001
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      536,
+      512,
+      453,
+      482
+     ],
+     "pivot": [
+      762,
+      994
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1073,
+      555,
+      432,
+      440
+     ],
+     "pivot": [
+      1289,
+      995
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "polizia-zombie-sprung",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/polizia-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/polizia-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 369060,
+   "sha256": "e7bccc0f52606912f541d9b5e87f977fe4315c2264754c49e0de4f9f0f3c871e",
+   "source": "polizia-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      51,
+      16,
+      1151,
+      1222
+     ],
+     "pivot": [
+      626,
+      1238
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "tourist-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/tourist-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/tourist-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 331292,
+   "sha256": "d1d156a0abe5d95e4468fae96d9a8207ddaa702084c8a5c4e22a04df73f36ec1",
+   "source": "tourist-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      151,
+      16,
+      303,
+      477
+     ],
+     "pivot": [
+      302,
+      493
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      633,
+      19,
+      281,
+      493
+     ],
+     "pivot": [
+      773,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1115,
+      53,
+      348,
+      437
+     ],
+     "pivot": [
+      1289,
+      490
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      79,
+      548,
+      372,
+      432
+     ],
+     "pivot": [
+      265,
+      980
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      615,
+      512,
+      324,
+      473
+     ],
+     "pivot": [
+      777,
+      985
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1086,
+      566,
+      403,
+      412
+     ],
+     "pivot": [
+      1287,
+      978
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "touristin-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/touristin-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/touristin-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 343780,
+   "sha256": "30df7994ab6cfb2a075ee7f185e52937285d5cc423dce4c1b8f62fac2c7866d5",
+   "source": "touristin-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      195,
+      11,
+      294,
+      481
+     ],
+     "pivot": [
+      342,
+      492
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      622,
+      11,
+      291,
+      501
+     ],
+     "pivot": [
+      767,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1080,
+      11,
+      306,
+      477
+     ],
+     "pivot": [
+      1233,
+      488
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      176,
+      536,
+      319,
+      463
+     ],
+     "pivot": [
+      335,
+      999
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      610,
+      512,
+      332,
+      487
+     ],
+     "pivot": [
+      776,
+      999
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1041,
+      564,
+      385,
+      428
+     ],
+     "pivot": [
+      1233,
+      992
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1-korrektur__props-burna-air",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1-korrektur/props-burna-air.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1-korrektur/props-burna-air.webp",
+   "width": 1774,
+   "height": 887,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 436622,
+   "sha256": "e1c5c6cd8b669bcfb5f7e5b35c24445c9f39168435c0c38cb765da86cc226490",
+   "source": "l1-korrektur/props-burna-air.png",
+   "corrected": true,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1774,
+      887
+     ],
+     "bounds": [
+      14,
+      0,
+      1748,
+      882
+     ],
+     "pivot": [
+      888,
+      882
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "l1a-deckenlampe",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1a-deckenlampe.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-deckenlampe.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 285874,
+   "sha256": "bbc382615d1f15d1e2091e2fddd9798ade36680c5f2f1c5821ae5f570999848b",
+   "source": "l1a-deckenlampe.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      81,
+      110,
+      1092,
+      1063
+     ],
+     "pivot": [
+      627,
+      1173
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1a-glaswand-links",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1a-glaswand-links.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-glaswand-links.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 254318,
+   "sha256": "fb3c4d3432a6c5de8d677d629b693b6e321f30bbd6ac66c8a7c888eff9443ad1",
+   "source": "l1a-glaswand-links.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      105,
+      16,
+      1328,
+      991
+     ],
+     "pivot": [
+      769,
+      1007
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1a-glaswand-rechts",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1a-glaswand-rechts.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-glaswand-rechts.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 239442,
+   "sha256": "b2696e3b3a02038bbca67e8d0c579bfd0c9eb6af7b3458d5b14623a3f026b5b4",
+   "source": "l1a-glaswand-rechts.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      38,
+      19,
+      1466,
+      986
+     ],
+     "pivot": [
+      771,
+      1005
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1a-koffer-deckung",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1a-koffer-deckung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-koffer-deckung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 302362,
+   "sha256": "4830215b700a3c8eb8dde397c3c8babad30be54ae96e742ea75a7ebaa984969a",
+   "source": "l1a-koffer-deckung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      42,
+      199,
+      1165,
+      949
+     ],
+     "pivot": [
+      624,
+      1148
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1b-mittel",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1b-mittel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1b-mittel.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 341870,
+   "sha256": "5e513c960619e9abf90bb0a8a86f040dc583bef5ac3490acc47544a58eee10e7",
+   "source": "l1b-mittel.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      16,
+      127,
+      1503,
+      803
+     ],
+     "pivot": [
+      767,
+      930
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1b-schalter-deckung",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1b-schalter-deckung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1b-schalter-deckung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 298754,
+   "sha256": "686c0cdfa80c47c90cd7c4d05e2485c559a792ef9bf6d321cbe652fe7e708788",
+   "source": "l1b-schalter-deckung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      2,
+      137,
+      1250,
+      975
+     ],
+     "pivot": [
+      627,
+      1112
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1b-vorne",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1b-vorne.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1b-vorne.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 177682,
+   "sha256": "6b1c957e9ec77b146d147516f384afa832823b9c636777f93f436dcff53a8679",
+   "source": "l1b-vorne.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      11,
+      1536,
+      990
+     ],
+     "pivot": [
+      768,
+      1001
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "l1c-vorne",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1c-vorne.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1c-vorne.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 166398,
+   "sha256": "2cc6a69eaae352cd53815411726ed250e4c4773ad1156bdb26e7f47479c2ceb6",
+   "source": "l1c-vorne.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      398,
+      952,
+      626
+     ],
+     "pivot": [
+      476,
+      1024
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "l1c-zerbrechlich",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1c-zerbrechlich.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1c-zerbrechlich.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 468100,
+   "sha256": "6562d2c813e1325cb8b89b4744a9a4224e0e8224278c8315173127aeff9bb8d5",
+   "source": "l1c-zerbrechlich.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      162,
+      34,
+      187,
+      456
+     ],
+     "pivot": [
+      255,
+      490
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      537,
+      63,
+      421,
+      415
+     ],
+     "pivot": [
+      747,
+      478
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1042,
+      34,
+      460,
+      446
+     ],
+     "pivot": [
+      1272,
+      480
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      42,
+      531,
+      423,
+      465
+     ],
+     "pivot": [
+      253,
+      996
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      557,
+      485,
+      436
+     ],
+     "pivot": [
+      754,
+      993
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1040,
+      517,
+      461,
+      472
+     ],
+     "pivot": [
+      1270,
+      989
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1d-auto-deckung",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1d-auto-deckung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1d-auto-deckung.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 287950,
+   "sha256": "bb9c5a5389951b21ba744f1b0e5cc016503b571fad42792b90612979ef5035a3",
+   "source": "l1d-auto-deckung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      10,
+      123,
+      1518,
+      805
+     ],
+     "pivot": [
+      769,
+      928
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1d-mittel",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1d-mittel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1d-mittel.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 401376,
+   "sha256": "e13d007e7392a2e3fe11563d535d01f20143fbe65e5c75c36c23c06fa932f6c7",
+   "source": "l1d-mittel.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      143,
+      1536,
+      780
+     ],
+     "pivot": [
+      768,
+      923
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "l1d-vorne",
+   "level": "L1",
+   "kind": "prop",
+   "localPath": "public/assets/l1d-vorne.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1d-vorne.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 287854,
+   "sha256": "1b95b06b092699051cbe1ec446a7a08019eb060f6f2a2e4320774c81a36f0c9b",
+   "source": "l1d-vorne.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      32,
+      23,
+      1499,
+      987
+     ],
+     "pivot": [
+      781,
+      1010
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "l1-korrektur__airport-scenes-burna-air",
+   "level": "L1",
+   "kind": "story",
+   "localPath": "public/assets/l1-korrektur/airport-scenes-burna-air.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1-korrektur/airport-scenes-burna-air.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 525114,
+   "sha256": "0ef1fa37b098e701fa970d3a96d5a2706e4efadb6820a510489dfccee61b37c9",
+   "source": "l1-korrektur/airport-scenes-burna-air.png",
+   "corrected": true
+  },
+  {
+   "id": "level-2__l2a-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 533772,
+   "sha256": "6e6309afb3dbebda145c82aab3fb05747019c5c3e573adc52a58bb32aab12a35",
+   "source": "level-2/l2a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-2__l2b-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 649564,
+   "sha256": "f2723f2e5e017ccaf2d6358b7e1a3a9736956f773e7c6b1ab3e8f0b9dc733252",
+   "source": "level-2/l2b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-2__l2c-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 485578,
+   "sha256": "4cb32fc0511ed6bee3ee12b0525a6f7ef5e0b19f048e51f868d4afa5e3ded784",
+   "source": "level-2/l2c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-2__boss-sergente-arm",
+   "level": "L2",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-2/boss-sergente-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/boss-sergente-arm.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 406036,
+   "sha256": "61c872f343141d3bcad07174c9e5872ab20b34cd1b4fc2daec6b9accc177d20a",
+   "source": "level-2/boss-sergente-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      12,
+      7,
+      1516,
+      1011
+     ],
+     "pivot": [
+      770,
+      1018
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__boss-sergente-koerper",
+   "level": "L2",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-2/boss-sergente-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/boss-sergente-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 466562,
+   "sha256": "b0f5bd70ea2e6131c4f906adae55eb3abbf8817834ef7ea181610bedebe313aa",
+   "source": "level-2/boss-sergente-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      148,
+      10,
+      583,
+      995
+     ],
+     "pivot": [
+      439,
+      1005
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      809,
+      9,
+      580,
+      996
+     ],
+     "pivot": [
+      1099,
+      1005
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__boss-sergente-kopf",
+   "level": "L2",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-2/boss-sergente-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/boss-sergente-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 526204,
+   "sha256": "4040f4fd96832626d6679dfba45f0a98a2dc35aae49c7ef83541ac6f5e7c5fd4",
+   "source": "level-2/boss-sergente-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      25,
+      13,
+      602,
+      614
+     ],
+     "pivot": [
+      326,
+      627
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      627,
+      13,
+      597,
+      614
+     ],
+     "pivot": [
+      925,
+      627
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      21,
+      627,
+      606,
+      611
+     ],
+     "pivot": [
+      324,
+      1238
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      627,
+      627,
+      606,
+      614
+     ],
+     "pivot": [
+      930,
+      1241
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-2__carabiniere-zombie-posen",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/carabiniere-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/carabiniere-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 365886,
+   "sha256": "6f3941e580ffa22aab8c6997097756bad81da4be3ce038254a8ed9086262db8a",
+   "source": "level-2/carabiniere-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      153,
+      9,
+      317,
+      472
+     ],
+     "pivot": [
+      311,
+      481
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      607,
+      10,
+      417,
+      469
+     ],
+     "pivot": [
+      815,
+      479
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      39,
+      439,
+      439
+     ],
+     "pivot": [
+      1243,
+      478
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      68,
+      543,
+      444,
+      441
+     ],
+     "pivot": [
+      290,
+      984
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      514,
+      507,
+      470
+     ],
+     "pivot": [
+      765,
+      984
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1126,
+      545,
+      340,
+      439
+     ],
+     "pivot": [
+      1296,
+      984
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__carabiniere-zombie-sprung",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/carabiniere-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/carabiniere-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 512010,
+   "sha256": "05a52c0b207a78a11e8fd8f95cc4efd3cd27129c1886c518332c61719ca6513b",
+   "source": "level-2/carabiniere-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      5,
+      8,
+      1245,
+      1232
+     ],
+     "pivot": [
+      627,
+      1240
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__soldat-zombie-posen",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/soldat-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/soldat-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 337710,
+   "sha256": "2e039c7970bde9d17ac91df23db3829f6ed7a2b68d827c48e349dc4b585b140a",
+   "source": "level-2/soldat-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      110,
+      16,
+      305,
+      461
+     ],
+     "pivot": [
+      262,
+      477
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      608,
+      16,
+      319,
+      461
+     ],
+     "pivot": [
+      767,
+      477
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1137,
+      44,
+      342,
+      430
+     ],
+     "pivot": [
+      1308,
+      474
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      51,
+      578,
+      367,
+      400
+     ],
+     "pivot": [
+      234,
+      978
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      579,
+      546,
+      428,
+      433
+     ],
+     "pivot": [
+      793,
+      979
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1179,
+      542,
+      300,
+      444
+     ],
+     "pivot": [
+      1329,
+      986
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__soldat-zombie-sprung",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/soldat-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/soldat-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 479904,
+   "sha256": "4243d9d614be871cac737d4149c106c8f3c40afec7500246f8fdc439f017b550",
+   "source": "level-2/soldat-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      0,
+      0,
+      1254,
+      1249
+     ],
+     "pivot": [
+      627,
+      1249
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-2__l2-kulissen",
+   "level": "L2",
+   "kind": "prop",
+   "localPath": "public/assets/level-2/l2-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 537698,
+   "sha256": "428fb0836cadcc29f3c5c9f2083a8037474ea6e1a3c27f164009aeb1a22242e6",
+   "source": "level-2/l2-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      20,
+      67,
+      492,
+      414
+     ],
+     "pivot": [
+      266,
+      481
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      19,
+      425,
+      493
+     ],
+     "pivot": [
+      724,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1064,
+      205,
+      458,
+      303
+     ],
+     "pivot": [
+      1293,
+      508
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      21,
+      597,
+      474,
+      344
+     ],
+     "pivot": [
+      258,
+      941
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      524,
+      581,
+      500,
+      411
+     ],
+     "pivot": [
+      774,
+      992
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      514,
+      484,
+      485
+     ],
+     "pivot": [
+      1266,
+      999
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-2__l2-suchlicht",
+   "level": "L2",
+   "kind": "prop",
+   "localPath": "public/assets/level-2/l2-suchlicht.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-suchlicht.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 207852,
+   "sha256": "c72e86dda1754c55c3cb0f8b06d3937b32ec5b5b008b7ed4a17e904bb025d5ff",
+   "source": "level-2/l2-suchlicht.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      97,
+      9,
+      1352,
+      999
+     ],
+     "pivot": [
+      773,
+      1008
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-2__l2-zwischenbild-ausbruch",
+   "level": "L2",
+   "kind": "story",
+   "localPath": "public/assets/level-2/l2-zwischenbild-ausbruch.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-zwischenbild-ausbruch.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 553818,
+   "sha256": "e9b7b41488fb14f99352f6805bea227643fa56654313acf97d44024e88ef637e",
+   "source": "level-2/l2-zwischenbild-ausbruch.png",
+   "corrected": false
+  },
+  {
+   "id": "level-2__l2-zwischenbild-tonino",
+   "level": "L2",
+   "kind": "story",
+   "localPath": "public/assets/level-2/l2-zwischenbild-tonino.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-zwischenbild-tonino.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 440610,
+   "sha256": "e68cde822b198a9a1ac148441d70ed8ebe7a9266ca6230c91ec9a44df02b502e",
+   "source": "level-2/l2-zwischenbild-tonino.png",
+   "corrected": false
+  },
+  {
+   "id": "level-3__l3a-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 509264,
+   "sha256": "3ba7b6cda71046b6f4c81d53813c5e22aec728e85af961d85e006c81902b571f",
+   "source": "level-3/l3a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-3__l3b-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 422216,
+   "sha256": "abc4018905b0ad78eaf0d233a7416069f69f474a88b3c08187bf5fb17e99ebc6",
+   "source": "level-3/l3b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-3__l3c-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 568390,
+   "sha256": "995598dd1e0cc5cc85c5c1a83b1f7c9e7a02c0b7fd83d65a5f6c3b418fcaa380",
+   "source": "level-3/l3c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-3__l3d-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 511810,
+   "sha256": "808c714f70e9f64ebdb0c52a24ff28254bce614271eba03c16faca00717944cf",
+   "source": "level-3/l3d-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-3__boss-eldiez-arm",
+   "level": "L3",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-3/boss-eldiez-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/boss-eldiez-arm.webp",
+   "width": 1983,
+   "height": 793,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 283888,
+   "sha256": "cb0d4d038010baf0f37c4c278d6c4718d38d817e7ea5f169116de3faf7c3179a",
+   "source": "level-3/boss-eldiez-arm.png",
+   "corrected": true,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1983,
+      793
+     ],
+     "bounds": [
+      12,
+      5,
+      1971,
+      774
+     ],
+     "pivot": [
+      997,
+      779
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__boss-eldiez-koerper",
+   "level": "L3",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-3/boss-eldiez-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/boss-eldiez-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 322704,
+   "sha256": "6d47cfdc39ed5365f8f279d8c9773f9f7d245e1e1d75c815644af8a06fbb2cf0",
+   "source": "level-3/boss-eldiez-koerper.png",
+   "corrected": true,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      26,
+      11,
+      742,
+      998
+     ],
+     "pivot": [
+      397,
+      1009
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      768,
+      19,
+      752,
+      987
+     ],
+     "pivot": [
+      1144,
+      1006
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__boss-eldiez-kopf",
+   "level": "L3",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-3/boss-eldiez-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/boss-eldiez-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 282228,
+   "sha256": "ce96420f9840b5f8423ac8f4a84d6ab058e6dd71a752da5747c07225b3d3dde8",
+   "source": "level-3/boss-eldiez-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      80,
+      57,
+      477,
+      546
+     ],
+     "pivot": [
+      318,
+      603
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      692,
+      61,
+      488,
+      566
+     ],
+     "pivot": [
+      936,
+      627
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      58,
+      654,
+      486,
+      539
+     ],
+     "pivot": [
+      301,
+      1193
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      684,
+      627,
+      546,
+      570
+     ],
+     "pivot": [
+      957,
+      1197
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__pizzaiolo-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/pizzaiolo-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/pizzaiolo-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 409688,
+   "sha256": "1d6461d88b6bd90cd564d1f64297d955f0b6b2d453e3f206e3336d69e632f93f",
+   "source": "level-3/pizzaiolo-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      116,
+      3,
+      331,
+      479
+     ],
+     "pivot": [
+      281,
+      482
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      592,
+      6,
+      337,
+      475
+     ],
+     "pivot": [
+      760,
+      481
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1101,
+      14,
+      366,
+      468
+     ],
+     "pivot": [
+      1284,
+      482
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      52,
+      517,
+      460,
+      476
+     ],
+     "pivot": [
+      282,
+      993
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      519,
+      510,
+      474
+     ],
+     "pivot": [
+      767,
+      993
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1080,
+      538,
+      454,
+      457
+     ],
+     "pivot": [
+      1307,
+      995
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__pizzaiolo-zombie-sprung",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/pizzaiolo-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/pizzaiolo-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 407258,
+   "sha256": "7562731594f3de4806e2f715bce5cb9551099584ed4d6e107fd1c53f66626c13",
+   "source": "level-3/pizzaiolo-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      4,
+      6,
+      1250,
+      1239
+     ],
+     "pivot": [
+      629,
+      1245
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__proll-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/proll-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/proll-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 414770,
+   "sha256": "87cb65e71696e78b1087b1ec848e1a0fb6dbbf739ce3167cbbc618427c077f92",
+   "source": "level-3/proll-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      59,
+      9,
+      340,
+      461
+     ],
+     "pivot": [
+      229,
+      470
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      585,
+      7,
+      375,
+      459
+     ],
+     "pivot": [
+      772,
+      466
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1188,
+      26,
+      310,
+      486
+     ],
+     "pivot": [
+      1343,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      44,
+      529,
+      313,
+      457
+     ],
+     "pivot": [
+      200,
+      986
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      529,
+      525,
+      495,
+      461
+     ],
+     "pivot": [
+      776,
+      986
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      512,
+      482,
+      465
+     ],
+     "pivot": [
+      1265,
+      977
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__proll-zombie-sprung",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/proll-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/proll-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 425378,
+   "sha256": "259eb3beb4d00049831636f034e89530ee73cbb3ef73f498e0592c4f97c3a9e2",
+   "source": "level-3/proll-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      8,
+      7,
+      1245,
+      1235
+     ],
+     "pivot": [
+      630,
+      1242
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__ultras-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/ultras-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/ultras-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 353264,
+   "sha256": "f8f2732a2ba1ef105c1bda08fabfdef35a8f8046414519c94fd729aee0199192",
+   "source": "level-3/ultras-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      150,
+      5,
+      308,
+      469
+     ],
+     "pivot": [
+      304,
+      474
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      614,
+      8,
+      349,
+      504
+     ],
+     "pivot": [
+      788,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1056,
+      42,
+      337,
+      429
+     ],
+     "pivot": [
+      1224,
+      471
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      95,
+      537,
+      359,
+      451
+     ],
+     "pivot": [
+      274,
+      988
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      570,
+      512,
+      416,
+      486
+     ],
+     "pivot": [
+      778,
+      998
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1098,
+      575,
+      315,
+      421
+     ],
+     "pivot": [
+      1255,
+      996
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__ultras-zombie-sprung",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/ultras-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/ultras-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 492664,
+   "sha256": "03b2a3d74b9e11c4e64400d4db9b9163303803b58e2a07a6a7b57cb3b1ad1010",
+   "source": "level-3/ultras-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      0,
+      0,
+      1254,
+      1248
+     ],
+     "pivot": [
+      627,
+      1248
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-ape-fahrzeug",
+   "level": "L3",
+   "kind": "prop",
+   "localPath": "public/assets/level-3/l3-ape-fahrzeug.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-ape-fahrzeug.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 398630,
+   "sha256": "ad38949cb0633bdae3d44f32a3a0eb6f3cb6ae16ea92763ad42ec866fbc63b81",
+   "source": "level-3/l3-ape-fahrzeug.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      161,
+      197,
+      291,
+      257
+     ],
+     "pivot": [
+      306,
+      454
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      690,
+      117,
+      467,
+      439
+     ],
+     "pivot": [
+      923,
+      556
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      33,
+      631,
+      594,
+      587
+     ],
+     "pivot": [
+      330,
+      1218
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      627,
+      709,
+      598,
+      451
+     ],
+     "pivot": [
+      926,
+      1160
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-kulissen",
+   "level": "L3",
+   "kind": "prop",
+   "localPath": "public/assets/level-3/l3-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 394164,
+   "sha256": "85171a36419905efbde0b9faff68f589aa17a2a4c6503d9aedfadf3b464caf4a",
+   "source": "level-3/l3-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      91,
+      13,
+      421,
+      494
+     ],
+     "pivot": [
+      301,
+      507
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      86,
+      512,
+      413
+     ],
+     "pivot": [
+      768,
+      499
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      102,
+      415,
+      392
+     ],
+     "pivot": [
+      1231,
+      494
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      111,
+      519,
+      275,
+      493
+     ],
+     "pivot": [
+      248,
+      1012
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      529,
+      521,
+      421,
+      469
+     ],
+     "pivot": [
+      739,
+      990
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1050,
+      677,
+      456,
+      310
+     ],
+     "pivot": [
+      1278,
+      987
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-motorhaube",
+   "level": "L3",
+   "kind": "prop",
+   "localPath": "public/assets/level-3/l3-motorhaube.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-motorhaube.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 236190,
+   "sha256": "b2d193e7fa85f44d36b2dcaf285cea895f4f7f61544afcd928809d1f3952cbea",
+   "source": "level-3/l3-motorhaube.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      508,
+      1536,
+      516
+     ],
+     "pivot": [
+      768,
+      1024
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-vespa-fahrzeug",
+   "level": "L3",
+   "kind": "prop",
+   "localPath": "public/assets/level-3/l3-vespa-fahrzeug.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-vespa-fahrzeug.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 384144,
+   "sha256": "ff42825d7827bb9ffc90e4a66655ca9da8f4676b8573a6399571e5e294e60fd8",
+   "source": "level-3/l3-vespa-fahrzeug.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      228,
+      147,
+      195,
+      480
+     ],
+     "pivot": [
+      325,
+      627
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      770,
+      20,
+      315,
+      541
+     ],
+     "pivot": [
+      927,
+      561
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      60,
+      627,
+      518,
+      627
+     ],
+     "pivot": [
+      319,
+      1254
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      638,
+      683,
+      605,
+      492
+     ],
+     "pivot": [
+      940,
+      1175
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-waescheleine",
+   "level": "L3",
+   "kind": "prop",
+   "localPath": "public/assets/level-3/l3-waescheleine.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-waescheleine.webp",
+   "width": 2172,
+   "height": 724,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 340032,
+   "sha256": "3829848e960bbb28485218abe7b4ee99329f5e3fc6ef4a6da40241f3fc19b557",
+   "source": "level-3/l3-waescheleine.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      2172,
+      724
+     ],
+     "bounds": [
+      38,
+      114,
+      2106,
+      532
+     ],
+     "pivot": [
+      1091,
+      646
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-3__l3-zwischenbild-ampulle",
+   "level": "L3",
+   "kind": "story",
+   "localPath": "public/assets/level-3/l3-zwischenbild-ampulle.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-zwischenbild-ampulle.webp",
+   "width": 1672,
+   "height": 941,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 362556,
+   "sha256": "ef27fe245bf43ccc2cf95ecefe26cf914155ca59552242824003c4b65870878c",
+   "source": "level-3/l3-zwischenbild-ampulle.png",
+   "corrected": true
+  },
+  {
+   "id": "level-3__l3-strasse",
+   "level": "L3",
+   "kind": "texture",
+   "localPath": "public/assets/level-3/l3-strasse.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-strasse.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 242480,
+   "sha256": "91d50c6073488322c1b0e5f8216fe4fdbe51f4be96e79fe980bde1ad5010c81f",
+   "source": "level-3/l3-strasse.png",
+   "corrected": false
+  },
+  {
+   "id": "level-4__l4a-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 389944,
+   "sha256": "a65a000ca2b6d2f8e6bc9b0e33e51f9cab07decb2b95b48a3762645d7c21ce0e",
+   "source": "level-4/l4a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-4__l4b-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 302478,
+   "sha256": "acbc058a969389967ab3ebcf357cdaff1bf0d31a99b3c386aeea8b735de13e79",
+   "source": "level-4/l4b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-4__l4c-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 328836,
+   "sha256": "3f3b42801806d456b805252eb700400f776ea351bd903ff5fa2538d5cfb45110",
+   "source": "level-4/l4c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-4__boss-capitano-anker",
+   "level": "L4",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-4/boss-capitano-anker.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/boss-capitano-anker.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 255794,
+   "sha256": "ada1f691b6e21f5e3d5fdd2bbeabbfa7106e1e5a16ae21b10adabb6dfd7c5d5c",
+   "source": "level-4/boss-capitano-anker.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1024,
+      1536
+     ],
+     "bounds": [
+      154,
+      0,
+      756,
+      1528
+     ],
+     "pivot": [
+      532,
+      1528
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__boss-capitano-arm",
+   "level": "L4",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-4/boss-capitano-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/boss-capitano-arm.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 192018,
+   "sha256": "b10979de2e48e3247b9c7313c0114176ff6f1d4314e1e0f940caecb8a4bbf76f",
+   "source": "level-4/boss-capitano-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1024,
+      1536
+     ],
+     "bounds": [
+      81,
+      108,
+      882,
+      1376
+     ],
+     "pivot": [
+      522,
+      1484
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__boss-capitano-koerper",
+   "level": "L4",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-4/boss-capitano-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/boss-capitano-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 434990,
+   "sha256": "c161b1f0af2e542d6dc8d8ba76401e9db3c95cbf8891a88cb117d78deb4fc5fc",
+   "source": "level-4/boss-capitano-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      53,
+      49,
+      662,
+      928
+     ],
+     "pivot": [
+      384,
+      977
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      831,
+      45,
+      680,
+      936
+     ],
+     "pivot": [
+      1171,
+      981
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__boss-capitano-kopf",
+   "level": "L4",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-4/boss-capitano-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/boss-capitano-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 371540,
+   "sha256": "107235171909364f9ed2fc6d464a1644c4c897a5314f8a88026f9e04a0a3684d",
+   "source": "level-4/boss-capitano-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      151,
+      42,
+      398,
+      560
+     ],
+     "pivot": [
+      350,
+      602
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      723,
+      43,
+      417,
+      559
+     ],
+     "pivot": [
+      931,
+      602
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      148,
+      651,
+      406,
+      546
+     ],
+     "pivot": [
+      351,
+      1197
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      721,
+      645,
+      408,
+      576
+     ],
+     "pivot": [
+      925,
+      1221
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__business-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/business-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/business-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 419926,
+   "sha256": "c9d1ce46bb0a6340554324b66685285c2ef232b3c151055f2a85862dd552763a",
+   "source": "level-4/business-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      89,
+      18,
+      323,
+      494
+     ],
+     "pivot": [
+      250,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      593,
+      19,
+      404,
+      490
+     ],
+     "pivot": [
+      795,
+      509
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1054,
+      37,
+      439,
+      468
+     ],
+     "pivot": [
+      1273,
+      505
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      41,
+      512,
+      391,
+      486
+     ],
+     "pivot": [
+      236,
+      998
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      524,
+      569,
+      500,
+      410
+     ],
+     "pivot": [
+      774,
+      979
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      538,
+      481,
+      462
+     ],
+     "pivot": [
+      1264,
+      1000
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__business-zombie-sprung",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/business-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/business-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 294620,
+   "sha256": "946aeab91f8dec2963b703eb408442807b0b002883ca05c0e56bc556b4719cca",
+   "source": "level-4/business-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      164,
+      95,
+      1011,
+      1036
+     ],
+     "pivot": [
+      669,
+      1131
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__faehrcrew-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/faehrcrew-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/faehrcrew-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 529630,
+   "sha256": "518e8f718b08c9c8eae774eb2e802b14234e12896cb68f59c2274d4fd401ef95",
+   "source": "level-4/faehrcrew-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      77,
+      12,
+      408,
+      500
+     ],
+     "pivot": [
+      281,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      577,
+      17,
+      423,
+      489
+     ],
+     "pivot": [
+      788,
+      506
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1123,
+      21,
+      373,
+      483
+     ],
+     "pivot": [
+      1309,
+      504
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      30,
+      512,
+      482,
+      495
+     ],
+     "pivot": [
+      271,
+      1007
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      527,
+      512,
+      479
+     ],
+     "pivot": [
+      768,
+      1006
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      514,
+      497,
+      482
+     ],
+     "pivot": [
+      1272,
+      996
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__faehrcrew-zombie-sprung",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/faehrcrew-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/faehrcrew-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 285362,
+   "sha256": "13cc81efc93b3a837ed5368aa183c449ead679d68bb48978176eb607768d8b34",
+   "source": "level-4/faehrcrew-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      180,
+      92,
+      993,
+      1054
+     ],
+     "pivot": [
+      676,
+      1146
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__hafenarbeiter-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/hafenarbeiter-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/hafenarbeiter-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 424360,
+   "sha256": "907143cdcf603f0f323118d9219f020b0ec9e0c7cb494abc5eeb676ae1b118d8",
+   "source": "level-4/hafenarbeiter-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      91,
+      15,
+      362,
+      483
+     ],
+     "pivot": [
+      272,
+      498
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      625,
+      24,
+      338,
+      487
+     ],
+     "pivot": [
+      794,
+      511
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1076,
+      19,
+      397,
+      489
+     ],
+     "pivot": [
+      1274,
+      508
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      65,
+      516,
+      435,
+      480
+     ],
+     "pivot": [
+      282,
+      996
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      521,
+      567,
+      503,
+      426
+     ],
+     "pivot": [
+      772,
+      993
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      517,
+      463,
+      474
+     ],
+     "pivot": [
+      1255,
+      991
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__hafenarbeiter-zombie-sprung",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/hafenarbeiter-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/hafenarbeiter-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 309966,
+   "sha256": "f89220c408e447fb793f9cc16143dfe5eff4c2d0ef8c6615349d8d9d7556f2b5",
+   "source": "level-4/hafenarbeiter-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      148,
+      55,
+      1027,
+      1077
+     ],
+     "pivot": [
+      661,
+      1132
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-4__l4-kranhaken",
+   "level": "L4",
+   "kind": "prop",
+   "localPath": "public/assets/level-4/l4-kranhaken.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4-kranhaken.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 187836,
+   "sha256": "da9d0fe049171161083e39d3dca77202d36f71f26fa1047bdf5ba939157c1937",
+   "source": "level-4/l4-kranhaken.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1024,
+      1536
+     ],
+     "bounds": [
+      264,
+      0,
+      533,
+      1452
+     ],
+     "pivot": [
+      530,
+      1452
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__l4-kulissen",
+   "level": "L4",
+   "kind": "prop",
+   "localPath": "public/assets/level-4/l4-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 345894,
+   "sha256": "07d93cdaa26086dec2ddf21b90e5a72dc6acd36bee0a78df194d7cfc519ac09e",
+   "source": "level-4/l4-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      34,
+      94,
+      457,
+      418
+     ],
+     "pivot": [
+      262,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      541,
+      105,
+      477,
+      388
+     ],
+     "pivot": [
+      779,
+      493
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1063,
+      98,
+      442,
+      414
+     ],
+     "pivot": [
+      1284,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      49,
+      512,
+      410,
+      453
+     ],
+     "pivot": [
+      254,
+      965
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      575,
+      615,
+      387,
+      347
+     ],
+     "pivot": [
+      768,
+      962
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1036,
+      512,
+      485,
+      449
+     ],
+     "pivot": [
+      1278,
+      961
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-4__l4-zwischenbild-burna",
+   "level": "L4",
+   "kind": "story",
+   "localPath": "public/assets/level-4/l4-zwischenbild-burna.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4-zwischenbild-burna.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 475546,
+   "sha256": "74b99abdb9b512aad1c48700eb89293aefd10dc7e99b28e79beaa907796ee5e5",
+   "source": "level-4/l4-zwischenbild-burna.png",
+   "corrected": false
+  },
+  {
+   "id": "level-5__l5a-hintergrund",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 504690,
+   "sha256": "72cfab3f38290022a17d9d26052e18cff5f0473118fd37c543f28621eb169706",
+   "source": "level-5/l5a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-5__l5b-hintergrund",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 430730,
+   "sha256": "5f6e7605ec84f1fd633ce7dfc8119739575dbd4e60cdb3ea8a65d501ebf3644d",
+   "source": "level-5/l5b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-5__l5c-hintergrund-stern",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5c-hintergrund-stern.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5c-hintergrund-stern.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 591370,
+   "sha256": "27e22c8a57b457475e2a0f8759113d24a0e1b305680047212f0a61a9226d4225",
+   "source": "level-5/l5c-hintergrund-stern.png",
+   "corrected": false
+  },
+  {
+   "id": "level-5__boss-barista-arm",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-barista-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-barista-arm.webp",
+   "width": 1402,
+   "height": 1122,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 285756,
+   "sha256": "2fa08f6f1e77af0620dc1a34f2416621b52753ed35a8a8fc342e330669bc87df",
+   "source": "level-5/boss-barista-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1402,
+      1122
+     ],
+     "bounds": [
+      15,
+      19,
+      1368,
+      999
+     ],
+     "pivot": [
+      699,
+      1018
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__boss-barista-koerper",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-barista-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-barista-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 394356,
+   "sha256": "813fc12938c9d349e3d86d11069f9d0ff009e34ecf4ae45b53c6d4ca29db34f9",
+   "source": "level-5/boss-barista-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      45,
+      94,
+      718,
+      854
+     ],
+     "pivot": [
+      404,
+      948
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      802,
+      91,
+      690,
+      856
+     ],
+     "pivot": [
+      1147,
+      947
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__boss-barista-kopf",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-barista-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-barista-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 488050,
+   "sha256": "78c16c7d1b79ceff587f78665b25dd770ccde1d526331261dcaf2be28fb5cbb9",
+   "source": "level-5/boss-barista-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      70,
+      22,
+      512,
+      594
+     ],
+     "pivot": [
+      326,
+      616
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      685,
+      26,
+      492,
+      585
+     ],
+     "pivot": [
+      931,
+      611
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      70,
+      638,
+      528,
+      590
+     ],
+     "pivot": [
+      334,
+      1228
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      668,
+      637,
+      527,
+      585
+     ],
+     "pivot": [
+      931,
+      1222
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__boss-polpo-arm",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-polpo-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-polpo-arm.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 283884,
+   "sha256": "bf59bed1a1c66c00ce63d013d21840ec069a0448a9ba127553ae600cc842707b",
+   "source": "level-5/boss-polpo-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      180,
+      1536,
+      697
+     ],
+     "pivot": [
+      768,
+      877
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-5__boss-polpo-koerper",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-polpo-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-polpo-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 366062,
+   "sha256": "619c833f74511faf2064a76749bb170afbf9bda8f8287b00ec914fb3a61b2b45",
+   "source": "level-5/boss-polpo-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      27,
+      167,
+      710,
+      731
+     ],
+     "pivot": [
+      382,
+      898
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      800,
+      167,
+      709,
+      731
+     ],
+     "pivot": [
+      1154,
+      898
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__boss-polpo-kopf",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-polpo-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-polpo-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 239366,
+   "sha256": "a86fcff8876e02b2062dc6b36427a7f19246e475b90040d7b0945bfbdfc19f65",
+   "source": "level-5/boss-polpo-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      177,
+      114,
+      344,
+      475
+     ],
+     "pivot": [
+      349,
+      589
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      747,
+      114,
+      340,
+      513
+     ],
+     "pivot": [
+      917,
+      627
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      174,
+      692,
+      343,
+      467
+     ],
+     "pivot": [
+      345,
+      1159
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      750,
+      689,
+      338,
+      509
+     ],
+     "pivot": [
+      919,
+      1198
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__l5-gischt",
+   "level": "L5",
+   "kind": "prop",
+   "localPath": "public/assets/level-5/l5-gischt.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-gischt.webp",
+   "width": 2103,
+   "height": 748,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 414334,
+   "sha256": "f472e00b95d25195c4930c8efdcdf131cf9883b95b4d83c4c288deeb2af281b9",
+   "source": "level-5/l5-gischt.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      2103,
+      748
+     ],
+     "bounds": [
+      0,
+      293,
+      2103,
+      455
+     ],
+     "pivot": [
+      1051,
+      748
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-5__l5-kulissen",
+   "level": "L5",
+   "kind": "prop",
+   "localPath": "public/assets/level-5/l5-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 389388,
+   "sha256": "6266d81f582ad14d4acc012ab0630827c3b35b0ea36089639ad00ebfea94eafe",
+   "source": "level-5/l5-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      30,
+      71,
+      482,
+      402
+     ],
+     "pivot": [
+      271,
+      473
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      145,
+      512,
+      335
+     ],
+     "pivot": [
+      768,
+      480
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      109,
+      486,
+      390
+     ],
+     "pivot": [
+      1267,
+      499
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      156,
+      532,
+      163,
+      431
+     ],
+     "pivot": [
+      237,
+      963
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      622,
+      558,
+      402,
+      380
+     ],
+     "pivot": [
+      823,
+      938
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      581,
+      478,
+      394
+     ],
+     "pivot": [
+      1263,
+      975
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-5__l5-tinte",
+   "level": "L5",
+   "kind": "prop",
+   "localPath": "public/assets/level-5/l5-tinte.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-tinte.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 324936,
+   "sha256": "89279ab82dcb534544596aee995e05632606538fab0841f0a52df17f78ff8504",
+   "source": "level-5/l5-tinte.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      117,
+      97,
+      1116,
+      1092
+     ],
+     "pivot": [
+      675,
+      1189
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-5__l5-wellen",
+   "level": "L5",
+   "kind": "prop",
+   "localPath": "public/assets/level-5/l5-wellen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-wellen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 557366,
+   "sha256": "d5660106e824d3ce2f78882d43c33b6970e8a688f9b5a633f2246ef7398683c6",
+   "source": "level-5/l5-wellen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      0,
+      78,
+      1536,
+      921
+     ],
+     "pivot": [
+      768,
+      999
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-5__l5-zwischenbild-ankunft",
+   "level": "L5",
+   "kind": "story",
+   "localPath": "public/assets/level-5/l5-zwischenbild-ankunft.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-zwischenbild-ankunft.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 332162,
+   "sha256": "01b35fe042a76e5c45aa514021e09d9bf841ae512a700b83dab107a2fe53e4b8",
+   "source": "level-5/l5-zwischenbild-ankunft.png",
+   "corrected": false
+  },
+  {
+   "id": "level-6__l6a-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 544110,
+   "sha256": "bee37fda1bb16c0c873efa4a029f0c5b7cf9b62123b03478563133551b534b63",
+   "source": "level-6/l6a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-6__l6b-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 441876,
+   "sha256": "3e1cdf2e5cc407a5d46de9983c49933f3b6883a4fa126ec49d013c1881da6dbd",
+   "source": "level-6/l6b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-6__l6c-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 377010,
+   "sha256": "b9d122bb62a0719a2be710a7c0235aa8eb3234250f429d7765ad76556f03ba14",
+   "source": "level-6/l6c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-6__boss-limoncello-arm",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-limoncello-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-limoncello-arm.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 307112,
+   "sha256": "f3560cce859ea24437be8643c0d61e8abc9dab61b56fbc1899cd93472a6d20d0",
+   "source": "level-6/boss-limoncello-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      29,
+      123,
+      1179,
+      1057
+     ],
+     "pivot": [
+      618,
+      1180
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__boss-limoncello-koerper",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-limoncello-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-limoncello-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 389738,
+   "sha256": "eac2950d050377ac2138094f9084c9ddedb2126763a23498f632feb0f0d22e53",
+   "source": "level-6/boss-limoncello-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      73,
+      57,
+      648,
+      914
+     ],
+     "pivot": [
+      397,
+      971
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      818,
+      58,
+      651,
+      913
+     ],
+     "pivot": [
+      1143,
+      971
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__boss-limoncello-kopf",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-limoncello-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-limoncello-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 408364,
+   "sha256": "a6899d858d3265c67b9715d0a5757b9376e47d999ccf5570ebed24d54bb65504",
+   "source": "level-6/boss-limoncello-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      48,
+      66,
+      547,
+      519
+     ],
+     "pivot": [
+      321,
+      585
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      658,
+      66,
+      547,
+      523
+     ],
+     "pivot": [
+      931,
+      589
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      43,
+      667,
+      557,
+      531
+     ],
+     "pivot": [
+      321,
+      1198
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      655,
+      658,
+      557,
+      545
+     ],
+     "pivot": [
+      933,
+      1203
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__boss-vespacapo-arm",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-vespacapo-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-vespacapo-arm.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 260504,
+   "sha256": "dde13240e66206d8e540ce67ea9fc2d216d1d9040805cdc385dd22f0f8d16dd0",
+   "source": "level-6/boss-vespacapo-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      69,
+      205,
+      1140,
+      857
+     ],
+     "pivot": [
+      639,
+      1062
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__boss-vespacapo-koerper",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-vespacapo-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-vespacapo-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 382720,
+   "sha256": "fff6d1a3990d3db5b300550d6af57ab7bb243d78997d7f302ac325a9522685ae",
+   "source": "level-6/boss-vespacapo-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      34,
+      96,
+      714,
+      855
+     ],
+     "pivot": [
+      391,
+      951
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      792,
+      96,
+      729,
+      852
+     ],
+     "pivot": [
+      1156,
+      948
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__boss-vespacapo-kopf",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-vespacapo-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-vespacapo-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 431898,
+   "sha256": "e1f8c7f517f87998379dea5c2b00a300a599407c8e694d64f89bbb750fadfe37",
+   "source": "level-6/boss-vespacapo-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      146,
+      36,
+      391,
+      573
+     ],
+     "pivot": [
+      341,
+      609
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      743,
+      37,
+      403,
+      578
+     ],
+     "pivot": [
+      944,
+      615
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      129,
+      643,
+      428,
+      574
+     ],
+     "pivot": [
+      343,
+      1217
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      727,
+      627,
+      439,
+      597
+     ],
+     "pivot": [
+      946,
+      1224
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-6__vespa-gang-zombie-posen",
+   "level": "L6",
+   "kind": "character",
+   "localPath": "public/assets/level-6/vespa-gang-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/vespa-gang-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 467510,
+   "sha256": "c38f84993b145ed0c942ea471e07b723205b8c5a4d80900ccbcbea0c64c2cbde",
+   "source": "level-6/vespa-gang-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      107,
+      24,
+      290,
+      469
+     ],
+     "pivot": [
+      252,
+      493
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      579,
+      24,
+      329,
+      468
+     ],
+     "pivot": [
+      743,
+      492
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1066,
+      23,
+      446,
+      469
+     ],
+     "pivot": [
+      1289,
+      492
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      39,
+      538,
+      460,
+      453
+     ],
+     "pivot": [
+      269,
+      991
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      559,
+      532,
+      465,
+      459
+     ],
+     "pivot": [
+      791,
+      991
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      532,
+      497,
+      444
+     ],
+     "pivot": [
+      1272,
+      976
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-6__vespa-gang-zombie-sprung",
+   "level": "L6",
+   "kind": "character",
+   "localPath": "public/assets/level-6/vespa-gang-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/vespa-gang-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 459022,
+   "sha256": "12b45546e38e92f2465b08ccab50a46fd2c261f1c1736d46e7f0dd8ec9874225",
+   "source": "level-6/vespa-gang-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      0,
+      74,
+      1254,
+      1180
+     ],
+     "pivot": [
+      627,
+      1254
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-6__l6-kulissen",
+   "level": "L6",
+   "kind": "prop",
+   "localPath": "public/assets/level-6/l6-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    4,
+    2
+   ],
+   "bytes": 451476,
+   "sha256": "cc00e7bf0221f025f276335d19c5d3f22325ece7ec270b9a7fc47caba4320697",
+   "source": "level-6/l6-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      54,
+      35,
+      255,
+      462
+     ],
+     "pivot": [
+      181,
+      497
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      384,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      407,
+      13,
+      263,
+      487
+     ],
+     "pivot": [
+      538,
+      500
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      769,
+      80,
+      343,
+      396
+     ],
+     "pivot": [
+      940,
+      476
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "cell": [
+      1152,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      1161,
+      81,
+      350,
+      399
+     ],
+     "pivot": [
+      1336,
+      480
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      15,
+      623,
+      366,
+      283
+     ],
+     "pivot": [
+      198,
+      906
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      384,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      408,
+      652,
+      336,
+      275
+     ],
+     "pivot": [
+      576,
+      927
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      768,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      797,
+      527,
+      263,
+      433
+     ],
+     "pivot": [
+      928,
+      960
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "cell": [
+      1152,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      1160,
+      622,
+      359,
+      315
+     ],
+     "pivot": [
+      1339,
+      937
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__l6-laternenlicht",
+   "level": "L6",
+   "kind": "prop",
+   "localPath": "public/assets/level-6/l6-laternenlicht.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6-laternenlicht.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 381450,
+   "sha256": "25e5c43edfdf9fc9945b2f47f68d039a54098c44bb5700bac88784400f4ad49a",
+   "source": "level-6/l6-laternenlicht.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      90,
+      61,
+      1059,
+      1129
+     ],
+     "pivot": [
+      619,
+      1190
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-6__l6-zwischenbild-castello",
+   "level": "L6",
+   "kind": "story",
+   "localPath": "public/assets/level-6/l6-zwischenbild-castello.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6-zwischenbild-castello.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 571082,
+   "sha256": "b484cba93589410860e6eabe68b62bc37305d258ec138ed3041309bfcddc824a",
+   "source": "level-6/l6-zwischenbild-castello.png",
+   "corrected": false
+  },
+  {
+   "id": "castello-v2__l7b-hintergrund-castello-v2",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/castello-v2/l7b-hintergrund-castello-v2.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/castello-v2/l7b-hintergrund-castello-v2.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 606506,
+   "sha256": "1783d62ce161a9a59657e55e0500a3853ebf1efa9c8a18030197393ea4080287",
+   "source": "castello-v2/l7b-hintergrund-castello-v2.png",
+   "corrected": false
+  },
+  {
+   "id": "level-7__l7a-hintergrund",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/level-7/l7a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 366400,
+   "sha256": "bc6d22f46222eb93fccdaba3485045199fe6dd95344b1a255492f3310b465611",
+   "source": "level-7/l7a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-7__l7b-hintergrund",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/level-7/l7b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 492844,
+   "sha256": "714342ec6da02c02f1c0e0eb658fd4115101fb15d27eba9ec38856874398c644",
+   "source": "level-7/l7b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-7__boss-cavaliere-arm",
+   "level": "L7",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-7/boss-cavaliere-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/boss-cavaliere-arm.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 257070,
+   "sha256": "8afa90cd6f219cea82a0dcb38f81cf7f5e71f7ac64ee370d826ca4dc9e1af4dd",
+   "source": "level-7/boss-cavaliere-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      76,
+      81,
+      1164,
+      1118
+     ],
+     "pivot": [
+      658,
+      1199
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__boss-cavaliere-koerper",
+   "level": "L7",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-7/boss-cavaliere-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/boss-cavaliere-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 364686,
+   "sha256": "a7b11ac091a38aa7f1ddc38e685800e190ad84ea8a98289be3305718d78bab93",
+   "source": "level-7/boss-cavaliere-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      82,
+      69,
+      633,
+      898
+     ],
+     "pivot": [
+      398,
+      967
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      817,
+      67,
+      650,
+      900
+     ],
+     "pivot": [
+      1142,
+      967
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__boss-cavaliere-kopf",
+   "level": "L7",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-7/boss-cavaliere-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/boss-cavaliere-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 411884,
+   "sha256": "2b742a1d8689dd83b92c8c586004bd11cc6b5fdec28eb614fc4c8b62cc537ee8",
+   "source": "level-7/boss-cavaliere-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      62,
+      43,
+      516,
+      573
+     ],
+     "pivot": [
+      320,
+      616
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      690,
+      43,
+      511,
+      573
+     ],
+     "pivot": [
+      945,
+      616
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      62,
+      660,
+      516,
+      558
+     ],
+     "pivot": [
+      320,
+      1218
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      686,
+      688,
+      511,
+      531
+     ],
+     "pivot": [
+      941,
+      1219
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__l7-castello",
+   "level": "L7",
+   "kind": "prop",
+   "localPath": "public/assets/level-7/l7-castello.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7-castello.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 520484,
+   "sha256": "ef1dc61354962ec115ff12bc38e3d5655f7a0eb2683f99f4b3c4ba4c0b07f895",
+   "source": "level-7/l7-castello.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      7,
+      120,
+      1241,
+      1060
+     ],
+     "pivot": [
+      627,
+      1180
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__l7-gischt",
+   "level": "L7",
+   "kind": "prop",
+   "localPath": "public/assets/level-7/l7-gischt.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7-gischt.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 511016,
+   "sha256": "52fe639053147c55d427c3ddf7ac8247167ee8ea329400bfbeac070dac2ed8c0",
+   "source": "level-7/l7-gischt.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      10,
+      231,
+      1234,
+      1018
+     ],
+     "pivot": [
+      627,
+      1249
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__l7-kulissen",
+   "level": "L7",
+   "kind": "prop",
+   "localPath": "public/assets/level-7/l7-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 512678,
+   "sha256": "952880c164cf61213ef3c678e53d5f5348f7be7ec2b676dbc84fd7f7ea63f5ee",
+   "source": "level-7/l7-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      182,
+      9,
+      143,
+      495
+     ],
+     "pivot": [
+      253,
+      504
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      528,
+      174,
+      476,
+      271
+     ],
+     "pivot": [
+      766,
+      445
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1046,
+      9,
+      455,
+      472
+     ],
+     "pivot": [
+      1273,
+      481
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      29,
+      512,
+      459,
+      465
+     ],
+     "pivot": [
+      258,
+      977
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      526,
+      546,
+      482,
+      422
+     ],
+     "pivot": [
+      767,
+      968
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1042,
+      541,
+      484,
+      436
+     ],
+     "pivot": [
+      1284,
+      977
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-7__l7-zwischenbild-tor",
+   "level": "L7",
+   "kind": "story",
+   "localPath": "public/assets/level-7/l7-zwischenbild-tor.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7-zwischenbild-tor.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 660972,
+   "sha256": "2f9b862542d7df2a006ff9ecd98c690dd9fc8174de3f525461bc6d0f77cad518",
+   "source": "level-7/l7-zwischenbild-tor.png",
+   "corrected": false
+  },
+  {
+   "id": "level-8__l8a-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 539266,
+   "sha256": "6d5ba18d455b0ab78305f5f39aa9b8307f2eefc3f37165e864e5684a316d1b80",
+   "source": "level-8/l8a-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-8__l8b-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 354562,
+   "sha256": "00aa1237252ae9ec3f2e64476620d00542adce71613e27f4407691d8a2ca583d",
+   "source": "level-8/l8b-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-8__l8c-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 421018,
+   "sha256": "b7b692cfc47202ad133194213871b4b44eb61e5905021f1db141926ca2e6f75c",
+   "source": "level-8/l8c-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-8__l8d-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 495320,
+   "sha256": "c506c735a1cd17979e0e334ce4a864c8b3d8d0d3d232c701474c14af5e0e073c",
+   "source": "level-8/l8d-hintergrund.png",
+   "corrected": false
+  },
+  {
+   "id": "level-8__boss-burna-arm",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-arm.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 177682,
+   "sha256": "51f9124c5fcf351805800a44b20c9e6d3575a871307b47ea7552bb840117bca1",
+   "source": "level-8/boss-burna-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      59,
+      32,
+      1459,
+      903
+     ],
+     "pivot": [
+      788,
+      935
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-burna-koerper",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 241194,
+   "sha256": "307c6780ed04d5afdb04285d00d479e56673bd8495714b833572523b84cea9c6",
+   "source": "level-8/boss-burna-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      130,
+      41,
+      515,
+      932
+     ],
+     "pivot": [
+      387,
+      973
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      848,
+      40,
+      604,
+      933
+     ],
+     "pivot": [
+      1150,
+      973
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-burna-kopf",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 409616,
+   "sha256": "59ff07108c4ab1d358e5649bc6d202955c0e6e14ad619bad44b701fbad4782dc",
+   "source": "level-8/boss-burna-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      109,
+      9,
+      463,
+      606
+     ],
+     "pivot": [
+      340,
+      615
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      691,
+      23,
+      485,
+      592
+     ],
+     "pivot": [
+      933,
+      615
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      82,
+      629,
+      489,
+      590
+     ],
+     "pivot": [
+      326,
+      1219
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      702,
+      645,
+      541,
+      573
+     ],
+     "pivot": [
+      972,
+      1218
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-burna-maschine",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-maschine.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-maschine.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 516484,
+   "sha256": "71b037ed57013f6e52b098075e962241dcaadbfb4bac7fbffa4ecc89f6f0f816",
+   "source": "level-8/boss-burna-maschine.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      17,
+      50,
+      1500,
+      876
+     ],
+     "pivot": [
+      767,
+      926
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-burna-tentakel",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-tentakel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-tentakel.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 246724,
+   "sha256": "118f51cb86f46517f4bfeb1f51c3d53f7ac810a34f3f5ef72bad62a715b2b89e",
+   "source": "level-8/boss-burna-tentakel.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      33,
+      158,
+      1472,
+      709
+     ],
+     "pivot": [
+      769,
+      867
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-suora-arm",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-suora-arm.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-suora-arm.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 227016,
+   "sha256": "ccde7eb2b0b12613a64ba1c8b5dd443e8429e8a4a05390ad2ba510be2fa02ea6",
+   "source": "level-8/boss-suora-arm.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1536,
+      1024
+     ],
+     "bounds": [
+      59,
+      10,
+      1435,
+      1011
+     ],
+     "pivot": [
+      776,
+      1021
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-suora-koerper",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-suora-koerper.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-suora-koerper.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    2,
+    1
+   ],
+   "bytes": 275928,
+   "sha256": "f6a4bf0557a7b62ea5e5280eef0ad6a262019ac6f1e4527d36b81e9e984d8891",
+   "source": "level-8/boss-suora-koerper.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      133,
+      40,
+      617,
+      941
+     ],
+     "pivot": [
+      441,
+      981
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      768,
+      1024
+     ],
+     "bounds": [
+      794,
+      42,
+      609,
+      939
+     ],
+     "pivot": [
+      1098,
+      981
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__boss-suora-kopf",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-suora-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-suora-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 291758,
+   "sha256": "444afa6439992a26da3769132ed59ca9b58908cb6d4fa92f9c1404edcfcc3046",
+   "source": "level-8/boss-suora-kopf.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      77,
+      57,
+      525,
+      527
+     ],
+     "pivot": [
+      339,
+      584
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      627,
+      0,
+      627,
+      627
+     ],
+     "bounds": [
+      659,
+      57,
+      525,
+      530
+     ],
+     "pivot": [
+      921,
+      587
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      68,
+      656,
+      534,
+      535
+     ],
+     "pivot": [
+      335,
+      1191
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      627,
+      627,
+      627,
+      627
+     ],
+     "bounds": [
+      652,
+      667,
+      535,
+      531
+     ],
+     "pivot": [
+      919,
+      1198
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__suora-zombie-posen",
+   "level": "L8",
+   "kind": "character",
+   "localPath": "public/assets/level-8/suora-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/suora-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 445368,
+   "sha256": "753a2f70f45973e86dd3f4a95412beb7cfefd9b5d948d4a125dc13fce0628ea6",
+   "source": "level-8/suora-zombie-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      121,
+      7,
+      342,
+      498
+     ],
+     "pivot": [
+      292,
+      505
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      588,
+      7,
+      325,
+      499
+     ],
+     "pivot": [
+      750,
+      506
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1033,
+      37,
+      472,
+      449
+     ],
+     "pivot": [
+      1269,
+      486
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      29,
+      533,
+      483,
+      465
+     ],
+     "pivot": [
+      270,
+      998
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      512,
+      522,
+      512,
+      477
+     ],
+     "pivot": [
+      768,
+      999
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      538,
+      481,
+      459
+     ],
+     "pivot": [
+      1264,
+      997
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "level-8__suora-zombie-sprung",
+   "level": "L8",
+   "kind": "character",
+   "localPath": "public/assets/level-8/suora-zombie-sprung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/suora-zombie-sprung.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 364102,
+   "sha256": "4883c46e39e5f6a5eaf687d691af6460425753a2e9174eff1f53c76db917dc4e",
+   "source": "level-8/suora-zombie-sprung.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      36,
+      17,
+      1203,
+      1221
+     ],
+     "pivot": [
+      637,
+      1238
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__l8-ampulle",
+   "level": "L8",
+   "kind": "prop",
+   "localPath": "public/assets/level-8/l8-ampulle.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-ampulle.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 167486,
+   "sha256": "dc37559b8baa9f33b2689d4d06d2c8b8222857d4a4c1001e941e22c618739db7",
+   "source": "level-8/l8-ampulle.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      406,
+      8,
+      440,
+      1230
+     ],
+     "pivot": [
+      626,
+      1238
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__l8-fackellicht",
+   "level": "L8",
+   "kind": "prop",
+   "localPath": "public/assets/level-8/l8-fackellicht.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-fackellicht.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 281646,
+   "sha256": "3eb12f844b1369901c821402fb52500c1b9c54a8961392b2e15fd8770b00c51e",
+   "source": "level-8/l8-fackellicht.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      314,
+      24,
+      663,
+      1212
+     ],
+     "pivot": [
+      645,
+      1236
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__l8-kulissen",
+   "level": "L8",
+   "kind": "prop",
+   "localPath": "public/assets/level-8/l8-kulissen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-kulissen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    4,
+    2
+   ],
+   "bytes": 563418,
+   "sha256": "3fb42768888b191e51cbcf82941288f90ecf1f808363f4debca9fc3af5b75390",
+   "source": "level-8/l8-kulissen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      13,
+      17,
+      371,
+      482
+     ],
+     "pivot": [
+      198,
+      499
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      384,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      384,
+      16,
+      384,
+      479
+     ],
+     "pivot": [
+      576,
+      495
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      768,
+      17,
+      373,
+      482
+     ],
+     "pivot": [
+      954,
+      499
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "cell": [
+      1152,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      1216,
+      23,
+      294,
+      482
+     ],
+     "pivot": [
+      1363,
+      505
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      25,
+      528,
+      351,
+      466
+     ],
+     "pivot": [
+      200,
+      994
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      384,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      395,
+      539,
+      358,
+      425
+     ],
+     "pivot": [
+      574,
+      964
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      768,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      777,
+      601,
+      371,
+      341
+     ],
+     "pivot": [
+      962,
+      942
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "cell": [
+      1152,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      1158,
+      568,
+      357,
+      412
+     ],
+     "pivot": [
+      1336,
+      980
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__l8-wirbel",
+   "level": "L8",
+   "kind": "prop",
+   "localPath": "public/assets/level-8/l8-wirbel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-wirbel.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 508760,
+   "sha256": "7959f329a2883b480e8e55b3896771ecdbb7a2db15ce80a167ba251b88d98490",
+   "source": "level-8/l8-wirbel.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      1254,
+      1254
+     ],
+     "bounds": [
+      34,
+      37,
+      1189,
+      1188
+     ],
+     "pivot": [
+      628,
+      1225
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "level-8__l8-ende",
+   "level": "L8",
+   "kind": "story",
+   "localPath": "public/assets/level-8/l8-ende.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-ende.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 442690,
+   "sha256": "e4750c0f9ccb86bdb6c2a52c94ad24dae002a6300bf2dedf029f6d09432ebf01",
+   "source": "level-8/l8-ende.png",
+   "corrected": false
+  },
+  {
+   "id": "fraticello-posen",
+   "level": "alle",
+   "kind": "character",
+   "localPath": "public/assets/fraticello-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/fraticello-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 321232,
+   "sha256": "bab3d77f6a4de53c7a9d4428a779cba2dad1181d74d4b1e31ff36b07726e1130",
+   "source": "fraticello-posen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      28,
+      17,
+      436,
+      495
+     ],
+     "pivot": [
+      246,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      515,
+      17,
+      509,
+      450
+     ],
+     "pivot": [
+      769,
+      467
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1024,
+      33,
+      498,
+      479
+     ],
+     "pivot": [
+      1273,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      46,
+      512,
+      421,
+      445
+     ],
+     "pivot": [
+      256,
+      957
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      563,
+      602,
+      461,
+      345
+     ],
+     "pivot": [
+      793,
+      947
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1120,
+      512,
+      394,
+      442
+     ],
+     "pivot": [
+      1317,
+      954
+     ],
+     "touchesCellEdge": true
+    }
+   ]
+  },
+  {
+   "id": "cover-16x9",
+   "level": "alle",
+   "kind": "cover",
+   "localPath": "public/assets/cover-16x9.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/cover-16x9.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 579970,
+   "sha256": "674cf0b8720497518db8c406c58964e45502026a5ef3cdfb0e4ca1be9967ec6c",
+   "source": "cover-16x9.png",
+   "corrected": false
+  },
+  {
+   "id": "cover-2x3",
+   "level": "alle",
+   "kind": "cover",
+   "localPath": "public/assets/cover-2x3.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/cover-2x3.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 736344,
+   "sha256": "7e62bb7d281014e0256c3691e236448a94b02bac67482373e50428d6e318fac3",
+   "source": "cover-2x3.png",
+   "corrected": false
+  },
+  {
+   "id": "logo-ischia",
+   "level": "alle",
+   "kind": "logo",
+   "localPath": "public/assets/logo-ischia.svg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/logo-ischia.svg",
+   "bytes": 33896,
+   "sha256": "0137130119273b623273db2dfa629dd60724b4fdd3035d087cce95d279937467",
+   "source": "logo-ischia.svg"
+  },
+  {
+   "id": "logo-ischia-compact",
+   "level": "alle",
+   "kind": "logo",
+   "localPath": "public/assets/logo-ischia-compact.svg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/logo-ischia-compact.svg",
+   "bytes": 33938,
+   "sha256": "52f94f258382a61662b47829d6dd77052ad6c1e294dfc25d230f2a26fbcc6903",
+   "source": "logo-ischia-compact.svg"
+  },
+  {
+   "id": "fx-bogen",
+   "level": "alle",
+   "kind": "prop",
+   "localPath": "public/assets/fx-bogen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/fx-bogen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    4,
+    2
+   ],
+   "bytes": 544116,
+   "sha256": "4c9ff9e3c2fbc4c15c75522e89feb90897596eebcfebd37d7bec3ad7f46fec5a",
+   "source": "fx-bogen.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      39,
+      91,
+      328,
+      383
+     ],
+     "pivot": [
+      203,
+      474
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      384,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      402,
+      68,
+      344,
+      411
+     ],
+     "pivot": [
+      574,
+      479
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      768,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      786,
+      72,
+      350,
+      401
+     ],
+     "pivot": [
+      961,
+      473
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "cell": [
+      1152,
+      0,
+      384,
+      512
+     ],
+     "bounds": [
+      1168,
+      79,
+      341,
+      401
+     ],
+     "pivot": [
+      1338,
+      480
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      30,
+      554,
+      335,
+      417
+     ],
+     "pivot": [
+      197,
+      971
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      384,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      400,
+      569,
+      357,
+      386
+     ],
+     "pivot": [
+      578,
+      955
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      768,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      808,
+      553,
+      327,
+      416
+     ],
+     "pivot": [
+      971,
+      969
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "cell": [
+      1152,
+      512,
+      384,
+      512
+     ],
+     "bounds": [
+      1172,
+      563,
+      343,
+      397
+     ],
+     "pivot": [
+      1343,
+      960
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "gemeinsam__wurfobjekte-a",
+   "level": "alle",
+   "kind": "prop",
+   "localPath": "public/assets/gemeinsam/wurfobjekte-a.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/gemeinsam/wurfobjekte-a.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 349122,
+   "sha256": "99fef11d9a31e0774e71998d84033489c439061c52bc9c46c475acfe0f1ee511",
+   "source": "gemeinsam/wurfobjekte-a.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      26,
+      95,
+      469,
+      381
+     ],
+     "pivot": [
+      260,
+      476
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      529,
+      142,
+      493,
+      370
+     ],
+     "pivot": [
+      775,
+      512
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1063,
+      102,
+      455,
+      353
+     ],
+     "pivot": [
+      1290,
+      455
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      61,
+      561,
+      399,
+      389
+     ],
+     "pivot": [
+      260,
+      950
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      543,
+      512,
+      475,
+      458
+     ],
+     "pivot": [
+      780,
+      970
+     ],
+     "touchesCellEdge": true
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1079,
+      578,
+      394,
+      348
+     ],
+     "pivot": [
+      1276,
+      926
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "gemeinsam__wurfobjekte-b",
+   "level": "alle",
+   "kind": "prop",
+   "localPath": "public/assets/gemeinsam/wurfobjekte-b.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/gemeinsam/wurfobjekte-b.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 331530,
+   "sha256": "ed00206de25d00d48a1195d1b32774f03f71d87984d1fc5c11096561d7ec4339",
+   "source": "gemeinsam/wurfobjekte-b.png",
+   "corrected": false,
+   "cells": [
+    {
+     "col": 0,
+     "row": 0,
+     "cell": [
+      0,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      51,
+      76,
+      452,
+      375
+     ],
+     "pivot": [
+      277,
+      451
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "cell": [
+      512,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      573,
+      40,
+      391,
+      411
+     ],
+     "pivot": [
+      768,
+      451
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "cell": [
+      1024,
+      0,
+      512,
+      512
+     ],
+     "bounds": [
+      1061,
+      60,
+      432,
+      407
+     ],
+     "pivot": [
+      1277,
+      467
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "cell": [
+      0,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      108,
+      525,
+      311,
+      438
+     ],
+     "pivot": [
+      263,
+      963
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "cell": [
+      512,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      629,
+      516,
+      276,
+      450
+     ],
+     "pivot": [
+      767,
+      966
+     ],
+     "touchesCellEdge": false
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "cell": [
+      1024,
+      512,
+      512,
+      512
+     ],
+     "bounds": [
+      1080,
+      547,
+      397,
+      408
+     ],
+     "pivot": [
+      1278,
+      955
+     ],
+     "touchesCellEdge": false
+    }
+   ]
+  },
+  {
+   "id": "intro-prologo",
+   "level": "intro",
+   "kind": "cutscene",
+   "localPath": "public/cutscenes/intro-prologo.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo.mp4",
+   "bytes": 17718403,
+   "sha256": "c9a96e4f720a65475925917fca2a8788536332f3eb43f95b8579d6fd19a31959",
+   "source": "paket v1"
+  },
+  {
+   "id": "intro-prologo-720p",
+   "level": "intro",
+   "kind": "cutscene",
+   "localPath": "public/cutscenes/intro-prologo-720p.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-720p.mp4",
+   "bytes": 9213810,
+   "sha256": "fa9532ec8cc7549e9cdc0a3fcdf7363e6e71f9e0ad94f00b0140257a68560ddc",
+   "source": "paket v1"
+  },
+  {
+   "id": "intro-prologo-poster",
+   "level": "intro",
+   "kind": "cutscene",
+   "localPath": "public/cutscenes/intro-prologo-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-poster.jpg",
+   "bytes": 277913,
+   "sha256": "e85b66a4f9d14523c2809c98204ce9f7024a7a6b89142fac5d82e1670f7beada",
+   "source": "paket v1"
+  }
+ ]
+}
