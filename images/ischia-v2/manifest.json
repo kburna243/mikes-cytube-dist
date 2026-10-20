@@ -8446,8 +8446,8 @@
    "kind": "logo",
    "localPath": "public/assets/logo-ischia.svg",
    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/logo-ischia.svg",
-   "bytes": 33896,
-   "sha256": "0137130119273b623273db2dfa629dd60724b4fdd3035d087cce95d279937467",
+   "bytes": 33894,
+   "sha256": "d27ca8d9349e48777ebd5c92bc5632d8572f9d1332c09f4b4c5b3d3f80f775c6",
    "source": "logo-ischia.svg"
   },
   {
@@ -8456,8 +8456,8 @@
    "kind": "logo",
    "localPath": "public/assets/logo-ischia-compact.svg",
    "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/logo-ischia-compact.svg",
-   "bytes": 33938,
-   "sha256": "52f94f258382a61662b47829d6dd77052ad6c1e294dfc25d230f2a26fbcc6903",
+   "bytes": 33936,
+   "sha256": "9186fe7bb4ab6f0948701e0a38da6494b01843e5fa21ab9dbcfeb32fb998020f",
    "source": "logo-ischia-compact.svg"
   },
   {
