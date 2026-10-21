@@ -1,0 +1,17 @@
+SET UTF-8
+TRY esianrtolcdugmfbwhzkvpyj_ESIANRTOLCDUGMFBWHZKVpYJ
+FLAG pfx
+
+PFX U Y 1
+PFX U 0 un .
+
+SFX S Y 2
+SFX S 0 s [^s]
+SFX S 0 es s
+
+SFX N Y 2
+SFX N 0 n [^n]
+SFX N 0 en [^e]
+
+SFX T Y 1
+SFX T 0 t .

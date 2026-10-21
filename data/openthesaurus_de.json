@@ -1,0 +1,202 @@
+[
+  {
+    "group": "sehen",
+    "words": ["sehen", "blicken", "schauen", "erspähen", "erblicken", "betrachten", "mustern", "beobachten", "gewahren", "äugen"]
+  },
+  {
+    "group": "gehen",
+    "words": ["gehen", "schreiten", "wandeln", "schleichen", "stiefeln", "waten", "eilen", "hasten", "wandern", "trotten", "stapfen"]
+  },
+  {
+    "group": "sprechen",
+    "words": ["sprechen", "reden", "sagen", "flüstern", "murmeln", "hauchen", "äußern", "erwidern", "entgegnen", "vernehmen lassen"]
+  },
+  {
+    "group": "rufen",
+    "words": ["rufen", "schreien", "brüllen", "ausrufen", "hallen", "poltern", "kreischen", "tönen"]
+  },
+  {
+    "group": "hören",
+    "words": ["hören", "lauschen", "horchen", "vernehmen", "aufschnappen", "belauschen"]
+  },
+  {
+    "group": "fragen",
+    "words": ["fragen", "erkunden", "forschen", "nachhaken", "verhören", "befragen", "ausfragen", "inquirieren"]
+  },
+  {
+    "group": "antworten",
+    "words": ["antworten", "erwidern", "entgegnen", "versetzen", "bejahen", "pareren"]
+  },
+  {
+    "group": "Dunkelheit",
+    "words": ["Dunkelheit", "Finsternis", "Schatten", "Dämmerung", "Düsterkeit", "Nacht", "Halbdunkel", "Schwarz"]
+  },
+  {
+    "group": "Licht",
+    "words": ["Licht", "Schein", "Glanz", "Schimmer", "Glimmen", "Helle", "Leuchten", "Glut", "Strahl"]
+  },
+  {
+    "group": "Angst",
+    "words": ["Angst", "Furcht", "Schrecken", "Grauen", "Beklemmung", "Bangen", "Panik", "Unruhe", "Zagen"]
+  },
+  {
+    "group": "Mut",
+    "words": ["Mut", "Kühnheit", "Tapferkeit", "Entschlossenheit", "Courage", "Beherztheit", "Wagemut"]
+  },
+  {
+    "group": "Wut",
+    "words": ["Wut", "Zorn", "Grimm", "Empörung", "Groll", "Raserei", "Erbitterung", "Missmut"]
+  },
+  {
+    "group": "Freude",
+    "words": ["Freude", "Frohsinn", "Heiterkeit", "Entzücken", "Wohlgefühl", "Jubel", "Seligkeit"]
+  },
+  {
+    "group": "Trauer",
+    "words": ["Trauer", "Kummer", "Schmerz", "Gram", "Betrübnis", "Wehmut", "Schwermut", "Trübsinn"]
+  },
+  {
+    "group": "Kälte",
+    "words": ["Kälte", "Frost", "Eiseskälte", "Frische", "Kühle", "Winterkälte", "Erstarrung"]
+  },
+  {
+    "group": "Wärme",
+    "words": ["Wärme", "Hitze", "Glut", "Behaglichkeit", "Glühen", "Feuer", "Sommerhitze"]
+  },
+  {
+    "group": "Geheimnis",
+    "words": ["Geheimnis", "Rätsel", "Mysterium", "Verstohlenheit", "Dunkel", "Arkana", "Verborgenes"]
+  },
+  {
+    "group": "still",
+    "words": ["still", "leise", "lautlos", "geräuschlos", "stumm", "verschwiegen", "ruhig", "friedlich"]
+  },
+  {
+    "group": "schnell",
+    "words": ["schnell", "rasch", "geschwind", "eilig", "flott", "hastig", "blitzschnell", "behende"]
+  },
+  {
+    "group": "langsam",
+    "words": ["langsam", "gemächlich", "behutsam", "bedächtig", "zögerlich", "träge", "schleppend"]
+  },
+  {
+    "group": "kalt",
+    "words": ["kalt", "frostig", "eisig", "unterkühlt", "abweisend", "herb", "schneidend", "kristallen"]
+  },
+  {
+    "group": "warm",
+    "words": ["warm", "behaglich", "milde", "herzlich", "glühend", "wohltuend", "lind"]
+  },
+  {
+    "group": "alt",
+    "words": ["alt", "betagt", "bejahrt", "historisch", "antik", "überdauert", "ehrwürdig", "greis"]
+  },
+  {
+    "group": "jung",
+    "words": ["jung", "jugendlich", "frisch", "knospend", "unerfahren", "neu", "frischgebacken"]
+  },
+  {
+    "group": "Nebel",
+    "words": ["Nebel", "Dunst", "Schwaden", "Schleier", "Nebelschleier", "Trübung", "Wrasen"]
+  },
+  {
+    "group": "Wald",
+    "words": ["Wald", "Forst", "Dickicht", "Gehölz", "Tannenwald", "Hain", "Wildnis", "Unterholz"]
+  },
+  {
+    "group": "Haus",
+    "words": ["Haus", "Gebäude", "Anwesen", "Hof", "Wohnstatt", "Hütte", "Gemach", "Heim", "Bleibe"]
+  },
+  {
+    "group": "Weg",
+    "words": ["Weg", "Pfad", "Steig", "Straße", "Gasse", "Pass", "Route", "Fährte", "Spur"]
+  },
+  {
+    "group": "Spur",
+    "words": ["Spur", "Fährte", "Abdruck", "Zeichen", "Hinweis", "Indiz", "Anhaltspunkt", "Überbleibsel"]
+  },
+  {
+    "group": "Feind",
+    "words": ["Feind", "Widersacher", "Gegner", "Opponent", "Rivale", "Antagonist", "Feindseliger"]
+  },
+  {
+    "group": "Freund",
+    "words": ["Freund", "Gefährte", "Verbündeter", "Kamerad", "Genosse", "Vertrauter", "Kumpan"]
+  },
+  {
+    "group": "Tod",
+    "words": ["Tod", "Ableben", "Ende", "Vergehen", "Hinscheiden", "Erlöschen", "Untergang"]
+  },
+  {
+    "group": "Leben",
+    "words": ["Leben", "Dasein", "Existenz", "Lebendigkeit", "Odem", "Atem", "Wirken"]
+  },
+  {
+    "group": "schön",
+    "words": ["schön", "hübsch", "anmutig", "lieblich", "bezaubernd", "graziös", "herrlich", "wunderbar"]
+  },
+  {
+    "group": "düster",
+    "words": ["düster", "finster", "unheilvoll", "bedrohlich", "finsterblickend", "schattenhaft", "beklemmend"]
+  },
+  {
+    "group": "klug",
+    "words": ["klug", "gescheit", "scharfsinnig", "weise", "verständig", "gewitzt", "bedacht", "umsichtig"]
+  },
+  {
+    "group": "grausam",
+    "words": ["grausam", "unbarmherzig", "erbarmungslos", "hartherzig", "brutal", "schonungslos", "kaltblütig"]
+  },
+  {
+    "group": "sanft",
+    "words": ["sanft", "zart", "behutsam", "glimpflich", "milde", "feinfühlig", "sachte", "schonend"]
+  },
+  {
+    "group": "stark",
+    "words": ["stark", "kraftvoll", "mächtig", "robust", "kräftig", "wuchtig", "gewaltig", "zäh"]
+  },
+  {
+    "group": "schwach",
+    "words": ["schwach", "kraftlos", "matt", "entkräftet", "hilflos", "zart", "gebrechlich", "hinfällig"]
+  },
+  {
+    "group": "Mehl",
+    "words": ["Mehl", "Kornstaub", "Weizenstaub", "Backmehl"]
+  },
+  {
+    "group": "Bäcker",
+    "words": ["Bäcker", "Bäckerin", "Bäckersmann", "Brotbäcker", "Teigkneter"]
+  },
+  {
+    "group": "Detektiv",
+    "words": ["Detektiv", "Ermittler", "Spürhund", "Schnüffler", "Kommissar", "Fahnder", "Kriminalist"]
+  },
+  {
+    "group": "Messer",
+    "words": ["Messer", "Klinge", "Dolch", "Schneide", "Feitel", "Klinge"]
+  },
+  {
+    "group": "Glaube",
+    "words": ["Glaube", "Zuversicht", "Vertrauen", "Überzeugung", "Gewissheit", "Hoffnung"]
+  },
+  {
+    "group": "Zweifel",
+    "words": ["Zweifel", "Skepsis", "Misstrauen", "Ungewissheit", "Bedenken", "Argwohn", "Vorbehalt"]
+  },
+  {
+    "group": "Stress",
+    "words": ["Stress", "Hektik", "Anspannung", "Aufregung", "Überlastung", "Bedrängnis", "Druck"]
+  },
+  {
+    "group": "Problem",
+    "words": ["Problem", "Schwierigkeit", "Hindernis", "Hürde", "Plage", "Nöte", "Zwickmühle"]
+  },
+  {
+    "group": "Gedanke",
+    "words": ["Gedanke", "Idee", "Einfall", "Erwägung", "Überlegung", "Sinnieren", "Gedankengang"]
+  },
+  {
+    "group": "denken",
+    "words": ["denken", "sinnen", "grübeln", "nachdenken", "erwägen", "bedenken", "brüten", "mutmaßen"]
+  }
+]

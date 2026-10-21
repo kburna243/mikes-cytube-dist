@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Atkinson Hyperlegible', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    
+    /* Accessibility settings default */
+    --base-font-size: 20px;
+    --line-height-ratio: 1.7;
+    --max-line-chars: 68ch;
+    
+    /* Default Theme: Dark High Contrast (AAA compliant) */
+    --bg-canvas: #09090b;
+    --bg-surface: #18181b;
+    --bg-surface-elevated: #27272a;
+    --text-primary: #ffffff;
+    --text-secondary: #e4e4e7;
+    --text-muted: #a1a1aa;
+    --border-color: #3f3f46;
+    --border-focus: #fbbf24;
+    --accent: #fbbf24;
+    --accent-contrast: #000000;
+    --accent-glow: rgba(251, 191, 36, 0.2);
+    --danger: #f87171;
+    --success: #4ade80;
+    --warning: #facc15;
+    --info: #38bdf8;
+  }
+
+  /* Theme: Yellow on Black (German Low-Vision Standard DIN 1450 / AAA) */
+  [data-theme="yellow-black"] {
+    --bg-canvas: #000000;
+    --bg-surface: #0f0f00;
+    --bg-surface-elevated: #1f1f00;
+    --text-primary: #ffeb3b;
+    --text-secondary: #fff59d;
+    --text-muted: #fbc02d;
+    --border-color: #ffeb3b;
+    --border-focus: #00e5ff;
+    --accent: #00e5ff;
+    --accent-contrast: #000000;
+    --accent-glow: rgba(0, 229, 255, 0.25);
+    --danger: #ff5252;
+    --success: #69f0ae;
+    --warning: #ffd740;
+    --info: #40c4ff;
+  }
+
+  /* Theme: Classic Paper / Warm Pergament */
+  [data-theme="paper"] {
+    --bg-canvas: #fbf8ef;
+    --bg-surface: #f2ecd8;
+    --bg-surface-elevated: #e6dfc8;
+    --text-primary: #12100e;
+    --text-secondary: #2b2724;
+    --text-muted: #5e5750;
+    --border-color: #797166;
+    --border-focus: #b45309;
+    --accent: #92400e;
+    --accent-contrast: #ffffff;
+    --accent-glow: rgba(146, 64, 14, 0.2);
+    --danger: #b91c1c;
+    --success: #15803d;
+    --warning: #a16207;
+    --info: #1d4ed8;
+  }
+
+  /* Theme: Pure White / Black High Contrast */
+  [data-theme="light-high"] {
+    --bg-canvas: #ffffff;
+    --bg-surface: #f4f4f5;
+    --bg-surface-elevated: #e4e4e7;
+    --text-primary: #000000;
+    --text-secondary: #18181b;
+    --text-muted: #3f3f46;
+    --border-color: #000000;
+    --border-focus: #1d4ed8;
+    --accent: #0f172a;
+    --accent-contrast: #ffffff;
+    --accent-glow: rgba(15, 23, 42, 0.2);
+    --danger: #dc2626;
+    --success: #16a34a;
+    --warning: #ca8a04;
+    --info: #2563eb;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    font-size: var(--base-font-size);
+    line-height: var(--line-height-ratio);
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior-y: none; /* Tablet: Kein versehentliches Pull-to-Refresh */
+  }
+
+  body {
+    background-color: var(--bg-canvas);
+    color: var(--text-primary);
+    min-height: 100vh;
+    overflow-x: hidden;
+    overscroll-behavior-y: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* A7: WCAG 2.2 AAA Focus Outline - 3px high contrast, NEVER outline:none */
+  *:focus-visible {
+    outline: 3px solid var(--border-focus) !important;
+    outline-offset: 3px !important;
+  }
+
+  /* A4: Reading measure discipline */
+  .prose-measure {
+    max-width: var(--max-line-chars);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* A6: Minimum touch target 48x48px */
+  .touch-target {
+    min-height: 48px;
+    min-width: 48px;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

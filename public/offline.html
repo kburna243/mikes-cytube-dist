@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline · Federführer</title>
+  <style>
+    body {
+      background-color: #09090b;
+      color: #ffffff;
+      font-family: system-ui, -apple-system, sans-serif;
+      margin: 0;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+    .card {
+      background-color: #18181b;
+      border: 2px solid #3f3f46;
+      border-radius: 24px;
+      padding: 32px;
+      max-width: 480px;
+    }
+    h1 {
+      color: #fbbf24;
+      font-size: 28px;
+      margin-bottom: 12px;
+    }
+    p {
+      color: #e4e4e7;
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .badge {
+      display: inline-block;
+      background-color: #27272a;
+      border: 1px solid #fbbf24;
+      color: #fbbf24;
+      padding: 6px 14px;
+      border-radius: 12px;
+      font-weight: bold;
+      font-size: 14px;
+      margin-top: 16px;
+    }
+    button {
+      margin-top: 24px;
+      background-color: #fbbf24;
+      color: #000000;
+      border: none;
+      border-radius: 16px;
+      padding: 14px 28px;
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+      min-height: 48px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Offline-Modus aktiv</h1>
+    <p>Keine Internet- oder Netzwerkverbindung vorhanden. Deine getippten Texte werden sicher lokal auf deinem Tablet (IndexedDB) gespeichert und automatisch synchronisiert, sobald du wieder verbunden bist.</p>
+    <div class="badge">Local-First Datenhoheit</div>
+    <br>
+    <button onclick="window.location.reload()">Erneut versuchen</button>
+  </div>
+</body>
+</html>

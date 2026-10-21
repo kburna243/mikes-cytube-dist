@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#0A0A0A" />
+  <circle cx="256" cy="256" r="210" fill="#141414" stroke="#FFD700" stroke-width="12" stroke-opacity="0.4" />
+  <!-- Stylized feather / quill nib (Federführer) with high contrast -->
+  <path d="M356 104 C300 130, 220 220, 196 290 L180 340 L230 324 C300 300, 390 220, 416 164 C424 144, 404 90, 356 104 Z" fill="#FFE600" />
+  <path d="M180 340 L144 380 L188 356 Z" fill="#FFFFFF" />
+  <!-- Nib slit line -->
+  <path d="M220 304 L144 380" stroke="#000000" stroke-width="8" stroke-linecap="round" />
+  <circle cx="220" cy="304" r="7" fill="#000000" />
+  <!-- World / Book arcs representing world-building & chapters -->
+  <path d="M120 400 Q256 360 392 400" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" fill="none" />
+  <path d="M140 430 Q256 390 372 430" stroke="#FFD700" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.8" />
+</svg>

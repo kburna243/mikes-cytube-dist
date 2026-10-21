@@ -1,0 +1,105 @@
+# Federführer Docker Compose
+# Lokaler Betrieb mit PostgreSQL
+
+services:
+  # ==========================================
+  # PostgreSQL Datenbank
+  # ==========================================
+  db:
+    image: postgres:16-alpine
+    container_name: federfuehrer-db
+    restart: unless-stopped
+    mem_limit: 512m
+    environment:
+      POSTGRES_USER: federfuehrer
+      POSTGRES_PASSWORD: federfuehrer_password
+      POSTGRES_DB: federfuehrer
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U federfuehrer -d federfuehrer"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - DAC_OVERRIDE
+      - FOWNER
+      - SETGID
+      - SETUID
+    networks:
+      - federfuehrer-net
+
+  # ==========================================
+  # Datenbank-Migrationen
+  # ==========================================
+  migrate:
+    build: .
+    container_name: federfuehrer-migrate
+    environment:
+      DATABASE_URL: postgres://federfuehrer:federfuehrer_password@db:5432/federfuehrer
+    command: ["npm", "run", "db:migrate"]
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - federfuehrer-net
+
+  # ==========================================
+  # Federführer App
+  # ==========================================
+  app:
+    build: .
+    container_name: federfuehrer-app
+    restart: unless-stopped
+    mem_limit: 768m
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      DATABASE_URL: postgres://federfuehrer:federfuehrer_password@db:5432/federfuehrer
+      SESSION_SECRET: ${SESSION_SECRET:-change-me-to-a-random-32-char-string}
+      # OmniRoute nur über host.docker.internal
+      OMNIR_URL: ${OMNIR_URL:-http://host.docker.internal:20128/v1}
+      OMNIR_KEY: ${OMNIR_KEY:-}
+      OMNIR_MODELS: ${OMNIR_MODELS:-bailian-coding-plan/qwen3.7-plus,bailian-coding-plan/qwen3.6-flash}
+      ASR_URL: ${ASR_URL:-}
+      ASR_KEY: ${ASR_KEY:-}
+      ASR_MODEL: ${ASR_MODEL:-}
+      IDEAS_DIR: /data/ideen
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ideas_data:/data/ideen
+    ports:
+      # Nur Loopback; HTTPS im Tailnet liefert "tailscale serve" (serve.sh), nie 0.0.0.0, nie funnel
+      - "127.0.0.1:3055:3000"
+    depends_on:
+      db:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/api/health').then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 60s
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    networks:
+      - federfuehrer-net
+
+volumes:
+  postgres_data:
+  ideas_data:
+
+networks:
+  federfuehrer-net:
+    driver: bridge
