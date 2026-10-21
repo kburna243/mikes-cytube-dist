@@ -1,0 +1,1065 @@
+{
+ "title": "My Crazy Trip to Ischia – flacher Baukasten",
+ "date": "2026-10-21",
+ "scale": "128 px = 1 m",
+ "count": 55,
+ "files": [
+  {
+   "id": "terminal-boden",
+   "file": "terminal-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/terminal-boden.webp",
+   "localPath": "public/assets/baukasten/terminal-boden.webp",
+   "set": "terminal",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1290000,
+   "sha256": "c1af9acc203f3eea6c770170d155315c9df01e9197a49d01e7b2e1c4a5a579f4"
+  },
+  {
+   "id": "terminal-wand-grund",
+   "file": "terminal-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/terminal-wand-grund.webp",
+   "localPath": "public/assets/baukasten/terminal-wand-grund.webp",
+   "set": "terminal",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 872278,
+   "sha256": "f01ac5ea0e1a867e0968ed3c4569ae08e1033cc72cad6c7450a2053372a92969"
+  },
+  {
+   "id": "terminal-wand-oeffnung",
+   "file": "terminal-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/terminal-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/terminal-wand-oeffnung.webp",
+   "set": "terminal",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 795112,
+   "sha256": "d2614f8a6a8df052dd66735408099e86ad84619610d8ca71543b218a269f3b55"
+  },
+  {
+   "id": "terminal-wand-akzent",
+   "file": "terminal-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/terminal-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/terminal-wand-akzent.webp",
+   "set": "terminal",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 778692,
+   "sha256": "c1662d16b5d9003b472542b4899257de1e1293ae84bffa6cb33dc9147890f4ce"
+  },
+  {
+   "id": "terminal-decke",
+   "file": "terminal-decke.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/terminal-decke.webp",
+   "localPath": "public/assets/baukasten/terminal-decke.webp",
+   "set": "terminal",
+   "surface": "decke",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1344104,
+   "sha256": "1886c77f68cb4d75d5d584b21c3fb6f0c2bf27d13a09b0221c90b2a4d160b12e"
+  },
+  {
+   "id": "vorfeld-boden",
+   "file": "vorfeld-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/vorfeld-boden.webp",
+   "localPath": "public/assets/baukasten/vorfeld-boden.webp",
+   "set": "vorfeld",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1777636,
+   "sha256": "424515d7e9882ec3863778e1f1067c79165a193861fcfbfa18e8a72eb40421fc"
+  },
+  {
+   "id": "vorfeld-wand-grund",
+   "file": "vorfeld-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/vorfeld-wand-grund.webp",
+   "localPath": "public/assets/baukasten/vorfeld-wand-grund.webp",
+   "set": "vorfeld",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 561434,
+   "sha256": "b39827a8ad345087eb97d5e3fb7c43642712ab9de019cc379be66e1a8b1e951f"
+  },
+  {
+   "id": "vorfeld-wand-oeffnung",
+   "file": "vorfeld-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/vorfeld-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/vorfeld-wand-oeffnung.webp",
+   "set": "vorfeld",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 386172,
+   "sha256": "a121f6ca26121ffce0dd47f789eddb2fe0818e30613c1709953eef28891bebf1"
+  },
+  {
+   "id": "vorfeld-wand-akzent",
+   "file": "vorfeld-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/vorfeld-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/vorfeld-wand-akzent.webp",
+   "set": "vorfeld",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 599188,
+   "sha256": "031e4a3c73de619ab4cc7c10562c0108f546e5ab3d85c681c2be321133d39a5b"
+  },
+  {
+   "id": "vorfeld-himmel",
+   "file": "vorfeld-himmel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/vorfeld-himmel.webp",
+   "localPath": "public/assets/baukasten/vorfeld-himmel.webp",
+   "set": "vorfeld",
+   "surface": "himmel",
+   "size": [
+    2048,
+    512
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": false,
+   "transparent": false,
+   "bytes": 1148908,
+   "sha256": "c77dbbe17b2c82df92fe28f106b6628755c3a5c801324a57cad643dbf6d8c3bf"
+  },
+  {
+   "id": "basis-wand-grund",
+   "file": "basis-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/basis-wand-grund.webp",
+   "localPath": "public/assets/baukasten/basis-wand-grund.webp",
+   "set": "basis",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 801256,
+   "sha256": "8e7717893763b20ad3e12c53e92cf7f1aa16682ccbb5827c737bef4abc84a030"
+  },
+  {
+   "id": "basis-wand-oeffnung",
+   "file": "basis-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/basis-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/basis-wand-oeffnung.webp",
+   "set": "basis",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 808884,
+   "sha256": "b9914d5d740802d0ccd38e319be105d4aaaa60275c19a8cf83c12c4353c2d58d"
+  },
+  {
+   "id": "basis-wand-akzent",
+   "file": "basis-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/basis-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/basis-wand-akzent.webp",
+   "set": "basis",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 766994,
+   "sha256": "a712ab2472fd4b746e035207b6290aebfa2174b2544359c5101564c6425e2215"
+  },
+  {
+   "id": "hangar-boden",
+   "file": "hangar-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hangar-boden.webp",
+   "localPath": "public/assets/baukasten/hangar-boden.webp",
+   "set": "hangar",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1224428,
+   "sha256": "339fe9aa697e6e0e1b3de8c5b079293508882aa3922c3a1f09dbf38bcb360c82"
+  },
+  {
+   "id": "hangar-wand-grund",
+   "file": "hangar-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hangar-wand-grund.webp",
+   "localPath": "public/assets/baukasten/hangar-wand-grund.webp",
+   "set": "hangar",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 806296,
+   "sha256": "8a5db348c4a7f08a00ba6c7a1e231596f15da4d618eabe62133bb2aea7d1c934"
+  },
+  {
+   "id": "hangar-wand-oeffnung",
+   "file": "hangar-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hangar-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/hangar-wand-oeffnung.webp",
+   "set": "hangar",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 863936,
+   "sha256": "fde8d115cf2bd92d2079555dd58657a9daca5bc85cfbb7c62f1c325019be8cf5"
+  },
+  {
+   "id": "hangar-wand-akzent",
+   "file": "hangar-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hangar-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/hangar-wand-akzent.webp",
+   "set": "hangar",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 870036,
+   "sha256": "915fc0e43eba0e470f2b399b982ee1d96a3176ac892340a1580a2e4f6274927c"
+  },
+  {
+   "id": "hangar-decke",
+   "file": "hangar-decke.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hangar-decke.webp",
+   "localPath": "public/assets/baukasten/hangar-decke.webp",
+   "set": "hangar",
+   "surface": "decke",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1191454,
+   "sha256": "3aa3888bfe97579ddcb9cda2ece2426a63f54ab9509869253727d9928d33ab2a"
+  },
+  {
+   "id": "altstadt-boden",
+   "file": "altstadt-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/altstadt-boden.webp",
+   "localPath": "public/assets/baukasten/altstadt-boden.webp",
+   "set": "altstadt",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1631904,
+   "sha256": "cfc02d98538835b9b5a2d21c466f1e71dd94fd750d11d2953c97bb8b53d28474"
+  },
+  {
+   "id": "altstadt-wand-grund",
+   "file": "altstadt-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/altstadt-wand-grund.webp",
+   "localPath": "public/assets/baukasten/altstadt-wand-grund.webp",
+   "set": "altstadt",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1211826,
+   "sha256": "1586bb06fe2e9730f58055c1e018da0299f86646f1fbc7a2a4627aefa35849f8"
+  },
+  {
+   "id": "altstadt-wand-oeffnung",
+   "file": "altstadt-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/altstadt-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/altstadt-wand-oeffnung.webp",
+   "set": "altstadt",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1052738,
+   "sha256": "166bd93e80e6d471ecee4b955cab3cd9ac20595519ffccfeee5c8e756ea75a81"
+  },
+  {
+   "id": "altstadt-wand-akzent",
+   "file": "altstadt-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/altstadt-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/altstadt-wand-akzent.webp",
+   "set": "altstadt",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1095224,
+   "sha256": "1e2c79395641f888066f40207fef0fec85647aa39b0241705ae74eb61a7c7005"
+  },
+  {
+   "id": "altstadt-himmel",
+   "file": "altstadt-himmel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/altstadt-himmel.webp",
+   "localPath": "public/assets/baukasten/altstadt-himmel.webp",
+   "set": "altstadt",
+   "surface": "himmel",
+   "size": [
+    2048,
+    512
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": false,
+   "transparent": false,
+   "bytes": 959818,
+   "sha256": "6d6369576478beac1112e6e387d774ba0009e8ccc7ddd6705f2095c7942896ab"
+  },
+  {
+   "id": "stadion-boden",
+   "file": "stadion-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/stadion-boden.webp",
+   "localPath": "public/assets/baukasten/stadion-boden.webp",
+   "set": "stadion",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1908028,
+   "sha256": "75cbd81716f5ac637f862b50c75a57a8f3d2c0200ce33a8b2e0d25d265c2ea23"
+  },
+  {
+   "id": "stadion-wand-grund",
+   "file": "stadion-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/stadion-wand-grund.webp",
+   "localPath": "public/assets/baukasten/stadion-wand-grund.webp",
+   "set": "stadion",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 698734,
+   "sha256": "8d126acc348c23ff98b7c63da2c35f81f586913606d2e21b8f51b24ce62b9425"
+  },
+  {
+   "id": "stadion-wand-oeffnung",
+   "file": "stadion-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/stadion-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/stadion-wand-oeffnung.webp",
+   "set": "stadion",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 638210,
+   "sha256": "70c22d25ff3ee9d49b420c357d0af1056e13615ecbe47a74d42238a5456f07aa"
+  },
+  {
+   "id": "stadion-wand-akzent",
+   "file": "stadion-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/stadion-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/stadion-wand-akzent.webp",
+   "set": "stadion",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 690386,
+   "sha256": "12292a2afa9d2f6478ba64187a60e5b2ee4723e11fadfe2b24e62dc7b3364a47"
+  },
+  {
+   "id": "hafen-boden",
+   "file": "hafen-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hafen-boden.webp",
+   "localPath": "public/assets/baukasten/hafen-boden.webp",
+   "set": "hafen",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1653966,
+   "sha256": "9b7cd3d663ed33e5326a5d1bf1ba4fc4010e825629787152927f0cda260ca143"
+  },
+  {
+   "id": "hafen-wand-grund",
+   "file": "hafen-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hafen-wand-grund.webp",
+   "localPath": "public/assets/baukasten/hafen-wand-grund.webp",
+   "set": "hafen",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1218058,
+   "sha256": "2eebe6ddc806a07585de4d0ea2d47a3d00c134550b5606e121a4988de1324697"
+  },
+  {
+   "id": "hafen-wand-oeffnung",
+   "file": "hafen-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hafen-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/hafen-wand-oeffnung.webp",
+   "set": "hafen",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1019768,
+   "sha256": "ab35e55e6f72f485dd2934d1e31a19f13af7a26e80b1532468a1cc9f8d25956a"
+  },
+  {
+   "id": "hafen-wand-akzent",
+   "file": "hafen-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/hafen-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/hafen-wand-akzent.webp",
+   "set": "hafen",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1107638,
+   "sha256": "d0629eeca96e5b85c1c102cbd70284f520461d242a664591b73d1cb24d8f1d16"
+  },
+  {
+   "id": "deck-boden",
+   "file": "deck-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/deck-boden.webp",
+   "localPath": "public/assets/baukasten/deck-boden.webp",
+   "set": "deck",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1688184,
+   "sha256": "417d1524ef4c52b11723cb38f208023ab78545a88d81ec563ed9a5f886d09d0f"
+  },
+  {
+   "id": "deck-wand-grund",
+   "file": "deck-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/deck-wand-grund.webp",
+   "localPath": "public/assets/baukasten/deck-wand-grund.webp",
+   "set": "deck",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 158448,
+   "sha256": "ad0538d4cb6145c98bd0802abe0adb57570ec0bf0ebbf6792bf590da224d8eb8"
+  },
+  {
+   "id": "deck-wand-oeffnung",
+   "file": "deck-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/deck-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/deck-wand-oeffnung.webp",
+   "set": "deck",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 131684,
+   "sha256": "fc7cf50bded333049372053d13ddcd003f8935ca9c511e5418370bf1fa4d6bab"
+  },
+  {
+   "id": "deck-wand-akzent",
+   "file": "deck-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/deck-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/deck-wand-akzent.webp",
+   "set": "deck",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 180784,
+   "sha256": "c0449734cb5ebe363172f5fd59c2f7f3fcf5cd597fcc823fc1a92a667a195a54"
+  },
+  {
+   "id": "deck-himmel",
+   "file": "deck-himmel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/deck-himmel.webp",
+   "localPath": "public/assets/baukasten/deck-himmel.webp",
+   "set": "deck",
+   "surface": "himmel",
+   "size": [
+    2048,
+    512
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": false,
+   "transparent": false,
+   "bytes": 1137158,
+   "sha256": "72062d9b32319e9403c4b01d1bb62467acbceee31f4b2a8a7a6b83b018871918"
+  },
+  {
+   "id": "lavastein-boden",
+   "file": "lavastein-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/lavastein-boden.webp",
+   "localPath": "public/assets/baukasten/lavastein-boden.webp",
+   "set": "lavastein",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1588186,
+   "sha256": "833db2de35fd770dc593056ecba8b2833c3030bd9b1ea7aeb683648c25da6768"
+  },
+  {
+   "id": "lavastein-wand-grund",
+   "file": "lavastein-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/lavastein-wand-grund.webp",
+   "localPath": "public/assets/baukasten/lavastein-wand-grund.webp",
+   "set": "lavastein",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 1143402,
+   "sha256": "399cd7c562658e0cb99f257fb21ff92c92c4fdac8c6c6d849ea8cd5092b822f7"
+  },
+  {
+   "id": "lavastein-wand-oeffnung",
+   "file": "lavastein-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/lavastein-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/lavastein-wand-oeffnung.webp",
+   "set": "lavastein",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 888554,
+   "sha256": "f5182d64b91f4cc3715c59a1973725299e10df7a9d8c009cf24c56adb3b84762"
+  },
+  {
+   "id": "lavastein-wand-akzent",
+   "file": "lavastein-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/lavastein-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/lavastein-wand-akzent.webp",
+   "set": "lavastein",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 994426,
+   "sha256": "c0643b31999490631fdf4fc78c10851918de68e31e0707c4e95dbfa18a89db54"
+  },
+  {
+   "id": "bruestung-boden",
+   "file": "bruestung-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/bruestung-boden.webp",
+   "localPath": "public/assets/baukasten/bruestung-boden.webp",
+   "set": "bruestung",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1986256,
+   "sha256": "a1b97e880c0bf098ff98ad4ee42ab78907b7e93f9855738c3469dabd5254756f"
+  },
+  {
+   "id": "bruestung-wand-grund",
+   "file": "bruestung-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/bruestung-wand-grund.webp",
+   "localPath": "public/assets/baukasten/bruestung-wand-grund.webp",
+   "set": "bruestung",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 314242,
+   "sha256": "bd7f18b9cf6d9479e36b838f2ea72d7111cd8577e1dca41f2b3241a76eab8bf4"
+  },
+  {
+   "id": "bruestung-wand-oeffnung",
+   "file": "bruestung-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/bruestung-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/bruestung-wand-oeffnung.webp",
+   "set": "bruestung",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 323058,
+   "sha256": "351da96cf7cd28595c9aaa06b6b6200b00d8bb7b4dc01fac3c74def70ab47867"
+  },
+  {
+   "id": "bruestung-wand-akzent",
+   "file": "bruestung-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/bruestung-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/bruestung-wand-akzent.webp",
+   "set": "bruestung",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 309820,
+   "sha256": "c44fb4dbec707dd07d44c510541f2964d62a9f7894e18793eafdeae2a45781c1"
+  },
+  {
+   "id": "bruestung-himmel",
+   "file": "bruestung-himmel.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/bruestung-himmel.webp",
+   "localPath": "public/assets/baukasten/bruestung-himmel.webp",
+   "set": "bruestung",
+   "surface": "himmel",
+   "size": [
+    2048,
+    512
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": false,
+   "transparent": false,
+   "bytes": 1338874,
+   "sha256": "cf43b6523c766462df23fa86902cc17880cb6015b1136d58ed685e4f61cc2800"
+  },
+  {
+   "id": "fels-boden",
+   "file": "fels-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/fels-boden.webp",
+   "localPath": "public/assets/baukasten/fels-boden.webp",
+   "set": "fels",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1161586,
+   "sha256": "51c1bd5aa91707bf20bfcc1ac261640c5a115eb2ea5288990f194c7058888069"
+  },
+  {
+   "id": "fels-wand-grund",
+   "file": "fels-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/fels-wand-grund.webp",
+   "localPath": "public/assets/baukasten/fels-wand-grund.webp",
+   "set": "fels",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1005204,
+   "sha256": "b22d745e05740ffd5a969b6f634b4fb3dc6d5cf3e6a439018716b53ea4fe2e9e"
+  },
+  {
+   "id": "fels-wand-oeffnung",
+   "file": "fels-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/fels-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/fels-wand-oeffnung.webp",
+   "set": "fels",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1004936,
+   "sha256": "add06f5ed4ee3cdcaba4d19548d72bfc242d819f1e2e33aba4e1cdea7417a068"
+  },
+  {
+   "id": "fels-wand-akzent",
+   "file": "fels-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/fels-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/fels-wand-akzent.webp",
+   "set": "fels",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 939332,
+   "sha256": "44d8256493d42042678d7fca8ee2924ace2e448f2f4834d0df5cd17d822e1ef4"
+  },
+  {
+   "id": "fels-decke",
+   "file": "fels-decke.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/fels-decke.webp",
+   "localPath": "public/assets/baukasten/fels-decke.webp",
+   "set": "fels",
+   "surface": "decke",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1256550,
+   "sha256": "afbbc149eee99604ea1f1a70da43d8e3ec0a2c80dec5fdc92d5bc6a92040deef"
+  },
+  {
+   "id": "gipfel-boden",
+   "file": "gipfel-boden.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/gipfel-boden.webp",
+   "localPath": "public/assets/baukasten/gipfel-boden.webp",
+   "set": "gipfel",
+   "surface": "boden",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts",
+    "oben-unten"
+   ],
+   "mirrorable": true,
+   "transparent": false,
+   "bytes": 1683664,
+   "sha256": "4c71863911c8b29b46a7d842b2e985d57bdb593823dce3fbf750b884d9de246d"
+  },
+  {
+   "id": "gipfel-wand-grund",
+   "file": "gipfel-wand-grund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/gipfel-wand-grund.webp",
+   "localPath": "public/assets/baukasten/gipfel-wand-grund.webp",
+   "set": "gipfel",
+   "surface": "wand-grund",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 478924,
+   "sha256": "1a5d7d79893b38e001d9cdc83b1b4fe24bcb086d9207b73b913df5952f85a43c"
+  },
+  {
+   "id": "gipfel-wand-oeffnung",
+   "file": "gipfel-wand-oeffnung.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/gipfel-wand-oeffnung.webp",
+   "localPath": "public/assets/baukasten/gipfel-wand-oeffnung.webp",
+   "set": "gipfel",
+   "surface": "wand-oeffnung",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 329508,
+   "sha256": "a77a6f02f1cbbab2b60057a87ffd56f7807e26a6ee83ab6e972b217e9e590298"
+  },
+  {
+   "id": "gipfel-wand-akzent",
+   "file": "gipfel-wand-akzent.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/gipfel-wand-akzent.webp",
+   "localPath": "public/assets/baukasten/gipfel-wand-akzent.webp",
+   "set": "gipfel",
+   "surface": "wand-akzent",
+   "size": [
+    1024,
+    1024
+   ],
+   "tiling": [
+    "links-rechts"
+   ],
+   "mirrorable": true,
+   "transparent": true,
+   "bytes": 450082,
+   "sha256": "babe13982754011d30e8303e2f685bce9ecbd92503fb35971b9b4169b49335da"
+  },
+  {
+   "id": "gipfel-rueckwand",
+   "file": "gipfel-rueckwand.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/baukasten/gipfel-rueckwand.webp",
+   "localPath": "public/assets/baukasten/gipfel-rueckwand.webp",
+   "set": "gipfel",
+   "surface": "rueckwand",
+   "size": [
+    2048,
+    1024
+   ],
+   "tiling": [],
+   "mirrorable": false,
+   "transparent": true,
+   "bytes": 1540090,
+   "sha256": "9b39fd7342886d4bf68c8bbf9f2f9d7550f069d8324b8a47945872d7601a36e7"
+  }
+ ]
+}
