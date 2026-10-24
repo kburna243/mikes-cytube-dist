@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "07-nollendorf-neon",
+  "title": "Nollendorf Neon",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "domed-station",
+      "file": "domed-station.glb",
+      "bytes": 251508,
+      "triangles": 4000,
+      "drawPrimitives": 8,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        16.600000381469727,
+        5.5,
+        12.149999618530273
+      ]
+    },
+    {
+      "id": "rail-viaduct",
+      "file": "rail-viaduct.glb",
+      "bytes": 248136,
+      "triangles": 3544,
+      "drawPrimitives": 3,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        27.100000381469727,
+        4.0,
+        4.425000190734863
+      ]
+    },
+    {
+      "id": "neon-club",
+      "file": "neon-club.glb",
+      "bytes": 4077540,
+      "triangles": 5644,
+      "drawPrimitives": 8,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        7.400000095367432,
+        4.434999942779541,
+        6.795000076293945
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "02-sonnenallee-sprint",
+  "title": "Sonnenallee Sprint",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "altbau-row",
+      "file": "altbau-row.glb",
+      "bytes": 1527636,
+      "triangles": 21708,
+      "drawPrimitives": 8,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        18.600000381469727,
+        5.174999952316284,
+        11.795000076293945
+      ]
+    },
+    {
+      "id": "doener-shop",
+      "file": "doener-shop.glb",
+      "bytes": 4059284,
+      "triangles": 5472,
+      "drawPrimitives": 9,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        7.400000095367432,
+        5.0249998569488525,
+        6.795000076293945
+      ]
+    },
+    {
+      "id": "food-market",
+      "file": "food-market.glb",
+      "bytes": 300708,
+      "triangles": 8556,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        8.800000190734863,
+        1.899999976158142,
+        2.5
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

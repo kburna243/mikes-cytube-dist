@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "04-leopoldplatz-ring",
+  "title": "Leopoldplatz Ring",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "nazareth-church",
+      "file": "nazareth-church.glb",
+      "bytes": 3858784,
+      "triangles": 2448,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        8.0,
+        13.599999904632568,
+        27.0
+      ]
+    },
+    {
+      "id": "elevated-ramp",
+      "file": "elevated-ramp.glb",
+      "bytes": 244364,
+      "triangles": 3456,
+      "drawPrimitives": 2,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        27.100000381469727,
+        4.0,
+        6.824999809265137
+      ]
+    },
+    {
+      "id": "square-garden",
+      "file": "square-garden.glb",
+      "bytes": 246796,
+      "triangles": 6540,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        12.0,
+        9.0,
+        4.645999908447266
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

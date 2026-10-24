@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "09-kudamm-gold",
+  "title": "Ku’damm Gold",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "memorial-church",
+      "file": "memorial-church.glb",
+      "bytes": 3887740,
+      "triangles": 2868,
+      "drawPrimitives": 4,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        8.0,
+        12.774999618530273,
+        25.799999237060547
+      ]
+    },
+    {
+      "id": "octagon-church",
+      "file": "octagon-church.glb",
+      "bytes": 383260,
+      "triangles": 5620,
+      "drawPrimitives": 3,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        10.955618858337402,
+        10.955618858337402,
+        10.949999809265137
+      ]
+    },
+    {
+      "id": "boutique-row",
+      "file": "boutique-row.glb",
+      "bytes": 1822484,
+      "triangles": 25920,
+      "drawPrimitives": 8,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        18.600000381469727,
+        5.174999952316284,
+        14.295000076293945
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

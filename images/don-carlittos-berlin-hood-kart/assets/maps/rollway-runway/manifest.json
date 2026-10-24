@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "10-rollway-runway",
+  "title": "Tempelhof Runway",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "tempelhof-terminal",
+      "file": "tempelhof-terminal.glb",
+      "bytes": 3767600,
+      "triangles": 53860,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        38.16952896118164,
+        10.98099684715271,
+        10.756450653076172
+      ]
+    },
+    {
+      "id": "control-tower",
+      "file": "control-tower.glb",
+      "bytes": 26992,
+      "triangles": 560,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        7.400000095367432,
+        7.400000095367432,
+        20.0
+      ]
+    },
+    {
+      "id": "runway-gate",
+      "file": "runway-gate.glb",
+      "bytes": 99176,
+      "triangles": 2040,
+      "drawPrimitives": 3,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        12.180000305175781,
+        4.0,
+        6.431234836578369
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "01-kotti-kreisverkehr",
+  "title": "Kotti Kreisverkehr",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "kotti-housing",
+      "file": "kotti-housing.glb",
+      "bytes": 3515456,
+      "triangles": 50112,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        26.12657356262207,
+        9.064385175704956,
+        14.295000076293945
+      ]
+    },
+    {
+      "id": "u1-station",
+      "file": "u1-station.glb",
+      "bytes": 246772,
+      "triangles": 3816,
+      "drawPrimitives": 7,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        16.600000381469727,
+        5.5,
+        7.625
+      ]
+    },
+    {
+      "id": "kiez-courtyard",
+      "file": "kiez-courtyard.glb",
+      "bytes": 246800,
+      "triangles": 6540,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        12.0,
+        9.0,
+        4.645999908447266
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

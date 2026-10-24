@@ -1,0 +1,163 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "mapCount": 12,
+  "modelCount": 36,
+  "maps": [
+    {
+      "id": "kotti-kreisverkehr",
+      "folder": "kotti-kreisverkehr",
+      "title": "Kotti Kreisverkehr",
+      "assets": [
+        "kotti-housing",
+        "u1-station",
+        "kiez-courtyard"
+      ],
+      "sourceFolder": "01-kotti-kreisverkehr",
+      "manifest": "assets/maps/kotti-kreisverkehr/manifest.json",
+      "preview": "assets/maps/kotti-kreisverkehr/preview.png"
+    },
+    {
+      "id": "sonnenallee-sprint",
+      "folder": "sonnenallee-sprint",
+      "title": "Sonnenallee Sprint",
+      "assets": [
+        "altbau-row",
+        "doener-shop",
+        "food-market"
+      ],
+      "sourceFolder": "02-sonnenallee-sprint",
+      "manifest": "assets/maps/sonnenallee-sprint/manifest.json",
+      "preview": "assets/maps/sonnenallee-sprint/preview.png"
+    },
+    {
+      "id": "raw-oberbaum",
+      "folder": "raw-oberbaum",
+      "title": "RAW und Oberbaumbrücke",
+      "assets": [
+        "oberbaum-bridge",
+        "raw-hall",
+        "riverside-rail"
+      ],
+      "sourceFolder": "03-raw-oberbaum",
+      "manifest": "assets/maps/raw-oberbaum/manifest.json",
+      "preview": "assets/maps/raw-oberbaum/preview.png"
+    },
+    {
+      "id": "leopoldplatz-ring",
+      "folder": "leopoldplatz-ring",
+      "title": "Leopoldplatz Ring",
+      "assets": [
+        "nazareth-church",
+        "elevated-ramp",
+        "square-garden"
+      ],
+      "sourceFolder": "04-leopoldplatz-ring",
+      "manifest": "assets/maps/leopoldplatz-ring/manifest.json",
+      "preview": "assets/maps/leopoldplatz-ring/preview.png"
+    },
+    {
+      "id": "alex-fernsehturm",
+      "folder": "alex-fernsehturm",
+      "title": "Alex und Fernsehturm",
+      "assets": [
+        "tv-tower",
+        "world-clock",
+        "red-townhall"
+      ],
+      "sourceFolder": "05-alex-fernsehturm",
+      "manifest": "assets/maps/alex-fernsehturm/manifest.json",
+      "preview": "assets/maps/alex-fernsehturm/preview.png"
+    },
+    {
+      "id": "mauerpark-hang",
+      "folder": "mauerpark-hang",
+      "title": "Mauerpark Hang",
+      "assets": [
+        "graffiti-wall",
+        "karaoke-amphitheatre",
+        "flea-market"
+      ],
+      "sourceFolder": "06-mauerpark-hang",
+      "manifest": "assets/maps/mauerpark-hang/manifest.json",
+      "preview": "assets/maps/mauerpark-hang/preview.png"
+    },
+    {
+      "id": "nollendorf-neon",
+      "folder": "nollendorf-neon",
+      "title": "Nollendorf Neon",
+      "assets": [
+        "domed-station",
+        "rail-viaduct",
+        "neon-club"
+      ],
+      "sourceFolder": "07-nollendorf-neon",
+      "manifest": "assets/maps/nollendorf-neon/manifest.json",
+      "preview": "assets/maps/nollendorf-neon/preview.png"
+    },
+    {
+      "id": "westhafen-docks",
+      "folder": "westhafen-docks",
+      "title": "Westhafen Docks",
+      "assets": [
+        "harbor-crane",
+        "dock-warehouse",
+        "container-stack"
+      ],
+      "sourceFolder": "08-westhafen-docks",
+      "manifest": "assets/maps/westhafen-docks/manifest.json",
+      "preview": "assets/maps/westhafen-docks/preview.png"
+    },
+    {
+      "id": "kudamm-gold",
+      "folder": "kudamm-gold",
+      "title": "Ku’damm Gold",
+      "assets": [
+        "memorial-church",
+        "octagon-church",
+        "boutique-row"
+      ],
+      "sourceFolder": "09-kudamm-gold",
+      "manifest": "assets/maps/kudamm-gold/manifest.json",
+      "preview": "assets/maps/kudamm-gold/preview.png"
+    },
+    {
+      "id": "rollway-runway",
+      "folder": "rollway-runway",
+      "title": "Tempelhof Runway",
+      "assets": [
+        "tempelhof-terminal",
+        "control-tower",
+        "runway-gate"
+      ],
+      "sourceFolder": "10-rollway-runway",
+      "manifest": "assets/maps/rollway-runway/manifest.json",
+      "preview": "assets/maps/rollway-runway/preview.png"
+    },
+    {
+      "id": "plattenbau-pagode",
+      "folder": "plattenbau-pagode",
+      "title": "Plattenbau und Pagode",
+      "assets": [
+        "slab-blocks",
+        "garden-pagoda",
+        "courtyard-park"
+      ],
+      "sourceFolder": "11-plattenbau-pagode",
+      "manifest": "assets/maps/plattenbau-pagode/manifest.json",
+      "preview": "assets/maps/plattenbau-pagode/preview.png"
+    },
+    {
+      "id": "badeschiff-molecule",
+      "folder": "badeschiff-molecule",
+      "title": "Badeschiff und Molecule",
+      "assets": [
+        "floating-pool",
+        "molecule-sculpture",
+        "arena-docks"
+      ],
+      "sourceFolder": "12-badeschiff-molecule",
+      "manifest": "assets/maps/badeschiff-molecule/manifest.json",
+      "preview": "assets/maps/badeschiff-molecule/preview.png"
+    }
+  ]
+}

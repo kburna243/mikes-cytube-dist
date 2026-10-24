@@ -1,0 +1,17 @@
+{
+  "brand": "Don Carlittos Berlin Hood Kart",
+  "assetBaseUrl": "./",
+  "gameUrl": null,
+  "giftMode": false,
+  "dedication": { "name": "Pascal", "date": "2026-10-24", "headline": "Alles Gute zum Geburtstag, Pascal!" },
+  "colors": { "background": "#0B1217", "text": "#F6F0DF", "gold": "#FFD35B", "teal": "#42D9CD", "coral": "#FF675D" },
+  "sections": [
+    { "id": "hero", "headline": "Dein Berlin. Dein Rennen.", "body": "Wähle deinen Fahrer. Finde deinen Kiez. Geh an den Start.", "cta": "Jetzt spielen", "model": "assets/models/hero-kart.glb", "mobileModel": "assets/models/hero-kart-mobile.glb", "poster": "assets/images/kart-v4-preview.png" },
+    { "id": "garage", "headline": "Dein Kart. Dein Stil.", "interaction": "scroll-camera-and-optional-drag", "maxPinnedViewportHeights": 1.6 },
+    { "id": "maps", "headline": "Zwölf Maps. Berlin im Blick.", "manifest": "assets/maps/index.json", "icons": "assets/map-icons/manifest.json", "initialMap": "raw-oberbaum", "maxActive3DMapPreviews": 1 },
+    { "id": "how-to-play", "headline": "Einsteigen. Driften. Loslegen.", "guide": "spielanleitung.html" },
+    { "id": "finale", "headline": "Dein Kiez wartet.", "cta": "Jetzt spielen" }
+  ],
+  "accessibility": { "reducedMotion": "static-camera", "webglFallback": "poster", "nativeScroll": true, "keyboardModelControls": true },
+  "status": "Asset kit and build brief; not a deployed landing page."
+}

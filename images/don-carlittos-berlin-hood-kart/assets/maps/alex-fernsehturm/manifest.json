@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "05-alex-fernsehturm",
+  "title": "Alex und Fernsehturm",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "tv-tower",
+      "file": "tv-tower.glb",
+      "bytes": 42184,
+      "triangles": 1316,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        7.059999942779541,
+        7.059999942779541,
+        49.0
+      ]
+    },
+    {
+      "id": "world-clock",
+      "file": "world-clock.glb",
+      "bytes": 313412,
+      "triangles": 6804,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        4.800000190734863,
+        4.800000190734863,
+        5.329999923706055
+      ]
+    },
+    {
+      "id": "red-townhall",
+      "file": "red-townhall.glb",
+      "bytes": 5073228,
+      "triangles": 20044,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        19.399999618530273,
+        9.450000286102295,
+        23.0
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

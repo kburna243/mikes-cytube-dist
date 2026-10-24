@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "06-mauerpark-hang",
+  "title": "Mauerpark Hang",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "graffiti-wall",
+      "file": "graffiti-wall.glb",
+      "bytes": 460572,
+      "triangles": 6860,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        16.0,
+        2.1600000113248825,
+        3.200000047683716
+      ]
+    },
+    {
+      "id": "karaoke-amphitheatre",
+      "file": "karaoke-amphitheatre.glb",
+      "bytes": 781208,
+      "triangles": 11268,
+      "drawPrimitives": 2,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        15.55361270904541,
+        10.674999952316284,
+        1.934999942779541
+      ]
+    },
+    {
+      "id": "flea-market",
+      "file": "flea-market.glb",
+      "bytes": 392916,
+      "triangles": 5772,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        8.800000190734863,
+        1.899999976158142,
+        2.5
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

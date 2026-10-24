@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "11-plattenbau-pagode",
+  "title": "Plattenbau und Pagode",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "slab-blocks",
+      "file": "slab-blocks.glb",
+      "bytes": 2945808,
+      "triangles": 42012,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        23.100000381469727,
+        4.255000114440918,
+        24.0
+      ]
+    },
+    {
+      "id": "garden-pagoda",
+      "file": "garden-pagoda.glb",
+      "bytes": 119228,
+      "triangles": 2424,
+      "drawPrimitives": 4,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        8.036330223083496,
+        8.036330223083496,
+        9.800000190734863
+      ]
+    },
+    {
+      "id": "courtyard-park",
+      "file": "courtyard-park.glb",
+      "bytes": 246800,
+      "triangles": 6540,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        12.0,
+        9.0,
+        4.645999908447266
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

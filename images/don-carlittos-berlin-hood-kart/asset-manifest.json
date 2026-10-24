@@ -1,0 +1,482 @@
+{
+  "brand": "Don Carlittos Berlin Hood Kart",
+  "baseUrl": "./",
+  "files": [
+    {
+      "path": "assets/brand/logo.png",
+      "bytes": 1310261,
+      "sha256": "fa6030c7e96c89cfc69b1b07f38546b2bc537d1779ccf458f6f3570d9af45ff3"
+    },
+    {
+      "path": "assets/images/hero-key-art.png",
+      "bytes": 2335143,
+      "sha256": "0593c3fde77542108cc77902b53ba30da7bd95ad0d19c27b88fdd1d0bf5c63a1"
+    },
+    {
+      "path": "assets/images/kart-v4-preview.png",
+      "bytes": 1290750,
+      "sha256": "c312085ca227fde546983dc0a5f22751c50b7f88d1176c7015100db75c6135aa"
+    },
+    {
+      "path": "assets/images/spaeti-v4-preview.png",
+      "bytes": 1654572,
+      "sha256": "d1acdcddd526c8cd8ccce2bae49dab5a29e145172c32fb22472048fed23a52ea"
+    },
+    {
+      "path": "assets/map-icons/alex-fernsehturm-128.png",
+      "bytes": 7320,
+      "sha256": "0093d6634b84263fedf8de47ce51402352d26b1a0da3241160b49b53e6728f75"
+    },
+    {
+      "path": "assets/map-icons/alex-fernsehturm.png",
+      "bytes": 86273,
+      "sha256": "0d04412d608056cab83a32148f96920da153471c6184bd7a023d5280f0e3b1ee"
+    },
+    {
+      "path": "assets/map-icons/badeschiff-molecule-128.png",
+      "bytes": 11767,
+      "sha256": "77832e59798db9baed1a72f7a7176044620f7653b247e4fd2a190d6e47b6724b"
+    },
+    {
+      "path": "assets/map-icons/badeschiff-molecule.png",
+      "bytes": 125659,
+      "sha256": "a068dee7bac4c26858fd317e8736cff060d64cda5dff2c9dca453e03e2e36f1c"
+    },
+    {
+      "path": "assets/map-icons/kotti-kreisverkehr-128.png",
+      "bytes": 14248,
+      "sha256": "90215c0755406d3532ab610ad9c323c11277dceaa428f3acbfe3337a8ed3e092"
+    },
+    {
+      "path": "assets/map-icons/kotti-kreisverkehr.png",
+      "bytes": 153194,
+      "sha256": "a1595be4b64bfd48fbbd1db33e7195cca22c9b31a9009fb32814d8da37a777ab"
+    },
+    {
+      "path": "assets/map-icons/kudamm-gold-128.png",
+      "bytes": 10678,
+      "sha256": "8f482a96a4321233601d3a7bcbddf528b6ab7c48034573282eecfab01fdb7c14"
+    },
+    {
+      "path": "assets/map-icons/kudamm-gold.png",
+      "bytes": 146476,
+      "sha256": "96324a22d0c81ccf908c6dcc1dcaa57ea2393b8ed5301227f6719eeda7f820da"
+    },
+    {
+      "path": "assets/map-icons/leopoldplatz-ring-128.png",
+      "bytes": 10285,
+      "sha256": "2d84f412673f27c90bbf4780be561e182d30db5210ac6d1adf1838c0feeb3a83"
+    },
+    {
+      "path": "assets/map-icons/leopoldplatz-ring.png",
+      "bytes": 130617,
+      "sha256": "e06afc607e24eb8a027e37dc45a510d770f75fc6abad718bee12b0338b049792"
+    },
+    {
+      "path": "assets/map-icons/manifest.json",
+      "bytes": 2311,
+      "sha256": "797159e61f36ce6ad86815d31819bf98c0eee9c1048a5177ade3ea34d0bc6d21"
+    },
+    {
+      "path": "assets/map-icons/mauerpark-hang-128.png",
+      "bytes": 9635,
+      "sha256": "89566155e121295318f83e303a959d8870012c6332103c0dbfef43dac3412c7e"
+    },
+    {
+      "path": "assets/map-icons/mauerpark-hang.png",
+      "bytes": 101593,
+      "sha256": "ad4bcb6a5b8a5152a7106644c4b0cbac20739421d65027b237134440a14cb278"
+    },
+    {
+      "path": "assets/map-icons/nollendorf-neon-128.png",
+      "bytes": 12286,
+      "sha256": "ce9fea30db77659df02a8ee55d2796e5d581636c2e3e3be535e236155541657f"
+    },
+    {
+      "path": "assets/map-icons/nollendorf-neon.png",
+      "bytes": 127282,
+      "sha256": "64acf175d3d71c44751606729d4727306af68c4997eb21dcd40cd9ab805905d3"
+    },
+    {
+      "path": "assets/map-icons/plattenbau-pagode-128.png",
+      "bytes": 19360,
+      "sha256": "93f59b238e7481671b096143d389811d0dbdae2a0a75383fb98c97867ea8347c"
+    },
+    {
+      "path": "assets/map-icons/plattenbau-pagode.png",
+      "bytes": 205568,
+      "sha256": "1efe44ddb9db45f55170019e5f7d764a80b8f8c823770403f91ce8bb4da48ca1"
+    },
+    {
+      "path": "assets/map-icons/raw-oberbaum-128.png",
+      "bytes": 12629,
+      "sha256": "9191de99198281739672cfc6e8d27e4b99ec32331ec2a927e94dd10fe240354c"
+    },
+    {
+      "path": "assets/map-icons/raw-oberbaum.png",
+      "bytes": 135806,
+      "sha256": "3644ad59c874644d744e033a9c8b3a8e805be0c93f728dd77ca4a98863aa8d19"
+    },
+    {
+      "path": "assets/map-icons/rollway-runway-128.png",
+      "bytes": 10421,
+      "sha256": "ba89a49a8b01b3e6d5b1783ed9d43235ddc4829dbb9cbe623fb38b1ce91fb230"
+    },
+    {
+      "path": "assets/map-icons/rollway-runway.png",
+      "bytes": 115334,
+      "sha256": "ef31b2b7f516511b197667e22366a939cf6527d79917e3716d97580c7f9452a9"
+    },
+    {
+      "path": "assets/map-icons/sonnenallee-sprint-128.png",
+      "bytes": 16845,
+      "sha256": "afea4ab3866cc82e03eafa2983ae952cf6eabd3b792145be8cfa0faf8ea6c1ee"
+    },
+    {
+      "path": "assets/map-icons/sonnenallee-sprint.png",
+      "bytes": 183464,
+      "sha256": "717618252669e5b4fdda2e3d39e4be887d8640dd5696c638ce13d99c15c36072"
+    },
+    {
+      "path": "assets/map-icons/westhafen-docks-128.png",
+      "bytes": 12315,
+      "sha256": "db4b3d86554fe903f8c5cc6e9e95f19d823dcc60c0f05e5fa6f386649fe52e20"
+    },
+    {
+      "path": "assets/map-icons/westhafen-docks.png",
+      "bytes": 121814,
+      "sha256": "a095faad9f4c7d683b90f43f9aff73381cfb5810199d9d3bccd6af0ecb465ccb"
+    },
+    {
+      "path": "assets/maps/alex-fernsehturm/manifest.json",
+      "bytes": 1341,
+      "sha256": "94e9c9039bee083628f29ab985c1ffe6acfedf8259d5747049d3616fa84afb52"
+    },
+    {
+      "path": "assets/maps/alex-fernsehturm/preview.png",
+      "bytes": 1302563,
+      "sha256": "91aef94a52ee6d03b843bceb0e99ff99662feb56dcef46b8d439c7715af19e54"
+    },
+    {
+      "path": "assets/maps/alex-fernsehturm/red-townhall.glb",
+      "bytes": 5073228,
+      "sha256": "b8c4edecddfe4dbb7e5216c6f6cc8e00f2949a8e6f1459342e64235b5c897f0e"
+    },
+    {
+      "path": "assets/maps/alex-fernsehturm/tv-tower.glb",
+      "bytes": 42184,
+      "sha256": "15fb1446362f7574b18da9fad1485548e66db29fef000a58a780aff7cc540a87"
+    },
+    {
+      "path": "assets/maps/alex-fernsehturm/world-clock.glb",
+      "bytes": 313412,
+      "sha256": "c8762da759f963f521fb65bc18b007fdc24bd831101a525c1d3edccf9526355a"
+    },
+    {
+      "path": "assets/maps/badeschiff-molecule/arena-docks.glb",
+      "bytes": 4093228,
+      "sha256": "4e2e654d1ffc76be3072f3931e8b6b39d4ef6a0b854d9671e722af2eb0ac5c30"
+    },
+    {
+      "path": "assets/maps/badeschiff-molecule/floating-pool.glb",
+      "bytes": 142344,
+      "sha256": "fdd5a2e72931fce2c210bb5e596bc72645235b47c8ee64e2b4bf4fca274d42b0"
+    },
+    {
+      "path": "assets/maps/badeschiff-molecule/manifest.json",
+      "bytes": 1384,
+      "sha256": "266dcf1512f948fa68feb5e83c8d5b585f950016284ecd2e35f6e176afcfeaf4"
+    },
+    {
+      "path": "assets/maps/badeschiff-molecule/molecule-sculpture.glb",
+      "bytes": 875008,
+      "sha256": "66395d01a6b582eb5cc3a53e9a7a774d35de1eaad9bb7e1cf17c1a572441a81a"
+    },
+    {
+      "path": "assets/maps/badeschiff-molecule/preview.png",
+      "bytes": 1241419,
+      "sha256": "6bff20a6ea2223db70da87a3bd2b96513d38effdaae3465613e6e9feb9030bfc"
+    },
+    {
+      "path": "assets/maps/index.json",
+      "bytes": 4878,
+      "sha256": "a4796f627b403fbd42f6c0d75fbe8ea52a7ee059fd54ffd4457626d86984a246"
+    },
+    {
+      "path": "assets/maps/kotti-kreisverkehr/kiez-courtyard.glb",
+      "bytes": 246800,
+      "sha256": "fa5f4847a8de7e86f4a290a11be0b358745bfc661419fb8c6a1035b478701599"
+    },
+    {
+      "path": "assets/maps/kotti-kreisverkehr/kotti-housing.glb",
+      "bytes": 3515456,
+      "sha256": "a9147df524d551817024cc92b895ab587e67611dc0a8a90d61c441d5fc046173"
+    },
+    {
+      "path": "assets/maps/kotti-kreisverkehr/manifest.json",
+      "bytes": 1329,
+      "sha256": "be11433969dfd1d5d39bcdf01a03892268804b73410d97fdbccc553a97e1df83"
+    },
+    {
+      "path": "assets/maps/kotti-kreisverkehr/preview.png",
+      "bytes": 1264538,
+      "sha256": "d47b986c661fbc092bb6123cbb8977b15dbd1ef24a9f6c2e8a052910317b66ea"
+    },
+    {
+      "path": "assets/maps/kotti-kreisverkehr/u1-station.glb",
+      "bytes": 246772,
+      "sha256": "3f63f489405bc5cd96f2a61f00a8494e4a5f67fb95a2de3911b3c35572049d1a"
+    },
+    {
+      "path": "assets/maps/kudamm-gold/boutique-row.glb",
+      "bytes": 1822484,
+      "sha256": "5bdba3afb5f3dce20475abc76ec2190baea4c7ba5f05c69fe33096fcb0b45979"
+    },
+    {
+      "path": "assets/maps/kudamm-gold/manifest.json",
+      "bytes": 1370,
+      "sha256": "c0fd723fd8755b1a751bcedc1e6a0f6743f9b9f3c01ff764aed8a777e80e3d1a"
+    },
+    {
+      "path": "assets/maps/kudamm-gold/memorial-church.glb",
+      "bytes": 3887740,
+      "sha256": "be9b3c3d00187f811906e763caafaa013de2af1f0afb9a23371b6c31be51ee2c"
+    },
+    {
+      "path": "assets/maps/kudamm-gold/octagon-church.glb",
+      "bytes": 383260,
+      "sha256": "1f681bb26f5585c6a11635588d1495efe1af848b37e03f1cc901feb885fda01f"
+    },
+    {
+      "path": "assets/maps/kudamm-gold/preview.png",
+      "bytes": 1368460,
+      "sha256": "a6dbebf4d4976fc731eb6758130dd2417b8aa39b725cc89ec7229acad33620d5"
+    },
+    {
+      "path": "assets/maps/leopoldplatz-ring/elevated-ramp.glb",
+      "bytes": 244364,
+      "sha256": "50b7859092c99fe97577a9b954b7165934b6daeae85660a5109d1dbdbff03571"
+    },
+    {
+      "path": "assets/maps/leopoldplatz-ring/manifest.json",
+      "bytes": 1318,
+      "sha256": "6eb98804d979253f92981a0e5b345bba91a1b17dfbb2ac381fbfc1b4ac00c23f"
+    },
+    {
+      "path": "assets/maps/leopoldplatz-ring/nazareth-church.glb",
+      "bytes": 3858784,
+      "sha256": "858de80b75dcefc7e27efafe027331f7094c80b8f0dd2b5dd0c36ab844f0a1ea"
+    },
+    {
+      "path": "assets/maps/leopoldplatz-ring/preview.png",
+      "bytes": 1238481,
+      "sha256": "2fd64d6ebba31f322768f04cce6cf8941513e59986308c5f9919cd82aa5dca01"
+    },
+    {
+      "path": "assets/maps/leopoldplatz-ring/square-garden.glb",
+      "bytes": 246796,
+      "sha256": "23393d91f9eee4121f7dbab88236194bc7fe9842f0b728d7587505b71c9a6630"
+    },
+    {
+      "path": "assets/maps/mauerpark-hang/flea-market.glb",
+      "bytes": 392916,
+      "sha256": "d813cbcdf50a90ee2d26f5597aee93f05425ac792af3347e6175a3bcaf1461dc"
+    },
+    {
+      "path": "assets/maps/mauerpark-hang/graffiti-wall.glb",
+      "bytes": 460572,
+      "sha256": "23e034879916ed65f78558c7e1abe47314aa5df271bb175513d57da9944a3bf0"
+    },
+    {
+      "path": "assets/maps/mauerpark-hang/karaoke-amphitheatre.glb",
+      "bytes": 781208,
+      "sha256": "40684f1fa44de9e119bc7838ac17800b53e4c26d5b4554a543d46c36447b8e8b"
+    },
+    {
+      "path": "assets/maps/mauerpark-hang/manifest.json",
+      "bytes": 1360,
+      "sha256": "ba9bfbaf6638103602ae53956fa293d04eb22eb475e40fdae8c5ebf3ad6747dc"
+    },
+    {
+      "path": "assets/maps/mauerpark-hang/preview.png",
+      "bytes": 1214319,
+      "sha256": "74dee6eb9e3174a4dece95665dc59abae024acf1fd5a64dac99b571e89382079"
+    },
+    {
+      "path": "assets/maps/nollendorf-neon/domed-station.glb",
+      "bytes": 251508,
+      "sha256": "08cda9a8553d65149423316896dc2551b54f3addaca447abe9185521667f7d28"
+    },
+    {
+      "path": "assets/maps/nollendorf-neon/manifest.json",
+      "bytes": 1341,
+      "sha256": "be85347252dc10ec14fc07f99ca30a1a5e53c5b741be2046519395f5d8d441cd"
+    },
+    {
+      "path": "assets/maps/nollendorf-neon/neon-club.glb",
+      "bytes": 4077540,
+      "sha256": "8916f176403631b70b119b9a1065a5f1c770ba457d61b8f08ffcbccb7a11a564"
+    },
+    {
+      "path": "assets/maps/nollendorf-neon/preview.png",
+      "bytes": 1363140,
+      "sha256": "06455c2a9e31ac7b86203d35b3891dc57c19b2c7b06f3481f0a3f2c37bc79c31"
+    },
+    {
+      "path": "assets/maps/nollendorf-neon/rail-viaduct.glb",
+      "bytes": 248136,
+      "sha256": "09c57b308474208bef0c6c10bec13fb909501f864b3462198aec269f3aaab09c"
+    },
+    {
+      "path": "assets/maps/plattenbau-pagode/courtyard-park.glb",
+      "bytes": 246800,
+      "sha256": "acf684f4f72afab9ca6c4400f07e06460c74fc2014b54d30e56c181fe27a05c3"
+    },
+    {
+      "path": "assets/maps/plattenbau-pagode/garden-pagoda.glb",
+      "bytes": 119228,
+      "sha256": "9c6f68f9e6b3706352da03a4aaed870f45c1f95fd6809572216c4ead38197adb"
+    },
+    {
+      "path": "assets/maps/plattenbau-pagode/manifest.json",
+      "bytes": 1345,
+      "sha256": "05aea1c506712508ec8915b2ed94d4d568260489a33495be20e23a983e1ea1c0"
+    },
+    {
+      "path": "assets/maps/plattenbau-pagode/preview.png",
+      "bytes": 1333220,
+      "sha256": "79afe092fa8c5987ffd42ed103fb301d600cf4606b0f8ff783fb655bd4d35082"
+    },
+    {
+      "path": "assets/maps/plattenbau-pagode/slab-blocks.glb",
+      "bytes": 2945808,
+      "sha256": "a2c9a2d9d4f19938f5e5bf88ec6c91ad41bb4d738310df83844e622e7f92da0f"
+    },
+    {
+      "path": "assets/maps/raw-oberbaum/manifest.json",
+      "bytes": 1324,
+      "sha256": "3b0e3929775d84c91bff244aefa53621175a239f0dc86a6342ac1393caf3efed"
+    },
+    {
+      "path": "assets/maps/raw-oberbaum/oberbaum-bridge.glb",
+      "bytes": 4222796,
+      "sha256": "c6553029993643c725ea6b2230f72122d60b42dcbc8f7d0a69ae494547d4283f"
+    },
+    {
+      "path": "assets/maps/raw-oberbaum/preview.png",
+      "bytes": 1254559,
+      "sha256": "e1e78e0ece2eac3b320bc65c948edc68e84eae2c24a236a740dea2856759fb20"
+    },
+    {
+      "path": "assets/maps/raw-oberbaum/raw-hall.glb",
+      "bytes": 4015764,
+      "sha256": "528bd41fcb246820b4f9e76aa015af768d177b6c6ee046a27ad6548f7c69a4f0"
+    },
+    {
+      "path": "assets/maps/raw-oberbaum/riverside-rail.glb",
+      "bytes": 169260,
+      "sha256": "bbad61155511435671c969675781f63d5491f55a993c255725459f7813823cd1"
+    },
+    {
+      "path": "assets/maps/rollway-runway/control-tower.glb",
+      "bytes": 26992,
+      "sha256": "ff0859875993f5105762c338d199ac54606224bbe6619eea6256e97898eed4ad"
+    },
+    {
+      "path": "assets/maps/rollway-runway/manifest.json",
+      "bytes": 1356,
+      "sha256": "1600e0537aff3066e19258a90e6c1faa3227c146a97de29fa53284738361b079"
+    },
+    {
+      "path": "assets/maps/rollway-runway/preview.png",
+      "bytes": 1207461,
+      "sha256": "f7487afad574121da0f964936c484f8c49dbab33d2f0361e2cda036068276d1a"
+    },
+    {
+      "path": "assets/maps/rollway-runway/runway-gate.glb",
+      "bytes": 99176,
+      "sha256": "afb4e5396d14e98d437608b28ea7292aa0e3c7eff1b8fbbbb79d928b73b731de"
+    },
+    {
+      "path": "assets/maps/rollway-runway/tempelhof-terminal.glb",
+      "bytes": 3767600,
+      "sha256": "18c0842771e0c79768e3c135fd76b90a6eb062523cf88e7d6408f9c86b4e427a"
+    },
+    {
+      "path": "assets/maps/sonnenallee-sprint/altbau-row.glb",
+      "bytes": 1527636,
+      "sha256": "f228e1332b1027df16f6ae2256b97a306b68b798386b6b6c11c4743ae5c68ebd"
+    },
+    {
+      "path": "assets/maps/sonnenallee-sprint/doener-shop.glb",
+      "bytes": 4059284,
+      "sha256": "c3e2094fcfa44cf10776406d4338118acb2eeedc38349c9be836e5ed8b54cc84"
+    },
+    {
+      "path": "assets/maps/sonnenallee-sprint/food-market.glb",
+      "bytes": 300708,
+      "sha256": "c2a2528666cd1add57eaf7b90a292b93c41ecf21da2160fe054ff58236582663"
+    },
+    {
+      "path": "assets/maps/sonnenallee-sprint/manifest.json",
+      "bytes": 1359,
+      "sha256": "b244f6f8ea27c7569315432c276363ac87af1276aac649fdc3f2405bc5570e19"
+    },
+    {
+      "path": "assets/maps/sonnenallee-sprint/preview.png",
+      "bytes": 1414913,
+      "sha256": "0002acd46652048a5128285a3ec9e90392775e7f8fbd1fe23addc29a64300dc2"
+    },
+    {
+      "path": "assets/maps/westhafen-docks/container-stack.glb",
+      "bytes": 650952,
+      "sha256": "6905477184a20e52e8889477ccfcbb1c6a00982820a0bcce1f84ade367d88032"
+    },
+    {
+      "path": "assets/maps/westhafen-docks/dock-warehouse.glb",
+      "bytes": 4016092,
+      "sha256": "d18fbbe281f85a2e2a17bf26a9176a6e8c6a886a08774dba5929eefaa47f49cb"
+    },
+    {
+      "path": "assets/maps/westhafen-docks/harbor-crane.glb",
+      "bytes": 63520,
+      "sha256": "1241e59713b9706b43afaf6334fe61e5aa0e5547a03ba99f7f996912c90fdc32"
+    },
+    {
+      "path": "assets/maps/westhafen-docks/manifest.json",
+      "bytes": 1367,
+      "sha256": "2ad93ccc0438d6e31ffc49642ec9fe50328d4ae36422cb82d1453b3e83a72683"
+    },
+    {
+      "path": "assets/maps/westhafen-docks/preview.png",
+      "bytes": 1248812,
+      "sha256": "53d21ae5ff0777b6026bb32d9164fa41ab81f4301a8556563672a4a9658052b5"
+    },
+    {
+      "path": "assets/models/hero-kart-mobile.glb",
+      "bytes": 654424,
+      "sha256": "4ea749612b5f122ae4cb7bb4051b353fa2677b6a8b06b24d30e8aaf377939b2c"
+    },
+    {
+      "path": "assets/models/hero-kart.glb",
+      "bytes": 1471144,
+      "sha256": "11be58237a249c42d257749055cf38a7da2611cd607926352fe95f53b3e31859"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7685,
+      "sha256": "6f8142c007d01e47c3fd71b7f70e5b71248a3daab956baa2735d4ed57bb84355"
+    },
+    {
+      "path": "landing-story.json",
+      "bytes": 1404,
+      "sha256": "42277a20e81a3d4663ef5c17b04949d77d6724bfa3c22f72f18068da393995e9"
+    },
+    {
+      "path": "spielanleitung.html",
+      "bytes": 3393,
+      "sha256": "5e9e9dd746c4a9fb8c635b8ef04e110e6f5d50b3f1a1e78e9815f4dfd74f198b"
+    }
+  ],
+  "note": "Landing assets, not a built landing application. Hero illustration is promotional artwork, not gameplay."
+}

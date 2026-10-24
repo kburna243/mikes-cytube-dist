@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "12-badeschiff-molecule",
+  "title": "Badeschiff und Molecule",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "floating-pool",
+      "file": "floating-pool.glb",
+      "bytes": 142344,
+      "triangles": 2884,
+      "drawPrimitives": 4,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        14.0,
+        6.199999809265137,
+        2.265000343322754
+      ]
+    },
+    {
+      "id": "molecule-sculpture",
+      "file": "molecule-sculpture.glb",
+      "bytes": 875008,
+      "triangles": 32252,
+      "drawPrimitives": 2,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        6.599999904632568,
+        6.715767860412598,
+        9.050000190734863
+      ]
+    },
+    {
+      "id": "arena-docks",
+      "file": "arena-docks.glb",
+      "bytes": 4093228,
+      "triangles": 5924,
+      "drawPrimitives": 6,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        23.600000381469727,
+        12.636877536773682,
+        7.181384444236755
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

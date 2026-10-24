@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kotti-kreisverkehr",
+    "title": "Kotti Kreisverkehr",
+    "icon": "assets/map-icons/kotti-kreisverkehr.png",
+    "smallIcon": "assets/map-icons/kotti-kreisverkehr-128.png"
+  },
+  {
+    "id": "sonnenallee-sprint",
+    "title": "Sonnenallee Sprint",
+    "icon": "assets/map-icons/sonnenallee-sprint.png",
+    "smallIcon": "assets/map-icons/sonnenallee-sprint-128.png"
+  },
+  {
+    "id": "raw-oberbaum",
+    "title": "RAW und Oberbaumbrücke",
+    "icon": "assets/map-icons/raw-oberbaum.png",
+    "smallIcon": "assets/map-icons/raw-oberbaum-128.png"
+  },
+  {
+    "id": "leopoldplatz-ring",
+    "title": "Leopoldplatz Ring",
+    "icon": "assets/map-icons/leopoldplatz-ring.png",
+    "smallIcon": "assets/map-icons/leopoldplatz-ring-128.png"
+  },
+  {
+    "id": "alex-fernsehturm",
+    "title": "Alex und Fernsehturm",
+    "icon": "assets/map-icons/alex-fernsehturm.png",
+    "smallIcon": "assets/map-icons/alex-fernsehturm-128.png"
+  },
+  {
+    "id": "mauerpark-hang",
+    "title": "Mauerpark Hang",
+    "icon": "assets/map-icons/mauerpark-hang.png",
+    "smallIcon": "assets/map-icons/mauerpark-hang-128.png"
+  },
+  {
+    "id": "nollendorf-neon",
+    "title": "Nollendorf Neon",
+    "icon": "assets/map-icons/nollendorf-neon.png",
+    "smallIcon": "assets/map-icons/nollendorf-neon-128.png"
+  },
+  {
+    "id": "westhafen-docks",
+    "title": "Westhafen Docks",
+    "icon": "assets/map-icons/westhafen-docks.png",
+    "smallIcon": "assets/map-icons/westhafen-docks-128.png"
+  },
+  {
+    "id": "kudamm-gold",
+    "title": "Ku’damm Gold",
+    "icon": "assets/map-icons/kudamm-gold.png",
+    "smallIcon": "assets/map-icons/kudamm-gold-128.png"
+  },
+  {
+    "id": "rollway-runway",
+    "title": "Tempelhof Runway",
+    "icon": "assets/map-icons/rollway-runway.png",
+    "smallIcon": "assets/map-icons/rollway-runway-128.png"
+  },
+  {
+    "id": "plattenbau-pagode",
+    "title": "Plattenbau und Pagode",
+    "icon": "assets/map-icons/plattenbau-pagode.png",
+    "smallIcon": "assets/map-icons/plattenbau-pagode-128.png"
+  },
+  {
+    "id": "badeschiff-molecule",
+    "title": "Badeschiff und Molecule",
+    "icon": "assets/map-icons/badeschiff-molecule.png",
+    "smallIcon": "assets/map-icons/badeschiff-molecule-128.png"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "03-raw-oberbaum",
+  "title": "RAW und Oberbaumbrücke",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "oberbaum-bridge",
+      "file": "oberbaum-bridge.glb",
+      "bytes": 4222796,
+      "triangles": 9804,
+      "drawPrimitives": 7,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        26.0,
+        4.699999809265137,
+        17.0
+      ]
+    },
+    {
+      "id": "raw-hall",
+      "file": "raw-hall.glb",
+      "bytes": 4015764,
+      "triangles": 4740,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        18.600000381469727,
+        8.3918776512146,
+        6.031384468078613
+      ]
+    },
+    {
+      "id": "riverside-rail",
+      "file": "riverside-rail.glb",
+      "bytes": 169260,
+      "triangles": 3256,
+      "drawPrimitives": 3,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        14.0,
+        3.0,
+        1.6850003004074097
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}

@@ -1,0 +1,52 @@
+{
+  "game": "Don Carlittos Berlin Hood Kart",
+  "map": "08-westhafen-docks",
+  "title": "Westhafen Docks",
+  "birthdayDedication": "Für Pascal, 24. Oktober 2026",
+  "units": "metres",
+  "forward": "+Z",
+  "up": "+Y",
+  "models": [
+    {
+      "id": "harbor-crane",
+      "file": "harbor-crane.glb",
+      "bytes": 63520,
+      "triangles": 1428,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        15.541159629821777,
+        5.0,
+        13.571529751643538
+      ]
+    },
+    {
+      "id": "dock-warehouse",
+      "file": "dock-warehouse.glb",
+      "bytes": 4016092,
+      "triangles": 4728,
+      "drawPrimitives": 5,
+      "hasEmbeddedTextures": true,
+      "sourceBoundsMetres": [
+        18.600000381469727,
+        8.3918776512146,
+        6.031384468078613
+      ]
+    },
+    {
+      "id": "container-stack",
+      "file": "container-stack.glb",
+      "bytes": 650952,
+      "triangles": 9424,
+      "drawPrimitives": 4,
+      "hasEmbeddedTextures": false,
+      "sourceBoundsMetres": [
+        11.888000011444092,
+        5.579999923706055,
+        5.350000023841858
+      ]
+    }
+  ],
+  "inGameTested": false,
+  "notes": "Original stylized landmark interpretations; not survey-accurate replicas. Preview shows normalized asset sizes, not a track layout."
+}
