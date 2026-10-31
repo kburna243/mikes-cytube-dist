@@ -1,0 +1,1277 @@
+{
+ "name": "MY CRAZY TRIP TO ISCHIA – Website-Assets",
+ "palette": {
+  "neon-pink": "#f22588",
+  "koralle": "#f84a70",
+  "schleim-gruen": "#2bf202",
+  "sonnen-gold": "#f8d760",
+  "adria-blau": "#125de7",
+  "himmel-cyan": "#1799ef",
+  "nacht": "#050203",
+  "weiss": "#f1f5f5"
+ },
+ "sections": [
+  "hero",
+  "geschichte",
+  "level",
+  "gegner",
+  "bosse",
+  "meta"
+ ],
+ "note": "Nur eine Auswahl. Vollständiges Spiel-Manifest: https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/manifest.json",
+ "entries": [
+  {
+   "id": "logo-ischia-key",
+   "kind": "logo",
+   "section": "hero",
+   "localPath": "public/site/logo/logo-ischia-key.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/website-brief/logo/logo-ischia-key.webp",
+   "width": 1774,
+   "height": 862,
+   "alpha": true,
+   "bytes": 1436116,
+   "sha256": "043e6726a0f2cd967bbd9782e15c6bed2a754a2b0c53a64e9960b27b5b92d950",
+   "description": "Neues Key-Logo, freigestellt (Alpha), Originalgröße – Hero-Titel",
+   "new": true
+  },
+  {
+   "id": "logo-ischia-key-960",
+   "kind": "logo",
+   "section": "hero",
+   "localPath": "public/site/logo/logo-ischia-key-960.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/website-brief/logo/logo-ischia-key-960.webp",
+   "width": 960,
+   "height": 466,
+   "alpha": true,
+   "bytes": 156382,
+   "sha256": "0913f7ddee36d789e71a6eca327cfb6d0b4cadb4e6cfc1356ec03a2a1cb1c30d",
+   "description": "Key-Logo 960 px breit – Mobil/Header",
+   "new": true
+  },
+  {
+   "id": "logo-ischia-key",
+   "kind": "logo",
+   "section": "alle",
+   "localPath": "public/site/logo/logo-ischia-key.png",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/website-brief/logo/logo-ischia-key.png",
+   "width": 1774,
+   "height": 862,
+   "alpha": true,
+   "bytes": 1852828,
+   "sha256": "d70df43c305912a149f6941352349fd12b56995f1db48b880af2b5003d200477",
+   "description": "Key-Logo als PNG (Fallback, Druck)",
+   "new": true
+  },
+  {
+   "id": "og-image-1200x630",
+   "kind": "social",
+   "section": "meta",
+   "localPath": "public/site/social/og-image-1200x630.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/website-brief/social/og-image-1200x630.jpg",
+   "width": 1200,
+   "height": 630,
+   "alpha": false,
+   "bytes": 198180,
+   "sha256": "5759c186beda63c89f83f0a517284d6b1d7ea12dbae639c5078f0ccf9684a906",
+   "description": "Share-Bild für og:image / twitter:image",
+   "new": true
+  },
+  {
+   "id": "l1a-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 364738,
+   "sha256": "026754743ce5475bad53ccdef26c039f839545277efb47928e2be69e5881ce8c",
+   "section": "level"
+  },
+  {
+   "id": "l1b-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 463248,
+   "sha256": "8d57db39d6ccadae64105145d1a41871d8994f45c8776669f25fad3e1ec2f115",
+   "section": "level"
+  },
+  {
+   "id": "l1c-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 457890,
+   "sha256": "f36830418d00a1bc7e2fec6bc6ca08391bfa358e9694d395b14c7d2c150e4764",
+   "section": "level"
+  },
+  {
+   "id": "l1d-hintergrund",
+   "level": "L1",
+   "kind": "background",
+   "localPath": "public/assets/l1d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 417632,
+   "sha256": "95acbd2483c0db4202313101cbbc872d16f29f04fb1d350cfbc598af8494d55f",
+   "section": "level"
+  },
+  {
+   "id": "boss-zoll-kopf",
+   "level": "L1",
+   "kind": "boss-part",
+   "localPath": "public/assets/boss-zoll-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/boss-zoll-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 346230,
+   "sha256": "312ac4ccf8543cd7a09e83d6442ec77c902e9ea9f2aa714e57700a3ec72a1c37",
+   "section": "bosse"
+  },
+  {
+   "id": "flughafen-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/flughafen-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/flughafen-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 403848,
+   "sha256": "5131bf3d723a3848def97a443b165bc7a5c75a83c17100020d8c3dcd48ab91f4",
+   "section": "gegner"
+  },
+  {
+   "id": "nonna-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/nonna-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/nonna-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 442882,
+   "sha256": "8ef1d8d74505bca03d31e13d50397d7f685da0031ffb4dbb51a78238617397ec",
+   "section": "gegner"
+  },
+  {
+   "id": "polizia-zombie-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/polizia-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/polizia-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 393966,
+   "sha256": "2a7d3f08fd1c78e1630c26c1fa07673df145fc418dfa5f7a69a0d9f3e82ae7a9",
+   "section": "gegner"
+  },
+  {
+   "id": "tourist-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/tourist-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/tourist-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 331292,
+   "sha256": "d1d156a0abe5d95e4468fae96d9a8207ddaa702084c8a5c4e22a04df73f36ec1",
+   "section": "gegner"
+  },
+  {
+   "id": "touristin-posen",
+   "level": "L1",
+   "kind": "character",
+   "localPath": "public/assets/touristin-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/touristin-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 343780,
+   "sha256": "30df7994ab6cfb2a075ee7f185e52937285d5cc423dce4c1b8f62fac2c7866d5",
+   "section": "gegner"
+  },
+  {
+   "id": "l1-korrektur__airport-scenes-burna-air",
+   "level": "L1",
+   "kind": "story",
+   "localPath": "public/assets/l1-korrektur/airport-scenes-burna-air.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/l1-korrektur/airport-scenes-burna-air.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 525114,
+   "sha256": "0ef1fa37b098e701fa970d3a96d5a2706e4efadb6820a510489dfccee61b37c9",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-2__l2a-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 533772,
+   "sha256": "6e6309afb3dbebda145c82aab3fb05747019c5c3e573adc52a58bb32aab12a35",
+   "section": "level"
+  },
+  {
+   "id": "level-2__l2b-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 649564,
+   "sha256": "f2723f2e5e017ccaf2d6358b7e1a3a9736956f773e7c6b1ab3e8f0b9dc733252",
+   "section": "level"
+  },
+  {
+   "id": "level-2__l2c-hintergrund",
+   "level": "L2",
+   "kind": "background",
+   "localPath": "public/assets/level-2/l2c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 485578,
+   "sha256": "4cb32fc0511ed6bee3ee12b0525a6f7ef5e0b19f048e51f868d4afa5e3ded784",
+   "section": "level"
+  },
+  {
+   "id": "level-2__boss-sergente-kopf",
+   "level": "L2",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-2/boss-sergente-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/boss-sergente-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 526204,
+   "sha256": "4040f4fd96832626d6679dfba45f0a98a2dc35aae49c7ef83541ac6f5e7c5fd4",
+   "section": "bosse"
+  },
+  {
+   "id": "level-2__carabiniere-zombie-posen",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/carabiniere-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/carabiniere-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 365886,
+   "sha256": "6f3941e580ffa22aab8c6997097756bad81da4be3ce038254a8ed9086262db8a",
+   "section": "gegner"
+  },
+  {
+   "id": "level-2__soldat-zombie-posen",
+   "level": "L2",
+   "kind": "character",
+   "localPath": "public/assets/level-2/soldat-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/soldat-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 337710,
+   "sha256": "2e039c7970bde9d17ac91df23db3829f6ed7a2b68d827c48e349dc4b585b140a",
+   "section": "gegner"
+  },
+  {
+   "id": "level-2__l2-zwischenbild-ausbruch",
+   "level": "L2",
+   "kind": "story",
+   "localPath": "public/assets/level-2/l2-zwischenbild-ausbruch.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-zwischenbild-ausbruch.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 553818,
+   "sha256": "e9b7b41488fb14f99352f6805bea227643fa56654313acf97d44024e88ef637e",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-2__l2-zwischenbild-tonino",
+   "level": "L2",
+   "kind": "story",
+   "localPath": "public/assets/level-2/l2-zwischenbild-tonino.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-2/l2-zwischenbild-tonino.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 440610,
+   "sha256": "e68cde822b198a9a1ac148441d70ed8ebe7a9266ca6230c91ec9a44df02b502e",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-3__l3a-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 509264,
+   "sha256": "3ba7b6cda71046b6f4c81d53813c5e22aec728e85af961d85e006c81902b571f",
+   "section": "level"
+  },
+  {
+   "id": "level-3__l3b-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 422216,
+   "sha256": "abc4018905b0ad78eaf0d233a7416069f69f474a88b3c08187bf5fb17e99ebc6",
+   "section": "level"
+  },
+  {
+   "id": "level-3__l3c-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 568390,
+   "sha256": "995598dd1e0cc5cc85c5c1a83b1f7c9e7a02c0b7fd83d65a5f6c3b418fcaa380",
+   "section": "level"
+  },
+  {
+   "id": "level-3__l3d-hintergrund",
+   "level": "L3",
+   "kind": "background",
+   "localPath": "public/assets/level-3/l3d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 511810,
+   "sha256": "808c714f70e9f64ebdb0c52a24ff28254bce614271eba03c16faca00717944cf",
+   "section": "level"
+  },
+  {
+   "id": "level-3__boss-eldiez-kopf",
+   "level": "L3",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-3/boss-eldiez-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/boss-eldiez-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 282228,
+   "sha256": "ce96420f9840b5f8423ac8f4a84d6ab058e6dd71a752da5747c07225b3d3dde8",
+   "section": "bosse"
+  },
+  {
+   "id": "level-3__pizzaiolo-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/pizzaiolo-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/pizzaiolo-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 409688,
+   "sha256": "1d6461d88b6bd90cd564d1f64297d955f0b6b2d453e3f206e3336d69e632f93f",
+   "section": "gegner"
+  },
+  {
+   "id": "level-3__proll-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/proll-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/proll-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 414770,
+   "sha256": "87cb65e71696e78b1087b1ec848e1a0fb6dbbf739ce3167cbbc618427c077f92",
+   "section": "gegner"
+  },
+  {
+   "id": "level-3__ultras-zombie-posen",
+   "level": "L3",
+   "kind": "character",
+   "localPath": "public/assets/level-3/ultras-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/ultras-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 353264,
+   "sha256": "f8f2732a2ba1ef105c1bda08fabfdef35a8f8046414519c94fd729aee0199192",
+   "section": "gegner"
+  },
+  {
+   "id": "level-3__l3-zwischenbild-ampulle",
+   "level": "L3",
+   "kind": "story",
+   "localPath": "public/assets/level-3/l3-zwischenbild-ampulle.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-3/l3-zwischenbild-ampulle.webp",
+   "width": 1672,
+   "height": 941,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 362556,
+   "sha256": "ef27fe245bf43ccc2cf95ecefe26cf914155ca59552242824003c4b65870878c",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-4__l4a-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 389944,
+   "sha256": "a65a000ca2b6d2f8e6bc9b0e33e51f9cab07decb2b95b48a3762645d7c21ce0e",
+   "section": "level"
+  },
+  {
+   "id": "level-4__l4b-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 302478,
+   "sha256": "acbc058a969389967ab3ebcf357cdaff1bf0d31a99b3c386aeea8b735de13e79",
+   "section": "level"
+  },
+  {
+   "id": "level-4__l4c-hintergrund",
+   "level": "L4",
+   "kind": "background",
+   "localPath": "public/assets/level-4/l4c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 328836,
+   "sha256": "3f3b42801806d456b805252eb700400f776ea351bd903ff5fa2538d5cfb45110",
+   "section": "level"
+  },
+  {
+   "id": "level-4__boss-capitano-kopf",
+   "level": "L4",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-4/boss-capitano-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/boss-capitano-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 371540,
+   "sha256": "107235171909364f9ed2fc6d464a1644c4c897a5314f8a88026f9e04a0a3684d",
+   "section": "bosse"
+  },
+  {
+   "id": "level-4__business-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/business-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/business-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 419926,
+   "sha256": "c9d1ce46bb0a6340554324b66685285c2ef232b3c151055f2a85862dd552763a",
+   "section": "gegner"
+  },
+  {
+   "id": "level-4__faehrcrew-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/faehrcrew-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/faehrcrew-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 529630,
+   "sha256": "518e8f718b08c9c8eae774eb2e802b14234e12896cb68f59c2274d4fd401ef95",
+   "section": "gegner"
+  },
+  {
+   "id": "level-4__hafenarbeiter-zombie-posen",
+   "level": "L4",
+   "kind": "character",
+   "localPath": "public/assets/level-4/hafenarbeiter-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/hafenarbeiter-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 424360,
+   "sha256": "907143cdcf603f0f323118d9219f020b0ec9e0c7cb494abc5eeb676ae1b118d8",
+   "section": "gegner"
+  },
+  {
+   "id": "level-4__l4-zwischenbild-burna",
+   "level": "L4",
+   "kind": "story",
+   "localPath": "public/assets/level-4/l4-zwischenbild-burna.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-4/l4-zwischenbild-burna.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 475546,
+   "sha256": "74b99abdb9b512aad1c48700eb89293aefd10dc7e99b28e79beaa907796ee5e5",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-5__l5a-hintergrund",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 504690,
+   "sha256": "72cfab3f38290022a17d9d26052e18cff5f0473118fd37c543f28621eb169706",
+   "section": "level"
+  },
+  {
+   "id": "level-5__l5b-hintergrund",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 430730,
+   "sha256": "5f6e7605ec84f1fd633ce7dfc8119739575dbd4e60cdb3ea8a65d501ebf3644d",
+   "section": "level"
+  },
+  {
+   "id": "level-5__l5c-hintergrund-stern",
+   "level": "L5",
+   "kind": "background",
+   "localPath": "public/assets/level-5/l5c-hintergrund-stern.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5c-hintergrund-stern.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 591370,
+   "sha256": "27e22c8a57b457475e2a0f8759113d24a0e1b305680047212f0a61a9226d4225",
+   "section": "level"
+  },
+  {
+   "id": "level-5__boss-barista-kopf",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-barista-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-barista-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 488050,
+   "sha256": "78c16c7d1b79ceff587f78665b25dd770ccde1d526331261dcaf2be28fb5cbb9",
+   "section": "bosse"
+  },
+  {
+   "id": "level-5__boss-polpo-kopf",
+   "level": "L5",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-5/boss-polpo-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/boss-polpo-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 239366,
+   "sha256": "a86fcff8876e02b2062dc6b36427a7f19246e475b90040d7b0945bfbdfc19f65",
+   "section": "bosse"
+  },
+  {
+   "id": "level-5__l5-zwischenbild-ankunft",
+   "level": "L5",
+   "kind": "story",
+   "localPath": "public/assets/level-5/l5-zwischenbild-ankunft.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-5/l5-zwischenbild-ankunft.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 332162,
+   "sha256": "01b35fe042a76e5c45aa514021e09d9bf841ae512a700b83dab107a2fe53e4b8",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-6__l6a-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 544110,
+   "sha256": "bee37fda1bb16c0c873efa4a029f0c5b7cf9b62123b03478563133551b534b63",
+   "section": "level"
+  },
+  {
+   "id": "level-6__l6b-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 441876,
+   "sha256": "3e1cdf2e5cc407a5d46de9983c49933f3b6883a4fa126ec49d013c1881da6dbd",
+   "section": "level"
+  },
+  {
+   "id": "level-6__l6c-hintergrund",
+   "level": "L6",
+   "kind": "background",
+   "localPath": "public/assets/level-6/l6c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 377010,
+   "sha256": "b9d122bb62a0719a2be710a7c0235aa8eb3234250f429d7765ad76556f03ba14",
+   "section": "level"
+  },
+  {
+   "id": "level-6__boss-limoncello-kopf",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-limoncello-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-limoncello-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 408364,
+   "sha256": "a6899d858d3265c67b9715d0a5757b9376e47d999ccf5570ebed24d54bb65504",
+   "section": "bosse"
+  },
+  {
+   "id": "level-6__boss-vespacapo-kopf",
+   "level": "L6",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-6/boss-vespacapo-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/boss-vespacapo-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 431898,
+   "sha256": "e1f8c7f517f87998379dea5c2b00a300a599407c8e694d64f89bbb750fadfe37",
+   "section": "bosse"
+  },
+  {
+   "id": "level-6__vespa-gang-zombie-posen",
+   "level": "L6",
+   "kind": "character",
+   "localPath": "public/assets/level-6/vespa-gang-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/vespa-gang-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 467510,
+   "sha256": "c38f84993b145ed0c942ea471e07b723205b8c5a4d80900ccbcbea0c64c2cbde",
+   "section": "gegner"
+  },
+  {
+   "id": "level-6__l6-zwischenbild-castello",
+   "level": "L6",
+   "kind": "story",
+   "localPath": "public/assets/level-6/l6-zwischenbild-castello.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-6/l6-zwischenbild-castello.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 571082,
+   "sha256": "b484cba93589410860e6eabe68b62bc37305d258ec138ed3041309bfcddc824a",
+   "section": "geschichte"
+  },
+  {
+   "id": "castello-v2__l7b-hintergrund-castello-v2",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/castello-v2/l7b-hintergrund-castello-v2.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/castello-v2/l7b-hintergrund-castello-v2.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 606506,
+   "sha256": "1783d62ce161a9a59657e55e0500a3853ebf1efa9c8a18030197393ea4080287",
+   "section": "level"
+  },
+  {
+   "id": "level-7__l7a-hintergrund",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/level-7/l7a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 366400,
+   "sha256": "bc6d22f46222eb93fccdaba3485045199fe6dd95344b1a255492f3310b465611",
+   "section": "level"
+  },
+  {
+   "id": "level-7__l7b-hintergrund",
+   "level": "L7",
+   "kind": "background",
+   "localPath": "public/assets/level-7/l7b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 492844,
+   "sha256": "714342ec6da02c02f1c0e0eb658fd4115101fb15d27eba9ec38856874398c644",
+   "section": "level"
+  },
+  {
+   "id": "level-7__boss-cavaliere-kopf",
+   "level": "L7",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-7/boss-cavaliere-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/boss-cavaliere-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 411884,
+   "sha256": "2b742a1d8689dd83b92c8c586004bd11cc6b5fdec28eb614fc4c8b62cc537ee8",
+   "section": "bosse"
+  },
+  {
+   "id": "level-7__l7-zwischenbild-tor",
+   "level": "L7",
+   "kind": "story",
+   "localPath": "public/assets/level-7/l7-zwischenbild-tor.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-7/l7-zwischenbild-tor.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 660972,
+   "sha256": "2f9b862542d7df2a006ff9ecd98c690dd9fc8174de3f525461bc6d0f77cad518",
+   "section": "geschichte"
+  },
+  {
+   "id": "level-8__l8a-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8a-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8a-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 539266,
+   "sha256": "6d5ba18d455b0ab78305f5f39aa9b8307f2eefc3f37165e864e5684a316d1b80",
+   "section": "level"
+  },
+  {
+   "id": "level-8__l8b-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8b-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8b-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 354562,
+   "sha256": "00aa1237252ae9ec3f2e64476620d00542adce71613e27f4407691d8a2ca583d",
+   "section": "level"
+  },
+  {
+   "id": "level-8__l8c-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8c-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8c-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 421018,
+   "sha256": "b7b692cfc47202ad133194213871b4b44eb61e5905021f1db141926ca2e6f75c",
+   "section": "level"
+  },
+  {
+   "id": "level-8__l8d-hintergrund",
+   "level": "L8",
+   "kind": "background",
+   "localPath": "public/assets/level-8/l8d-hintergrund.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8d-hintergrund.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 495320,
+   "sha256": "c506c735a1cd17979e0e334ce4a864c8b3d8d0d3d232c701474c14af5e0e073c",
+   "section": "level"
+  },
+  {
+   "id": "level-8__boss-burna-kopf",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-burna-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-burna-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 409616,
+   "sha256": "59ff07108c4ab1d358e5649bc6d202955c0e6e14ad619bad44b701fbad4782dc",
+   "section": "bosse"
+  },
+  {
+   "id": "level-8__boss-suora-kopf",
+   "level": "L8",
+   "kind": "boss-part",
+   "localPath": "public/assets/level-8/boss-suora-kopf.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/boss-suora-kopf.webp",
+   "width": 1254,
+   "height": 1254,
+   "alpha": true,
+   "grid": [
+    2,
+    2
+   ],
+   "bytes": 291758,
+   "sha256": "444afa6439992a26da3769132ed59ca9b58908cb6d4fa92f9c1404edcfcc3046",
+   "section": "bosse"
+  },
+  {
+   "id": "level-8__suora-zombie-posen",
+   "level": "L8",
+   "kind": "character",
+   "localPath": "public/assets/level-8/suora-zombie-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/suora-zombie-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 445368,
+   "sha256": "753a2f70f45973e86dd3f4a95412beb7cfefd9b5d948d4a125dc13fce0628ea6",
+   "section": "gegner"
+  },
+  {
+   "id": "level-8__l8-ende",
+   "level": "L8",
+   "kind": "story",
+   "localPath": "public/assets/level-8/l8-ende.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/level-8/l8-ende.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 442690,
+   "sha256": "e4750c0f9ccb86bdb6c2a52c94ad24dae002a6300bf2dedf029f6d09432ebf01",
+   "section": "geschichte"
+  },
+  {
+   "id": "fraticello-posen",
+   "level": "alle",
+   "kind": "character",
+   "localPath": "public/assets/fraticello-posen.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/fraticello-posen.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": true,
+   "grid": [
+    3,
+    2
+   ],
+   "bytes": 321232,
+   "sha256": "bab3d77f6a4de53c7a9d4428a779cba2dad1181d74d4b1e31ff36b07726e1130",
+   "section": "gegner"
+  },
+  {
+   "id": "cover-16x9",
+   "level": "alle",
+   "kind": "cover",
+   "localPath": "public/assets/cover-16x9.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/cover-16x9.webp",
+   "width": 1536,
+   "height": 1024,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 579970,
+   "sha256": "674cf0b8720497518db8c406c58964e45502026a5ef3cdfb0e4ca1be9967ec6c",
+   "section": "hero"
+  },
+  {
+   "id": "cover-2x3",
+   "level": "alle",
+   "kind": "cover",
+   "localPath": "public/assets/cover-2x3.webp",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/assets/cover-2x3.webp",
+   "width": 1024,
+   "height": 1536,
+   "alpha": false,
+   "grid": [
+    1,
+    1
+   ],
+   "bytes": 736344,
+   "sha256": "7e62bb7d281014e0256c3691e236448a94b02bac67482373e50428d6e318fac3",
+   "section": "hero"
+  },
+  {
+   "id": "intro-prologo-720p",
+   "level": "intro",
+   "kind": "cutscene",
+   "localPath": "public/cutscenes/intro-prologo-720p.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-720p.mp4",
+   "bytes": 9213810,
+   "sha256": "fa9532ec8cc7549e9cdc0a3fcdf7363e6e71f9e0ad94f00b0140257a68560ddc",
+   "section": "hero"
+  },
+  {
+   "id": "intro-prologo-poster",
+   "level": "intro",
+   "kind": "cutscene",
+   "localPath": "public/cutscenes/intro-prologo-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia/cutscenes/intro-prologo-poster.jpg",
+   "bytes": 277913,
+   "sha256": "e85b66a4f9d14523c2809c98204ce9f7024a7a6b89142fac5d82e1670f7beada",
+   "section": "hero"
+  },
+  {
+   "id": "uebergang-t1-poster",
+   "kind": "cutscene-poster",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t1-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t1-poster.jpg",
+   "bytes": 186077,
+   "sha256": "e1479d828c985fd6ecd256e311904b1f7abe2807409756383a18243b28408019"
+  },
+  {
+   "id": "uebergang-t1",
+   "kind": "cutscene",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t1.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t1.mp4",
+   "bytes": 1655131,
+   "sha256": "37de9672f6eb6f5d30c3fc581c8235cb74642e1db43137b3a0752420b9fe10b1"
+  },
+  {
+   "id": "uebergang-t2-poster",
+   "kind": "cutscene-poster",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t2-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t2-poster.jpg",
+   "bytes": 133110,
+   "sha256": "5759f562d6220e2a71907bde12ea40bf7db520bd381e41dc32d6402cc118d5ab"
+  },
+  {
+   "id": "uebergang-t2",
+   "kind": "cutscene",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t2.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t2.mp4",
+   "bytes": 2963541,
+   "sha256": "723e0b37154a561c7f7f09d7a2bd3dde5d4c6c2709ab821da6ac5081d7eb7e66"
+  },
+  {
+   "id": "uebergang-t3-poster",
+   "kind": "cutscene-poster",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t3-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t3-poster.jpg",
+   "bytes": 162199,
+   "sha256": "5f346c1e8abe0a34a6b19053d2c9fe1bd55c69c19e3af174e7dad207011d1032"
+  },
+  {
+   "id": "uebergang-t3",
+   "kind": "cutscene",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t3.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t3.mp4",
+   "bytes": 1400810,
+   "sha256": "33b70aeda6012feaf186f1547e80db2707e26ed2f02bc1226cbcc1e841372fad"
+  },
+  {
+   "id": "uebergang-t5-poster",
+   "kind": "cutscene-poster",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t5-poster.jpg",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t5-poster.jpg",
+   "bytes": 150542,
+   "sha256": "301c91bce03ccd520bb9195f3acadb387473c3f9f50d5d2b0ff2001b1841a9cd"
+  },
+  {
+   "id": "uebergang-t5",
+   "kind": "cutscene",
+   "section": "geschichte",
+   "localPath": "public/cutscenes/uebergang-t5.mp4",
+   "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/ischia-v2/cutscenes/uebergang-t5.mp4",
+   "bytes": 1391243,
+   "sha256": "9c3011e0c502edc11750ffa3f7425f103c01aa0ac12df8bc0a9793f5d598a060"
+  }
+ ]
+}
