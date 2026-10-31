@@ -1,0 +1,235 @@
+{
+  "backgrounds": {
+    "museum": {
+      "title": "Pacific Art Museum - Great Hall",
+      "native": [
+        320,
+        144
+      ],
+      "scaled4x": [
+        1280,
+        576
+      ]
+    },
+    "alley": {
+      "title": "Pagoda Lane, Chinatown",
+      "native": [
+        320,
+        144
+      ],
+      "scaled4x": [
+        1280,
+        576
+      ]
+    },
+    "teahouse": {
+      "title": "Jade Pagoda Tea House",
+      "native": [
+        320,
+        144
+      ],
+      "scaled4x": [
+        1280,
+        576
+      ]
+    },
+    "office": {
+      "title": "Charlie Chan's study",
+      "native": [
+        320,
+        144
+      ],
+      "scaled4x": [
+        1280,
+        576
+      ]
+    }
+  },
+  "sprites": {
+    "chan": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    },
+    "thorne": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    },
+    "lee": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    },
+    "lin": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    },
+    "evelyn": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    },
+    "sterling": {
+      "cell": [
+        12,
+        34
+      ],
+      "frames": [
+        "front",
+        "back",
+        "walkRight0",
+        "walkRight1",
+        "walkRight2",
+        "walkRight3",
+        "talkFront"
+      ],
+      "pivot": [
+        6,
+        34
+      ],
+      "note": "mirror walkRight horizontally for walking left"
+    }
+  },
+  "icons": {
+    "magnifier": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "magnifier"
+    },
+    "thread": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "golden thread"
+    },
+    "clay": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "red clay"
+    },
+    "fish": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "dried fish"
+    },
+    "charm": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "jade charm"
+    },
+    "program": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "opera program"
+    },
+    "wax": {
+      "native": [
+        16,
+        14
+      ],
+      "name": "wax mold"
+    }
+  },
+  "logos": {
+    "en": {
+      "native": [
+        240,
+        58
+      ]
+    },
+    "de": {
+      "native": [
+        240,
+        58
+      ]
+    }
+  }
+}

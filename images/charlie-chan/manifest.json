@@ -1,0 +1,602 @@
+{
+  "name": "Charlie Chan in: The Jade Dragon Case",
+  "version": "1.0.0",
+  "created": "2026-10-31",
+  "readFirst": [
+    "START-HERE.md",
+    "ARENA-PROMPT.md",
+    "GUIDE.md",
+    "ANLEITUNG.md"
+  ],
+  "gameEntry": "game/index.html",
+  "files": [
+    {
+      "path": "ANLEITUNG.md",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/ANLEITUNG.md",
+      "localPath": "ANLEITUNG.md",
+      "bytes": 5870,
+      "sha256": "b7e854360296b667710d728980c6a98afd4a6162753a96cb233d186f2e443cbb",
+      "type": "doc"
+    },
+    {
+      "path": "ARENA-PROMPT.md",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/ARENA-PROMPT.md",
+      "localPath": "ARENA-PROMPT.md",
+      "bytes": 6981,
+      "sha256": "b357fdd951ff8c1df5a577430975fee6551e35d04bfac4e0489922c6ed64c83a",
+      "type": "doc"
+    },
+    {
+      "path": "GUIDE.md",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/GUIDE.md",
+      "localPath": "GUIDE.md",
+      "bytes": 5507,
+      "sha256": "02ffb29badde19062e836cc8ba1465faed839148c9c28f1d0c5a3663b4848013",
+      "type": "doc"
+    },
+    {
+      "path": "START-HERE.md",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/START-HERE.md",
+      "localPath": "START-HERE.md",
+      "bytes": 2688,
+      "sha256": "2749477c1101b1b093288f8e46283d1df95479a17dc9217879fb18ffd585f10c",
+      "type": "doc"
+    },
+    {
+      "path": "assets/assets-meta.json",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/assets-meta.json",
+      "localPath": "assets/assets-meta.json",
+      "bytes": 3694,
+      "sha256": "c39746a21891a1d4d141b6d2b0acd27a05cb8718ab7fe0caa05caaba34dd6b85",
+      "type": "assets-meta.json"
+    },
+    {
+      "path": "assets/backgrounds/alley.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/alley.png",
+      "localPath": "assets/backgrounds/alley.png",
+      "bytes": 14975,
+      "sha256": "7e473e1549b58a578642ee3b270f95a1e787456822e7c462b175d7f498557302",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/alley@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/alley%404x.png",
+      "localPath": "assets/backgrounds/alley@4x.png",
+      "bytes": 55374,
+      "sha256": "921cd8bbad59b09c56ac94607e52caa4a3d2b508d606be6e642fd29f9e407e87",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/museum.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/museum.png",
+      "localPath": "assets/backgrounds/museum.png",
+      "bytes": 10550,
+      "sha256": "63d8c21f7f99c0893bb744a1704e244dc3015f92862e31ca0040e64f78ce3f19",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/museum@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/museum%404x.png",
+      "localPath": "assets/backgrounds/museum@4x.png",
+      "bytes": 44050,
+      "sha256": "c7f9401192deac73477960188904f36996a6dcca7cd56a48b9d8488da16bece2",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/office.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/office.png",
+      "localPath": "assets/backgrounds/office.png",
+      "bytes": 7548,
+      "sha256": "47b1cde5621ea531b2407f70b2faa00dcd570dabbfeedabe9af446009315e2d7",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/office@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/office%404x.png",
+      "localPath": "assets/backgrounds/office@4x.png",
+      "bytes": 47106,
+      "sha256": "d865d6e8406b78df4b427ef9d2f7652d038fcd2bdb8c8d4f0680c2fa8b99700a",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/teahouse.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/teahouse.png",
+      "localPath": "assets/backgrounds/teahouse.png",
+      "bytes": 9205,
+      "sha256": "6ac82d8dbd87c5ffd71f53a73951d1fff5ed3068855682d90d85ed10fcab9811",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/backgrounds/teahouse@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/backgrounds/teahouse%404x.png",
+      "localPath": "assets/backgrounds/teahouse@4x.png",
+      "bytes": 36942,
+      "sha256": "fdd9256a6ef0167d48d8b2690e6e65fa36d06e06070f97e09178f280aa436058",
+      "type": "backgrounds"
+    },
+    {
+      "path": "assets/icons/charm.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/charm.png",
+      "localPath": "assets/icons/charm.png",
+      "bytes": 242,
+      "sha256": "6c072307a5ec504a30679325e866a8a8809f3daf85f634709176ec55d595c718",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/charm@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/charm%406x.png",
+      "localPath": "assets/icons/charm@6x.png",
+      "bytes": 641,
+      "sha256": "610990005050a715a61fd7a3879371d675218357076f4a842915994694967d63",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/clay.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/clay.png",
+      "localPath": "assets/icons/clay.png",
+      "bytes": 263,
+      "sha256": "04fbb1b57912fe7721dba2464de19cacb944cc82c4dbd47a3c2bf3658ca290c1",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/clay@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/clay%406x.png",
+      "localPath": "assets/icons/clay@6x.png",
+      "bytes": 772,
+      "sha256": "147e7b91020f3cd63de8786a9adb57d012bb7d6a67a4da1c21b1af1e6d44e9da",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/fish.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/fish.png",
+      "localPath": "assets/icons/fish.png",
+      "bytes": 231,
+      "sha256": "b6b9b2cbadbf31b9425021abc655fd42a1067cda82e4f569dfd117ba02303604",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/fish@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/fish%406x.png",
+      "localPath": "assets/icons/fish@6x.png",
+      "bytes": 679,
+      "sha256": "2549158aff0f7faf5e99d0e6d0eee37fefffddec54b0b99c59b8bfd20f9870cc",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/magnifier.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/magnifier.png",
+      "localPath": "assets/icons/magnifier.png",
+      "bytes": 296,
+      "sha256": "cf69f20d1201f9071fc1ddbcee554b902623242ac2cf878facd4e25538699691",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/magnifier@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/magnifier%406x.png",
+      "localPath": "assets/icons/magnifier@6x.png",
+      "bytes": 841,
+      "sha256": "f5f783fd0c64cb88627ff1ecce38ccd52c94a5bca0e20e88ca3285a478449432",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/program.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/program.png",
+      "localPath": "assets/icons/program.png",
+      "bytes": 226,
+      "sha256": "7d2211eecd7fd76389cb1d8ed56b42a9b9132848c857b67f6e654f6428c7b03a",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/program@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/program%406x.png",
+      "localPath": "assets/icons/program@6x.png",
+      "bytes": 675,
+      "sha256": "3b4e2ed483607ae00c0b6fcf26340f604947bc554c09f7fb4e9cf1dbd66a67ef",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/thread.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/thread.png",
+      "localPath": "assets/icons/thread.png",
+      "bytes": 230,
+      "sha256": "3bc4c61a3a136ba3df8ce23d5a5d34fa6ed97b682aab023e383866c16eb4d904",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/thread@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/thread%406x.png",
+      "localPath": "assets/icons/thread@6x.png",
+      "bytes": 742,
+      "sha256": "01fa2e5df62884e6af79c0aa9d32a776f4a8f953ac9fe64a2c6dec34fcabf901",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/wax.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/wax.png",
+      "localPath": "assets/icons/wax.png",
+      "bytes": 257,
+      "sha256": "8e25fe0cfc464bc320dfabbe9d274ce29331c00dd7cbb5317c1c242c5b7a5d18",
+      "type": "icons"
+    },
+    {
+      "path": "assets/icons/wax@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/icons/wax%406x.png",
+      "localPath": "assets/icons/wax@6x.png",
+      "bytes": 719,
+      "sha256": "650040148c209eed1a6f6678624bda16f4140c5b3ba064fcf293c1a905561808",
+      "type": "icons"
+    },
+    {
+      "path": "assets/logo/logo-de.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/logo/logo-de.png",
+      "localPath": "assets/logo/logo-de.png",
+      "bytes": 1728,
+      "sha256": "8bce9bb38aad8873b2df643319658122ba9323513f20da2a3aebe4a54d30e864",
+      "type": "logo",
+      "lang": "de"
+    },
+    {
+      "path": "assets/logo/logo-de@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/logo/logo-de%404x.png",
+      "localPath": "assets/logo/logo-de@4x.png",
+      "bytes": 7549,
+      "sha256": "9b324006dd0ac3be6aa18db7fee42eed84804fac880afe5c2dc492d7b1783f0b",
+      "type": "logo",
+      "lang": "de"
+    },
+    {
+      "path": "assets/logo/logo-en.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/logo/logo-en.png",
+      "localPath": "assets/logo/logo-en.png",
+      "bytes": 1767,
+      "sha256": "cf4b08c0ee3ec717d46f309fda984420cafae557d6fa6d39cd5563aea42d8289",
+      "type": "logo",
+      "lang": "en"
+    },
+    {
+      "path": "assets/logo/logo-en@4x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/logo/logo-en%404x.png",
+      "localPath": "assets/logo/logo-en@4x.png",
+      "bytes": 7593,
+      "sha256": "c122267b8246dfe61e91c137a4724a5565fdeb324f26a43858377e94cfdb816b",
+      "type": "logo",
+      "lang": "en"
+    },
+    {
+      "path": "assets/palette.json",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/palette.json",
+      "localPath": "assets/palette.json",
+      "bytes": 647,
+      "sha256": "3a0f01c003ecb3e7de184934dbc13b58085ad134ff7b60158e5928e19d820172",
+      "type": "palette.json"
+    },
+    {
+      "path": "assets/sprites/chan.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/chan.png",
+      "localPath": "assets/sprites/chan.png",
+      "bytes": 1116,
+      "sha256": "e3d4f42743b4ac897e611a3c9451333883fd4e15d5bd43db3d0dda98416f9e5c",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/chan@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/chan%406x.png",
+      "localPath": "assets/sprites/chan@6x.png",
+      "bytes": 4727,
+      "sha256": "2e2d18fc183b61c284b8cff9525511aaf7a19d97167235db37f014e25d23823a",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/evelyn.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/evelyn.png",
+      "localPath": "assets/sprites/evelyn.png",
+      "bytes": 880,
+      "sha256": "970f5900d9bab952b0c5533cee9661be672ab77a5d8a18f646611bda8e34dc87",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/evelyn@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/evelyn%406x.png",
+      "localPath": "assets/sprites/evelyn@6x.png",
+      "bytes": 4406,
+      "sha256": "9555d868cc1c8a1a7b08b82715d7c174c6e0021e09e39192bc745eb08c35783c",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/lee.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/lee.png",
+      "localPath": "assets/sprites/lee.png",
+      "bytes": 946,
+      "sha256": "c9459aaa7b0176874c8a9bbb3558bc97178f1abdbacafd427e106ae9c35bc2b2",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/lee@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/lee%406x.png",
+      "localPath": "assets/sprites/lee@6x.png",
+      "bytes": 4381,
+      "sha256": "0ad9c9539707d7b064f4624a2e680b7c06507d72c3ed12cff588aa9439d9a3fd",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/lin.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/lin.png",
+      "localPath": "assets/sprites/lin.png",
+      "bytes": 851,
+      "sha256": "b9d9716e4fde1ce189049a6f5b8e0f07c98588f6f18c23dc3dbc7a184c6c45df",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/lin@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/lin%406x.png",
+      "localPath": "assets/sprites/lin@6x.png",
+      "bytes": 4208,
+      "sha256": "ac8efc0a6a78a01005197a7e18ef776f8b605bcea40225cc2a8d284e76a1b7f7",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/sterling.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/sterling.png",
+      "localPath": "assets/sprites/sterling.png",
+      "bytes": 1126,
+      "sha256": "271cfea41b3f7bc4beebe39d4b6f2e94ff8e9be06804281d4d0852cb73d0612b",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/sterling@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/sterling%406x.png",
+      "localPath": "assets/sprites/sterling@6x.png",
+      "bytes": 4741,
+      "sha256": "891926b19342a189cf75f9d90762bc4a7f5531e01546f58fcdc4dc9d99f455cd",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/thorne.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/thorne.png",
+      "localPath": "assets/sprites/thorne.png",
+      "bytes": 885,
+      "sha256": "d22b0e88fdd8045ac7bfd7ad6f2a61d476e236f62d2b2730112707d30a8414f9",
+      "type": "sprites"
+    },
+    {
+      "path": "assets/sprites/thorne@6x.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/assets/sprites/thorne%406x.png",
+      "localPath": "assets/sprites/thorne@6x.png",
+      "bytes": 4279,
+      "sha256": "5ab01aa46d2db159e050ebd81ac468d83ad43ab4a2c949da4aa63eccdfce9b71",
+      "type": "sprites"
+    },
+    {
+      "path": "game/assets/index-sDnoM-la.js",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/game/assets/index-sDnoM-la.js",
+      "localPath": "game/assets/index-sDnoM-la.js",
+      "bytes": 84812,
+      "sha256": "f42b44bbc3944ec09514f14a0100e62c951d8c9b7447e7bac41f2e2600efecb4",
+      "type": "game"
+    },
+    {
+      "path": "game/index.html",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/game/index.html",
+      "localPath": "game/index.html",
+      "bytes": 677,
+      "sha256": "5c8101b8ec1fd47990a748187ff24309b35a52813a7ab78a366540e216c61c97",
+      "type": "game"
+    },
+    {
+      "path": "screenshots/de-01-title.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-01-title.png",
+      "localPath": "screenshots/de-01-title.png",
+      "bytes": 67908,
+      "sha256": "8deffed9176d3062d93ccccd1d88116651cb7578952ce93af7a7e86ced021951",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-02-intro.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-02-intro.png",
+      "localPath": "screenshots/de-02-intro.png",
+      "bytes": 50364,
+      "sha256": "82393408a3e4c3390e3fe045070cf1498e38fbb1149dd370624b3875dc30da93",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-03-museum.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-03-museum.png",
+      "localPath": "screenshots/de-03-museum.png",
+      "bytes": 54488,
+      "sha256": "35f929ba5e55c85059a267398c659c7afdddfb202bfb45073c3a989c0c5f3913",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-04-museum-clue.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-04-museum-clue.png",
+      "localPath": "screenshots/de-04-museum-clue.png",
+      "bytes": 54187,
+      "sha256": "dd1a0871f2de326cac6ce2d4b88148584f827d43dd520a0f5fb3a69a14af9c5e",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-05-alley.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-05-alley.png",
+      "localPath": "screenshots/de-05-alley.png",
+      "bytes": 64563,
+      "sha256": "2b9a1b2737a9be36ec15b298102f64d6749d2b2ca5bfc88c54853b442b79cfff",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-06-poster.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-06-poster.png",
+      "localPath": "screenshots/de-06-poster.png",
+      "bytes": 89078,
+      "sha256": "cf15b540508ccc10309691627000f02c86a517c804a8ea4563228e2c0e7005e3",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-07-lockbox.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-07-lockbox.png",
+      "localPath": "screenshots/de-07-lockbox.png",
+      "bytes": 97678,
+      "sha256": "a9995795b9ead8e506984c53a57faf60ee2c12ba8b54e85bf2b2bce6ca048981",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-08-teahouse.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-08-teahouse.png",
+      "localPath": "screenshots/de-08-teahouse.png",
+      "bytes": 46816,
+      "sha256": "6a58e661de729037eeaaade6b823e897aa199f97ac5b212f4429161941cc3d91",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-09-dialogue.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-09-dialogue.png",
+      "localPath": "screenshots/de-09-dialogue.png",
+      "bytes": 57710,
+      "sha256": "85417f8e17eb51051dc65b81426bddad063a639784079557a4ba7d577f3096fa",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-10-casebook.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-10-casebook.png",
+      "localPath": "screenshots/de-10-casebook.png",
+      "bytes": 86716,
+      "sha256": "113ad74dfd58e1f53ad3d8e288c52bfcd82997b49180a5338806c78f8da2e0db",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-11-confession.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-11-confession.png",
+      "localPath": "screenshots/de-11-confession.png",
+      "bytes": 58179,
+      "sha256": "08352ea93102b081651b2f2a244d4245a5969567d7aa4794c66911242675f8e7",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/de-12-case-closed.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/de-12-case-closed.png",
+      "localPath": "screenshots/de-12-case-closed.png",
+      "bytes": 51795,
+      "sha256": "5f8ade62ea6afe5123baf0fb4c844fc997d2752e33523ecbc37bb6e2dd4bd71a",
+      "type": "screenshot",
+      "lang": "de"
+    },
+    {
+      "path": "screenshots/en-01-title.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-01-title.png",
+      "localPath": "screenshots/en-01-title.png",
+      "bytes": 67517,
+      "sha256": "4a14446683a270937664a5e9acf16764b07eb83330b7e0242d90bbbc30130293",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-02-intro.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-02-intro.png",
+      "localPath": "screenshots/en-02-intro.png",
+      "bytes": 50553,
+      "sha256": "f7f099ca92745b880e1589f2c2179d01baeb3948be03f73d894c34ed6b2339ab",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-03-museum.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-03-museum.png",
+      "localPath": "screenshots/en-03-museum.png",
+      "bytes": 54026,
+      "sha256": "e4023c761f33b4a1c210cbe79d19bd9e9245c1282bf0b9831b5ad60da6ad2893",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-04-museum-clue.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-04-museum-clue.png",
+      "localPath": "screenshots/en-04-museum-clue.png",
+      "bytes": 54054,
+      "sha256": "2e9554f1e2ea12856dee1125925be44e26f85806bfe994dfe9e6067f6d3c5f02",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-05-alley.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-05-alley.png",
+      "localPath": "screenshots/en-05-alley.png",
+      "bytes": 65208,
+      "sha256": "3e2105e15dc018c235ebd0f9a09218d0c1ce74a7c77c5e1e09f6598c1ce70d77",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-06-poster.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-06-poster.png",
+      "localPath": "screenshots/en-06-poster.png",
+      "bytes": 88762,
+      "sha256": "53b14539e3536870b8cb19911b08fd9501d55b77f15c03934bb90f3740ddc2da",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-07-lockbox.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-07-lockbox.png",
+      "localPath": "screenshots/en-07-lockbox.png",
+      "bytes": 97841,
+      "sha256": "3466df9d313f90c334dc53488cbd8b37bae8a24524d2c7b1636706fa3f9b4b8c",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-08-teahouse.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-08-teahouse.png",
+      "localPath": "screenshots/en-08-teahouse.png",
+      "bytes": 46477,
+      "sha256": "403a55d5ef7f2746a40d59d0bc4c181fe00fcd273f1b6c5a1d2c536439df9a1d",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-09-dialogue.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-09-dialogue.png",
+      "localPath": "screenshots/en-09-dialogue.png",
+      "bytes": 55814,
+      "sha256": "21b0638227b2e858cabad93f5423e7958018790266edfb906f56d42d52ab75a2",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-10-casebook.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-10-casebook.png",
+      "localPath": "screenshots/en-10-casebook.png",
+      "bytes": 84800,
+      "sha256": "86fc1589039ef8b320e2d59d6c662eca1ec26c5dbb9e43b8ca481be1e452278b",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-11-confession.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-11-confession.png",
+      "localPath": "screenshots/en-11-confession.png",
+      "bytes": 57236,
+      "sha256": "4765d21acab97ce7eabc7c5d89d362ba524ef55d607a152fccbf0c952fe2aeaa",
+      "type": "screenshot",
+      "lang": "en"
+    },
+    {
+      "path": "screenshots/en-12-case-closed.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/charlie-chan/screenshots/en-12-case-closed.png",
+      "localPath": "screenshots/en-12-case-closed.png",
+      "bytes": 51247,
+      "sha256": "e4f66fd5b78ebba1a0d4adcd71a58b0118d5081b95122ce7f6c3f5f10929ddc1",
+      "type": "screenshot",
+      "lang": "en"
+    }
+  ]
+}
