@@ -1,0 +1,850 @@
+{
+  "project": "DJ Noizy Neighbour (noziy)",
+  "version": "1.0.0",
+  "genre": [
+    "Rare Funk",
+    "Soul",
+    "Beats",
+    "Hip Hop",
+    "Lo-Fi"
+  ],
+  "theme": {
+    "palette": {
+      "charcoal": "#111111",
+      "vinylOrange": "#E85C0D",
+      "sunburst": "#F6B436",
+      "cream": "#F6EAD9",
+      "olive": "#4B5B3B"
+    },
+    "typography": {
+      "display": "Cooper Black / Recoleta / ChunkFive",
+      "body": "Montserrat / Space Grotesk / Inter",
+      "mono": "Space Mono / JetBrains Mono"
+    }
+  },
+  "categories": {
+    "branding": [
+      {
+        "id": "brandboard",
+        "category": "branding",
+        "files": {
+          "png": "assets/branding/brandboard.png",
+          "webp": "assets/branding/brandboard.webp"
+        },
+        "title": "Brand Styleboard",
+        "placement": "Design Reference, Press Kit",
+        "desc": "Complete vintage style guide with color codes, typography, merchandise and brand elements",
+        "dimensions": {
+          "width": 1536,
+          "height": 1024
+        },
+        "sha256": "87596e128c5392d2c8842c265070e916609b40e8ef833e9ddaf944b598dc1994",
+        "sizeBytes": 384928,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/brandboard.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/brandboard.webp"
+        }
+      },
+      {
+        "id": "logo-transparent",
+        "category": "branding",
+        "files": {
+          "png": "assets/branding/logo-transparent.png",
+          "webp": "assets/branding/logo-transparent.webp"
+        },
+        "title": "Primary Logo",
+        "placement": "Header, Favicon, Loading Screen, Footer",
+        "desc": "Transparent Berlin Fernsehturm silhouette sticker logo with Cooper display type",
+        "dimensions": {
+          "width": 1314,
+          "height": 1197
+        },
+        "sha256": "298af6ea17857ece0498fe2af0d7afca16de0a4771dd7aa0189d21b6eb883681",
+        "sizeBytes": 193866,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/logo-transparent.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/logo-transparent.webp"
+        }
+      },
+      {
+        "id": "retro-web-asset-sheet",
+        "category": "branding",
+        "files": {
+          "png": "assets/branding/retro-web-asset-sheet.png",
+          "webp": "assets/branding/retro-web-asset-sheet.webp"
+        },
+        "title": "Retro Web Asset Sheet",
+        "placement": "Design Reference, UI Inspiration",
+        "desc": "70s/80s analog web UI sheet with buttons, badges, audio player and layout components",
+        "dimensions": {
+          "width": 1536,
+          "height": 1024
+        },
+        "sha256": "649d5d02cbb50e11f9479fc351aa9715656c5dcc7d2d3ef5b0ded24503877f78",
+        "sizeBytes": 414942,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/retro-web-asset-sheet.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/branding/retro-web-asset-sheet.webp"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-01-cratedigging-record-store",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-01-cratedigging-record-store.jpg",
+          "webp": "assets/photos/photo-01-cratedigging-record-store.webp"
+        },
+        "title": "Crate Digging in Record Store",
+        "placement": "About Page / Bio Hero",
+        "desc": "Browsing vinyl records in a classic record shop (Funk / Hip Hop crates)",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "40bb23e373ca008ecc691cc49b36c7d5aef701fd49b4461da1d189544f22e8de",
+        "sizeBytes": 691434,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-01-cratedigging-record-store.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-01-cratedigging-record-store.webp"
+        }
+      },
+      {
+        "id": "photo-02-studio-mpc-beatmaking",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-02-studio-mpc-beatmaking.jpg",
+          "webp": "assets/photos/photo-02-studio-mpc-beatmaking.webp"
+        },
+        "title": "Beat Lab Studio MPC Session",
+        "placement": "Music / MPC Beatmaker Section",
+        "desc": "Working on beat productions with MPC drum machine, synthesizer and vinyl shelves",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "ff27a5a54cb6502081fde3fe1064e07f737b337e70ce0984c1722525d325d113",
+        "sizeBytes": 698878,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-02-studio-mpc-beatmaking.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-02-studio-mpc-beatmaking.webp"
+        }
+      },
+      {
+        "id": "photo-03-live-dj-set-turntables",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-03-live-dj-set-turntables.jpg",
+          "webp": "assets/photos/photo-03-live-dj-set-turntables.webp"
+        },
+        "title": "Live DJ Club Set",
+        "placement": "Home Hero / Bookings Teaser",
+        "desc": "Live DJ set at packed Berlin club with Technics turntables and mixer",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "61ff2b5b2ec9c89e75a956c7b15e85633a41f12a379e6deae431bd069d821f51",
+        "sizeBytes": 636188,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-03-live-dj-set-turntables.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-03-live-dj-set-turntables.webp"
+        }
+      },
+      {
+        "id": "photo-04-berlin-night-record-bag",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-04-berlin-night-record-bag.jpg",
+          "webp": "assets/photos/photo-04-berlin-night-record-bag.webp"
+        },
+        "title": "Berlin Night Walk U-Bahn",
+        "placement": "About Page / Berlin Heritage",
+        "desc": "Walking Berlin streets at night with vinyl record bag near U-Bahn station",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "92276acbfcb566d4de258a7d40319fc86cad0e961b589ce45372c18ff1003444",
+        "sizeBytes": 586822,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-04-berlin-night-record-bag.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-04-berlin-night-record-bag.webp"
+        }
+      },
+      {
+        "id": "photo-05-backstage-greenroom-talk",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-05-backstage-greenroom-talk.jpg",
+          "webp": "assets/photos/photo-05-backstage-greenroom-talk.webp"
+        },
+        "title": "Backstage Green Room",
+        "placement": "About Page / Collabs",
+        "desc": "Candid green room conversation with fellow artist before club gig",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "242ac8e7af35fefc9d92866be5693f80e0378ecfb19d0afd79d729bc3a70f8c6",
+        "sizeBytes": 610038,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-05-backstage-greenroom-talk.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-05-backstage-greenroom-talk.webp"
+        }
+      },
+      {
+        "id": "photo-06-portrait-backstage-moody",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-06-portrait-backstage-moody.jpg",
+          "webp": "assets/photos/photo-06-portrait-backstage-moody.webp"
+        },
+        "title": "Moody Backstage Portrait",
+        "placement": "Press Kit / Booking Bio",
+        "desc": "Atmospheric portrait sitting on stage flightcase with cigarette and vintage leather jacket",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "6a641e4f9d876b2469ec967de0cc7b726ef4a7b85a34f08feb93ba2c5b05ac23",
+        "sizeBytes": 558828,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-06-portrait-backstage-moody.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-06-portrait-backstage-moody.webp"
+        }
+      },
+      {
+        "id": "photo-07-venue-outdoor-crate-check",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-07-venue-outdoor-crate-check.jpg",
+          "webp": "assets/photos/photo-07-venue-outdoor-crate-check.webp"
+        },
+        "title": "Venue Outdoor Crate Check",
+        "placement": "Tour / Gig Journal",
+        "desc": "Kneeling outside club venue door checking vinyl flight case",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "6b3359d144a1a994b98da6cf15f9f71b9a727990a6cb142669f51515e7c4478b",
+        "sizeBytes": 761420,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-07-venue-outdoor-crate-check.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-07-venue-outdoor-crate-check.webp"
+        }
+      },
+      {
+        "id": "photo-08-street-club-entrance-night",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-08-street-club-entrance-night.jpg",
+          "webp": "assets/photos/photo-08-street-club-entrance-night.webp"
+        },
+        "title": "Club Entrance Night Vibe",
+        "placement": "Events & Dates Section",
+        "desc": "Outside Berlin underground venue at night under streetlights and gig posters",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "375397fa1966b00019bc79c38b27123786b864b77daede274d29cb004f13dde3",
+        "sizeBytes": 653994,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-08-street-club-entrance-night.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-08-street-club-entrance-night.webp"
+        }
+      },
+      {
+        "id": "photo-09-backstage-vinyl-selection",
+        "category": "photos",
+        "files": {
+          "jpg": "assets/photos/photo-09-backstage-vinyl-selection.jpg",
+          "webp": "assets/photos/photo-09-backstage-vinyl-selection.webp"
+        },
+        "title": "Vinyl Selection Flightcase",
+        "placement": "Discography / Gear Section",
+        "desc": "Selecting records from flight case backstage with handwritten setlist notes",
+        "dimensions": {
+          "width": 1696,
+          "height": 2528
+        },
+        "sha256": "a534892b084f98f8aaf7bb8851ea3a170a6b18f104b0d93c1612afa5eeb4b91f",
+        "sizeBytes": 652556,
+        "rawUrls": {
+          "jpg": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-09-backstage-vinyl-selection.jpg",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/photos/photo-09-backstage-vinyl-selection.webp"
+        }
+      }
+    ],
+    "audio": [
+      {
+        "id": "sample-loop-on",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/sample-loop-on.mp3"
+        },
+        "sha256": "5bc2c68e9f08dbc83022e103a1d8a3949f6611547efce3158205a87b8657d621",
+        "sizeBytes": 361196,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/sample-loop-on.mp3"
+        }
+      },
+      {
+        "id": "sample-loop-ts",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/sample-loop-ts.mp3"
+        },
+        "sha256": "674808d9b811d186c3160cfc8a07c1d12f5d3bc510682d3f0891aeb145b44254",
+        "sizeBytes": 361196,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/sample-loop-ts.mp3"
+        }
+      },
+      {
+        "id": "sample-loop-ve",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/sample-loop-ve.mp3"
+        },
+        "sha256": "97962b8801fa9abc82824662e9d39449d232b95fa821fadc23137988f86efc0c",
+        "sizeBytes": 361196,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/sample-loop-ve.mp3"
+        }
+      },
+      {
+        "id": "track-01-berlin-funk-groove",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/track-01-berlin-funk-groove.mp3",
+          "webm": "assets/audio/track-01-berlin-funk-groove.webm"
+        },
+        "title": "Berlin Funk Groove (Original Mix)",
+        "duration": "3:23",
+        "bpm": 94,
+        "key": "F minor",
+        "genre": "Rare Funk / Hip Hop",
+        "placement": "Discography / Featured Player",
+        "sha256": "e7b98e19b13ea23c8533505ecf747924f9e61395251ba94504f50f7d5ba9ccfb",
+        "sizeBytes": 5038316,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-01-berlin-funk-groove.mp3",
+          "webm": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-01-berlin-funk-groove.webm"
+        }
+      },
+      {
+        "id": "track-02-kater-night-session",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/track-02-kater-night-session.mp3",
+          "webm": "assets/audio/track-02-kater-night-session.webm"
+        },
+        "title": "Kater Night Session (Dub Edit)",
+        "duration": "3:21",
+        "bpm": 105,
+        "key": "D minor",
+        "genre": "Soul / Deep Groove",
+        "placement": "Discography / Player",
+        "sha256": "9334fca8547f13738569821a2c5cbc16c28649b90032650fb1674a92063b6a78",
+        "sizeBytes": 5037740,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-02-kater-night-session.mp3",
+          "webm": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-02-kater-night-session.webm"
+        }
+      },
+      {
+        "id": "track-03-neighbourhood-lofi-beats",
+        "category": "audio",
+        "files": {
+          "mp3": "assets/audio/track-03-neighbourhood-lofi-beats.mp3",
+          "webm": "assets/audio/track-03-neighbourhood-lofi-beats.webm"
+        },
+        "title": "Neighbourhood Lo-Fi Beats",
+        "duration": "3:26",
+        "bpm": 88,
+        "key": "A minor",
+        "genre": "Lo-Fi Hip Hop / Chill",
+        "placement": "Discography / Player / Ambient Loop",
+        "sha256": "94c87ffeeff220af8dafb9bc2f671967838f8f9900fdf4dd9ee494bd9e5319a9",
+        "sizeBytes": 5113196,
+        "rawUrls": {
+          "mp3": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-03-neighbourhood-lofi-beats.mp3",
+          "webm": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/audio/track-03-neighbourhood-lofi-beats.webm"
+        }
+      }
+    ],
+    "merch": [
+      {
+        "id": "merch-denim-jacket",
+        "category": "merch",
+        "files": {
+          "png": "assets/merch/merch-denim-jacket.png",
+          "webp": "assets/merch/merch-denim-jacket.webp"
+        },
+        "title": "Limited Edition Denim Trucker Jacket",
+        "price": 120.0,
+        "currency": "EUR",
+        "placement": "Shop / Featured Merch",
+        "desc": "Washed dark denim jacket with oversized back patch embroidery",
+        "dimensions": {
+          "width": 328,
+          "height": 315
+        },
+        "sha256": "65fb47c4cf2677eeae65d3220c1e956fce9aca0fa5461b01b61f547ffc5f7060",
+        "sizeBytes": 36174,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-denim-jacket.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-denim-jacket.webp"
+        }
+      },
+      {
+        "id": "merch-hangtag",
+        "category": "merch",
+        "files": {
+          "png": "assets/merch/merch-hangtag.png",
+          "webp": "assets/merch/merch-hangtag.webp"
+        },
+        "title": "Authentic Crate-Digger Hangtag",
+        "price": 5.0,
+        "currency": "EUR",
+        "placement": "Shop / Accessories",
+        "desc": "Heavy cardboard collectible hangtag and sticker pack",
+        "dimensions": {
+          "width": 175,
+          "height": 315
+        },
+        "sha256": "5af36ab72558b8a6fc9506ee25bd4019ae1129cff6814ad9aac140e4ab6554a7",
+        "sizeBytes": 17464,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-hangtag.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-hangtag.webp"
+        }
+      },
+      {
+        "id": "merch-ringer-tee",
+        "category": "merch",
+        "files": {
+          "png": "assets/merch/merch-ringer-tee.png",
+          "webp": "assets/merch/merch-ringer-tee.webp"
+        },
+        "title": "Vintage Ringer T-Shirt",
+        "price": 38.0,
+        "currency": "EUR",
+        "placement": "Shop / Merch Grid",
+        "desc": "Cream heavy cotton ringer tee with dark olive collar/cuffs and retro chest print",
+        "dimensions": {
+          "width": 300,
+          "height": 315
+        },
+        "sha256": "96ddac16d909848f77f859b4e91b5224dff5c12b853928ca9e63bfb4cf3ee1d8",
+        "sizeBytes": 28940,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-ringer-tee.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-ringer-tee.webp"
+        }
+      },
+      {
+        "id": "merch-snapback-cap",
+        "category": "merch",
+        "files": {
+          "png": "assets/merch/merch-snapback-cap.png",
+          "webp": "assets/merch/merch-snapback-cap.webp"
+        },
+        "title": "Noizy Berlin Snapback Cap",
+        "price": 34.0,
+        "currency": "EUR",
+        "placement": "Shop / Merch Grid",
+        "desc": "Black structured wool snapback with embroidered Fernsehturm sunset patch",
+        "dimensions": {
+          "width": 320,
+          "height": 315
+        },
+        "sha256": "fc3b584179c91a217dc941e145425b49a4a64360ca123ba64ed23f22f279782f",
+        "sizeBytes": 31836,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-snapback-cap.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-snapback-cap.webp"
+        }
+      },
+      {
+        "id": "merch-vinyl-lp",
+        "category": "merch",
+        "files": {
+          "png": "assets/merch/merch-vinyl-lp.png",
+          "webp": "assets/merch/merch-vinyl-lp.webp"
+        },
+        "title": "Neighbour Grooves LP (12 Inch Vinyl)",
+        "price": 28.0,
+        "currency": "EUR",
+        "placement": "Shop / Discography Buy",
+        "desc": "180g heavy audiophile vinyl in vintage aged gatefold jacket with sunburst orange labels",
+        "dimensions": {
+          "width": 363,
+          "height": 315
+        },
+        "sha256": "4fb5581734f532fdabe8691ad1f57b604739e05f4216629a5cd619f7125a01da",
+        "sizeBytes": 41552,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-vinyl-lp.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/merch/merch-vinyl-lp.webp"
+        }
+      }
+    ],
+    "ui": [
+      {
+        "id": "badge-album",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/badge-album.png",
+          "webp": "assets/ui/badge-album.webp"
+        },
+        "dimensions": {
+          "width": 103,
+          "height": 35
+        },
+        "sha256": "3240695dd3b0ea13df53eabb181882058c7e391548229e80a853b40e40fb24bf",
+        "sizeBytes": 1180,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-album.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-album.webp"
+        }
+      },
+      {
+        "id": "badge-ep",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/badge-ep.png",
+          "webp": "assets/ui/badge-ep.webp"
+        },
+        "dimensions": {
+          "width": 66,
+          "height": 35
+        },
+        "sha256": "c5fbf4d7c96565afb9b7636945258f05c2b4d84902f3a619267020facdc9aa65",
+        "sizeBytes": 676,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-ep.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-ep.webp"
+        }
+      },
+      {
+        "id": "badge-event",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/badge-event.png",
+          "webp": "assets/ui/badge-event.webp"
+        },
+        "dimensions": {
+          "width": 102,
+          "height": 35
+        },
+        "sha256": "b8db69fe2c26f5b97ef6b134a648224b4faa7448e167cff718b2abddaf67aeb4",
+        "sizeBytes": 1004,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-event.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-event.webp"
+        }
+      },
+      {
+        "id": "badge-live",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/badge-live.png",
+          "webp": "assets/ui/badge-live.webp"
+        },
+        "dimensions": {
+          "width": 83,
+          "height": 35
+        },
+        "sha256": "9cc17d615ab350975420c083a30f951b56f58397557b13d132303b75b367a32e",
+        "sizeBytes": 1100,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-live.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-live.webp"
+        }
+      },
+      {
+        "id": "badge-new",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/badge-new.png",
+          "webp": "assets/ui/badge-new.webp"
+        },
+        "dimensions": {
+          "width": 85,
+          "height": 35
+        },
+        "sha256": "7f7c9a6fd3ffbc89fbd1ff500fc199fbb79a797b935ec9218bf21d1988797e08",
+        "sizeBytes": 1166,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-new.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/badge-new.webp"
+        }
+      },
+      {
+        "id": "divider-berlin-skyline",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/divider-berlin-skyline.png",
+          "webp": "assets/ui/divider-berlin-skyline.webp"
+        },
+        "title": "Skyline Divider",
+        "placement": "Section divider",
+        "desc": "Horizontal silhouette of Berlin city line with TV tower",
+        "dimensions": {
+          "width": 335,
+          "height": 40
+        },
+        "sha256": "70db4bbea96d7da0b42b1e8d301842aacb1e9dfd09f10012d8513768842b29cf",
+        "sizeBytes": 2894,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/divider-berlin-skyline.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/divider-berlin-skyline.webp"
+        }
+      },
+      {
+        "id": "divider-tonearm-needle",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/divider-tonearm-needle.png",
+          "webp": "assets/ui/divider-tonearm-needle.webp"
+        },
+        "title": "Tonearm Needle Divider",
+        "placement": "Section divider / Track separator",
+        "desc": "Vinyl record player tonearm arm and needle horizontal divider",
+        "dimensions": {
+          "width": 310,
+          "height": 40
+        },
+        "sha256": "1c645c3a6d74fe1329b270fff8d0095c7c81102c1fb989f1a9353985d1580216",
+        "sizeBytes": 4034,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/divider-tonearm-needle.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/divider-tonearm-needle.webp"
+        }
+      },
+      {
+        "id": "hero-skyline-banner",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/hero-skyline-banner.png",
+          "webp": "assets/ui/hero-skyline-banner.webp"
+        },
+        "title": "Sunset Skyline Banner",
+        "placement": "Hero section / Page headers",
+        "desc": "Berlin skyline silhouette against retro orange sunburst sky",
+        "dimensions": {
+          "width": 743,
+          "height": 143
+        },
+        "sha256": "092ea200cd7099307383e596d33f11ab36b68403b38b0794530afef48140a438",
+        "sizeBytes": 44574,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/hero-skyline-banner.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/hero-skyline-banner.webp"
+        }
+      },
+      {
+        "id": "illu-headphones",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/illu-headphones.png",
+          "webp": "assets/ui/illu-headphones.webp"
+        },
+        "title": "DJ Headphones Illustration",
+        "placement": "Audio Player / DJ Bio",
+        "desc": "Classic DJ over-ear headphones",
+        "dimensions": {
+          "width": 117,
+          "height": 135
+        },
+        "sha256": "d68353046dd4a9389f5c7ff2fe9f0cc9863d73f1f1a4ed9960c378c5044be77a",
+        "sizeBytes": 6104,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-headphones.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-headphones.webp"
+        }
+      },
+      {
+        "id": "illu-record-crate",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/illu-record-crate.png",
+          "webp": "assets/ui/illu-record-crate.webp"
+        },
+        "title": "Record Crate Illustration",
+        "placement": "Discography / Crate Digging section",
+        "desc": "Wooden record storage crate filled with vinyl records",
+        "dimensions": {
+          "width": 123,
+          "height": 135
+        },
+        "sha256": "958a7de7a12782f911e6483885449a147f0489bc7aee1f8ce65cc45f6dc1d8e3",
+        "sizeBytes": 5756,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-record-crate.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-record-crate.webp"
+        }
+      },
+      {
+        "id": "illu-spraycan",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/illu-spraycan.png",
+          "webp": "assets/ui/illu-spraycan.webp"
+        },
+        "title": "Spray Can Illustration",
+        "placement": "Street Art / Berlin Culture",
+        "desc": "Street aerosol spray can with fresh paint splatter",
+        "dimensions": {
+          "width": 125,
+          "height": 135
+        },
+        "sha256": "88848a090808278e2eaa23af23e7b782c515b11ba3628bf8b3f80ea7878603c8",
+        "sizeBytes": 5570,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-spraycan.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-spraycan.webp"
+        }
+      },
+      {
+        "id": "illu-vinyl-record",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/illu-vinyl-record.png",
+          "webp": "assets/ui/illu-vinyl-record.webp"
+        },
+        "title": "Vinyl Record Illustration",
+        "placement": "Decorations / Badges",
+        "desc": "Vinyl LP graphic with orange center label and paint drips",
+        "dimensions": {
+          "width": 120,
+          "height": 135
+        },
+        "sha256": "6bb44097f03327334affb2e2ef1d951177da8835fa24cb5fb269bb2016d96e06",
+        "sizeBytes": 6692,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-vinyl-record.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/illu-vinyl-record.webp"
+        }
+      },
+      {
+        "id": "pattern-70s-waves",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/pattern-70s-waves.png",
+          "webp": "assets/ui/pattern-70s-waves.webp"
+        },
+        "dimensions": {
+          "width": 191,
+          "height": 115
+        },
+        "sha256": "cc3b3e533c39eee1ded939fed745a02dab14f5cbdbf76c9c384e5b9c3d3270c6",
+        "sizeBytes": 6916,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-70s-waves.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-70s-waves.webp"
+        }
+      },
+      {
+        "id": "pattern-berlin-skyline",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/pattern-berlin-skyline.png",
+          "webp": "assets/ui/pattern-berlin-skyline.webp"
+        },
+        "dimensions": {
+          "width": 165,
+          "height": 115
+        },
+        "sha256": "874b53422d82b4d341705647578dab524e0856307f5b507df09ca61263f51cf3",
+        "sizeBytes": 5296,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-berlin-skyline.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-berlin-skyline.webp"
+        }
+      },
+      {
+        "id": "pattern-vinyl-stacks",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/pattern-vinyl-stacks.png",
+          "webp": "assets/ui/pattern-vinyl-stacks.webp"
+        },
+        "dimensions": {
+          "width": 189,
+          "height": 115
+        },
+        "sha256": "6ef101db2e6b55a586611dc845fd9a8d3fe0028d1e29ca530b8d7d1ee5307fed",
+        "sizeBytes": 11250,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-vinyl-stacks.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/pattern-vinyl-stacks.webp"
+        }
+      },
+      {
+        "id": "ui-grooves-texture",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/ui-grooves-texture.png",
+          "webp": "assets/ui/ui-grooves-texture.webp"
+        },
+        "dimensions": {
+          "width": 129,
+          "height": 143
+        },
+        "sha256": "805ae00eb663217ec67dc7f126a806f0a58c7e4af2df5b7439a4fcd29dd8e2dc",
+        "sizeBytes": 7276,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-grooves-texture.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-grooves-texture.webp"
+        }
+      },
+      {
+        "id": "ui-vintage-paper-texture",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/ui-vintage-paper-texture.png",
+          "webp": "assets/ui/ui-vintage-paper-texture.webp"
+        },
+        "dimensions": {
+          "width": 115,
+          "height": 143
+        },
+        "sha256": "2412be707d772abd9db96fb867d3166c68ff5e1964d1b71188daaa41febcf723",
+        "sizeBytes": 6112,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-vintage-paper-texture.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-vintage-paper-texture.webp"
+        }
+      },
+      {
+        "id": "ui-vinyl-texture",
+        "category": "ui",
+        "files": {
+          "png": "assets/ui/ui-vinyl-texture.png",
+          "webp": "assets/ui/ui-vinyl-texture.webp"
+        },
+        "dimensions": {
+          "width": 129,
+          "height": 143
+        },
+        "sha256": "f3a1b5430a937ec20e70b70517e103dda7f66afef20d6003a9987ac32a361059",
+        "sizeBytes": 9388,
+        "rawUrls": {
+          "png": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-vinyl-texture.png",
+          "webp": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/assets/ui/ui-vinyl-texture.webp"
+        }
+      }
+    ]
+  },
+  "repository": {
+    "github": "https://github.com/kburna243/mikes-cytube-dist/tree/main/images/noziy",
+    "rawBase": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy",
+    "manifestRaw": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noziy/manifest.json"
+  }
+}
