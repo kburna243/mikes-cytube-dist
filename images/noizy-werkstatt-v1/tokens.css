@@ -1,0 +1,34 @@
+/* Auszug aus src/app/globals.css der Live-Seite (Tailwind v4 @theme). Stand 04.11.2026 */
+@theme {
+  --color-ink: #141311;
+  --color-paper: #f6ead9;
+
+  --color-fg: #141311;
+  --color-fg-muted: #5b5146;
+  --color-page: #f1e4cf;
+  --color-page-deep: #e9d9bf;
+  --color-surface: #e9dbc3;
+  --color-surface-2: #d6c3a3;
+
+  --color-vinyl: #e85c0d;
+  --color-vinyl-deep: #b8450a;
+  --color-sunburst: #f6b436;
+  --color-olive: #4b5b3b;
+  --color-olive-deep: #35402a;
+
+  --font-display: var(--font-archivo), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-archivo), system-ui, sans-serif;
+  --font-mono: var(--font-spacemono), "Courier New", monospace;
+}
+
+/* hardware lives in the dark: same utilities, dark values */
+.scope-dark,
+.stage-3d {
+  --color-fg: #f6ead9;
+  --color-fg-muted: #cdbfa8;
+  --color-page: #111111;
+  --color-page-deep: #0b0b0b;
+  --color-surface: #1b1915;
+  --color-surface-2: #2a2722;
+  color: var(--color-fg);
+}

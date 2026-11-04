@@ -1,0 +1,456 @@
+{
+  "base": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1",
+  "hinweis": "url = base + path. Auf der Live-Seite liegen dieselben Dateien unter <seite>/assets/...",
+  "files": [
+    {
+      "path": "/assets/brandkit/logo-badge-flat.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/logo-badge-flat.png",
+      "role": "logo",
+      "note": "Hauptlogo ohne Schlagschatten",
+      "width": 1000,
+      "height": 960,
+      "kb": 132
+    },
+    {
+      "path": "/assets/brandkit/logo-badge.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/logo-badge.png",
+      "role": "logo",
+      "note": "Hauptlogo (Sticker-Badge), Neighbor-Schreibweise",
+      "width": 1024,
+      "height": 984,
+      "kb": 134
+    },
+    {
+      "path": "/assets/brandkit/skyline-ink.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/skyline-ink.png",
+      "role": "logo",
+      "note": "Berliner Skyline mit Fernsehturm, eingefärbt",
+      "width": 865,
+      "height": 530,
+      "kb": 4
+    },
+    {
+      "path": "/assets/brandkit/skyline-paper.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/skyline-paper.png",
+      "role": "logo",
+      "note": "Berliner Skyline mit Fernsehturm, eingefärbt",
+      "width": 865,
+      "height": 530,
+      "kb": 4
+    },
+    {
+      "path": "/assets/brandkit/skyline-sunburst.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/skyline-sunburst.png",
+      "role": "logo",
+      "note": "Berliner Skyline mit Fernsehturm, eingefärbt",
+      "width": 865,
+      "height": 530,
+      "kb": 4
+    },
+    {
+      "path": "/assets/brandkit/skyline-vinyl.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/skyline-vinyl.png",
+      "role": "logo",
+      "note": "Berliner Skyline mit Fernsehturm, eingefärbt",
+      "width": 865,
+      "height": 530,
+      "kb": 4
+    },
+    {
+      "path": "/assets/brandkit/wordmark-ink.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/wordmark-ink.png",
+      "role": "logo",
+      "note": "Schriftzug DJ Noizy Neighbor, eingefärbt",
+      "width": 986,
+      "height": 525,
+      "kb": 10
+    },
+    {
+      "path": "/assets/brandkit/wordmark-paper.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/wordmark-paper.png",
+      "role": "logo",
+      "note": "Schriftzug DJ Noizy Neighbor, eingefärbt",
+      "width": 986,
+      "height": 525,
+      "kb": 10
+    },
+    {
+      "path": "/assets/brandkit/wordmark-sunburst.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/wordmark-sunburst.png",
+      "role": "logo",
+      "note": "Schriftzug DJ Noizy Neighbor, eingefärbt",
+      "width": 986,
+      "height": 525,
+      "kb": 10
+    },
+    {
+      "path": "/assets/brandkit/wordmark-vinyl.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/brandkit/wordmark-vinyl.png",
+      "role": "logo",
+      "note": "Schriftzug DJ Noizy Neighbor, eingefärbt",
+      "width": 986,
+      "height": 525,
+      "kb": 10
+    },
+    {
+      "path": "/assets/ui/badge-album.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/badge-album.webp",
+      "role": "ui",
+      "note": "Label-Sticker (alt, mit Schrift im Bild)",
+      "width": 103,
+      "height": 35,
+      "kb": 1
+    },
+    {
+      "path": "/assets/ui/badge-ep.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/badge-ep.webp",
+      "role": "ui",
+      "note": "Label-Sticker (alt, mit Schrift im Bild)",
+      "width": 66,
+      "height": 35,
+      "kb": 1
+    },
+    {
+      "path": "/assets/ui/badge-event.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/badge-event.webp",
+      "role": "ui",
+      "note": "Label-Sticker (alt, mit Schrift im Bild)",
+      "width": 102,
+      "height": 35,
+      "kb": 1
+    },
+    {
+      "path": "/assets/ui/badge-live.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/badge-live.webp",
+      "role": "ui",
+      "note": "Label-Sticker (alt, mit Schrift im Bild)",
+      "width": 83,
+      "height": 35,
+      "kb": 1
+    },
+    {
+      "path": "/assets/ui/badge-new.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/badge-new.webp",
+      "role": "ui",
+      "note": "Label-Sticker (alt, mit Schrift im Bild)",
+      "width": 85,
+      "height": 35,
+      "kb": 1
+    },
+    {
+      "path": "/assets/ui/divider-berlin-skyline.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/divider-berlin-skyline.webp",
+      "role": "ui",
+      "note": "Trenner-Grafik",
+      "width": 335,
+      "height": 40,
+      "kb": 3
+    },
+    {
+      "path": "/assets/ui/divider-tonearm-needle.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/divider-tonearm-needle.webp",
+      "role": "ui",
+      "note": "Trenner-Grafik",
+      "width": 310,
+      "height": 40,
+      "kb": 4
+    },
+    {
+      "path": "/assets/ui/hero-skyline-banner.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/hero-skyline-banner.webp",
+      "role": "ui",
+      "note": "Banner Skyline-Sonnenuntergang",
+      "width": 743,
+      "height": 143,
+      "kb": 44
+    },
+    {
+      "path": "/assets/ui/illu-headphones.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/illu-headphones.webp",
+      "role": "ui",
+      "note": "Illustration (Strich, einfarbig)",
+      "width": 117,
+      "height": 135,
+      "kb": 6
+    },
+    {
+      "path": "/assets/ui/illu-record-crate.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/illu-record-crate.webp",
+      "role": "ui",
+      "note": "Illustration (Strich, einfarbig)",
+      "width": 123,
+      "height": 135,
+      "kb": 6
+    },
+    {
+      "path": "/assets/ui/illu-spraycan.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/illu-spraycan.webp",
+      "role": "ui",
+      "note": "Illustration (Strich, einfarbig)",
+      "width": 125,
+      "height": 135,
+      "kb": 5
+    },
+    {
+      "path": "/assets/ui/illu-vinyl-record.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/illu-vinyl-record.webp",
+      "role": "ui",
+      "note": "Illustration (Strich, einfarbig)",
+      "width": 120,
+      "height": 135,
+      "kb": 7
+    },
+    {
+      "path": "/assets/ui/pattern-70s-waves.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/pattern-70s-waves.webp",
+      "role": "ui",
+      "note": "Hintergrundmuster, kachelbar",
+      "width": 191,
+      "height": 115,
+      "kb": 7
+    },
+    {
+      "path": "/assets/ui/pattern-berlin-skyline.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/pattern-berlin-skyline.webp",
+      "role": "ui",
+      "note": "Hintergrundmuster, kachelbar",
+      "width": 165,
+      "height": 115,
+      "kb": 5
+    },
+    {
+      "path": "/assets/ui/pattern-vinyl-stacks.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/pattern-vinyl-stacks.webp",
+      "role": "ui",
+      "note": "Hintergrundmuster, kachelbar",
+      "width": 189,
+      "height": 115,
+      "kb": 11
+    },
+    {
+      "path": "/assets/ui/ui-grooves-texture.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/ui-grooves-texture.webp",
+      "role": "ui",
+      "note": "Textur-Overlay (Papier, Rillen, Vinyl)",
+      "width": 129,
+      "height": 143,
+      "kb": 7
+    },
+    {
+      "path": "/assets/ui/ui-vintage-paper-texture.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/ui-vintage-paper-texture.webp",
+      "role": "ui",
+      "note": "Textur-Overlay (Papier, Rillen, Vinyl)",
+      "width": 115,
+      "height": 143,
+      "kb": 6
+    },
+    {
+      "path": "/assets/ui/ui-vinyl-texture.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/ui/ui-vinyl-texture.webp",
+      "role": "ui",
+      "note": "Textur-Overlay (Papier, Rillen, Vinyl)",
+      "width": 129,
+      "height": 143,
+      "kb": 9
+    },
+    {
+      "path": "/assets/photos/photo-01-cratedigging-record-store.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-01-cratedigging-record-store.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 675
+    },
+    {
+      "path": "/assets/photos/photo-02-studio-mpc-beatmaking.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-02-studio-mpc-beatmaking.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 682
+    },
+    {
+      "path": "/assets/photos/photo-03-live-dj-set-turntables.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-03-live-dj-set-turntables.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 621
+    },
+    {
+      "path": "/assets/photos/photo-04-berlin-night-record-bag.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-04-berlin-night-record-bag.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 573
+    },
+    {
+      "path": "/assets/photos/photo-05-backstage-greenroom-talk.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-05-backstage-greenroom-talk.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 596
+    },
+    {
+      "path": "/assets/photos/photo-06-portrait-backstage-moody.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-06-portrait-backstage-moody.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 546
+    },
+    {
+      "path": "/assets/photos/photo-07-venue-outdoor-crate-check.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-07-venue-outdoor-crate-check.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 744
+    },
+    {
+      "path": "/assets/photos/photo-08-street-club-entrance-night.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-08-street-club-entrance-night.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 639
+    },
+    {
+      "path": "/assets/photos/photo-09-backstage-vinyl-selection.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/photos/photo-09-backstage-vinyl-selection.webp",
+      "role": "photo",
+      "note": "",
+      "width": 1696,
+      "height": 2528,
+      "kb": 637
+    },
+    {
+      "path": "/assets/releases/back-on-16-pads.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/releases/back-on-16-pads.webp",
+      "role": "release-cover",
+      "note": "",
+      "width": 1000,
+      "height": 1000,
+      "kb": 64
+    },
+    {
+      "path": "/assets/gems/arita-shintaro.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/arita-shintaro.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 480,
+      "height": 480,
+      "kb": 11
+    },
+    {
+      "path": "/assets/gems/crate-to-pad.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/crate-to-pad.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 368,
+      "height": 368,
+      "kb": 11
+    },
+    {
+      "path": "/assets/gems/drum-break.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/drum-break.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 480,
+      "height": 480,
+      "kb": 7
+    },
+    {
+      "path": "/assets/gems/noizy-in-space.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/noizy-in-space.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 720,
+      "height": 406,
+      "kb": 3
+    },
+    {
+      "path": "/assets/gems/polydor.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/polydor.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 368,
+      "height": 368,
+      "kb": 8
+    },
+    {
+      "path": "/assets/gems/shaolin.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/shaolin.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 1000,
+      "height": 1000,
+      "kb": 64
+    },
+    {
+      "path": "/assets/gems/yuen-biao.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/gems/yuen-biao.webp",
+      "role": "gem-cover",
+      "note": "",
+      "width": 1000,
+      "height": 1334,
+      "kb": 82
+    },
+    {
+      "path": "/assets/merch/merch-denim-jacket.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/merch/merch-denim-jacket.webp",
+      "role": "merch",
+      "note": "",
+      "width": 328,
+      "height": 315,
+      "kb": 35
+    },
+    {
+      "path": "/assets/merch/merch-hangtag.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/merch/merch-hangtag.webp",
+      "role": "merch",
+      "note": "",
+      "width": 175,
+      "height": 315,
+      "kb": 17
+    },
+    {
+      "path": "/assets/merch/merch-ringer-tee.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/merch/merch-ringer-tee.webp",
+      "role": "merch",
+      "note": "",
+      "width": 300,
+      "height": 315,
+      "kb": 28
+    },
+    {
+      "path": "/assets/merch/merch-snapback-cap.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/merch/merch-snapback-cap.webp",
+      "role": "merch",
+      "note": "",
+      "width": 320,
+      "height": 315,
+      "kb": 31
+    },
+    {
+      "path": "/assets/merch/merch-vinyl-lp.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/noizy-werkstatt-v1/assets/merch/merch-vinyl-lp.webp",
+      "role": "merch",
+      "note": "",
+      "width": 363,
+      "height": 315,
+      "kb": 41
+    }
+  ]
+}
