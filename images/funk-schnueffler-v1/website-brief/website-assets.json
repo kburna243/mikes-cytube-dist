@@ -1,0 +1,1148 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "6493a04ab2abba95ed21e6a670509d895f7892f5",
+  "preparedDate": "2026-11-04",
+  "palette": {
+    "paper": "#EEDDAD",
+    "ink": "#211F18",
+    "petrol": "#39756F",
+    "rust": "#C75A27",
+    "light-paper": "#F6E9C9"
+  },
+  "credit": {
+    "musicArtist": "DJ noziy neigbour aka Detektiv Funk Schnüffler",
+    "art": "Provided game artwork and AI-generated project assets; identities and original music retained."
+  },
+  "publication": {
+    "status": "published",
+    "repository": "kburna243/mikes-cytube-dist",
+    "path": "images/funk-schnueffler-v1",
+    "githubUrl": "https://github.com/kburna243/mikes-cytube-dist/tree/main/images/funk-schnueffler-v1",
+    "baseUrl": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1",
+    "publishedDate": "2026-11-04"
+  },
+  "name": "Detektiv Funk Schnüffler – curated website assets",
+  "entries": [
+    {
+      "id": "berlin-map-rough-v1",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/berlin-map-rough-v1.webp",
+      "publicPath": "/site/assets/backgrounds/berlin-map-rough-v1.webp",
+      "targetPath": "public/site/assets/backgrounds/berlin-map-rough-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/berlin-map-rough-v1.webp",
+      "bytes": 654080,
+      "sha256": "bfecc89f5efec3d3d4c63076059979c1ad5e48e2f7fd1a7ff78784c4078a414c",
+      "sourcePath": "public/assets/berlin-map-rough-v1.png",
+      "sourceSha256": "2ec44f9e2e7c801d4854e2f237068141335caaa0dfeee0243994723e36777897",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "encoding": "webp-quality-90",
+      "description": "Approved-style flat scene plate; no independent depth, foreground, or light layers supplied.",
+      "section": "map"
+    },
+    {
+      "id": "berlin-map-rough-v1-1280",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/berlin-map-rough-v1-1280.webp",
+      "publicPath": "/site/assets/backgrounds/berlin-map-rough-v1-1280.webp",
+      "targetPath": "public/site/assets/backgrounds/berlin-map-rough-v1-1280.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/berlin-map-rough-v1-1280.webp",
+      "bytes": 417832,
+      "sha256": "ae99a7e6913ca600867cdb513dc82629a79d0b16e35797d3af157ce536065908",
+      "sourcePath": "public/assets/berlin-map-rough-v1.png",
+      "sourceSha256": "2ec44f9e2e7c801d4854e2f237068141335caaa0dfeee0243994723e36777897",
+      "width": 1280,
+      "height": 720,
+      "alpha": false,
+      "variantOf": "berlin-map-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "map"
+    },
+    {
+      "id": "berlin-map-rough-v1-768",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/berlin-map-rough-v1-768.webp",
+      "publicPath": "/site/assets/backgrounds/berlin-map-rough-v1-768.webp",
+      "targetPath": "public/site/assets/backgrounds/berlin-map-rough-v1-768.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/berlin-map-rough-v1-768.webp",
+      "bytes": 172002,
+      "sha256": "cd94be2c37fada98534139b38dccf800995e943e3b9c979e4c39d5b97a43ce68",
+      "sourcePath": "public/assets/berlin-map-rough-v1.png",
+      "sourceSha256": "2ec44f9e2e7c801d4854e2f237068141335caaa0dfeee0243994723e36777897",
+      "width": 768,
+      "height": 432,
+      "alpha": false,
+      "variantOf": "berlin-map-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "map"
+    },
+    {
+      "id": "funk-schnueffler-logo",
+      "kind": "logo",
+      "status": "current",
+      "localPath": "assets/logos/funk-schnueffler-logo.webp",
+      "publicPath": "/site/assets/logos/funk-schnueffler-logo.webp",
+      "targetPath": "public/site/assets/logos/funk-schnueffler-logo.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/logos/funk-schnueffler-logo.webp",
+      "bytes": 1506500,
+      "sha256": "648dbfbc153fae92a1f8a7c3829e651fba52cf63bc538c9c0d9653f1f246a00c",
+      "sourcePath": "public/assets/funk-schnueffler-logo.png",
+      "sourceSha256": "4ef44fd0ab0bbfa4306c06edd5fcafbde9fa0854d9b2cb292d657b7a4fef564d",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "funk-schnueffler-logo-960",
+      "kind": "logo",
+      "status": "current",
+      "localPath": "assets/logos/funk-schnueffler-logo-960.webp",
+      "publicPath": "/site/assets/logos/funk-schnueffler-logo-960.webp",
+      "targetPath": "public/site/assets/logos/funk-schnueffler-logo-960.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/logos/funk-schnueffler-logo-960.webp",
+      "bytes": 598956,
+      "sha256": "5694ae0e29fc6ee9a5e9ccef2fb390b206c3343f657433c24eb7e03bf0d74d01",
+      "sourcePath": "public/assets/funk-schnueffler-logo.png",
+      "sourceSha256": "4ef44fd0ab0bbfa4306c06edd5fcafbde9fa0854d9b2cb292d657b7a4fef564d",
+      "width": 960,
+      "height": 640,
+      "alpha": true,
+      "variantOf": "funk-schnueffler-logo",
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "funk-schnueffler-logo-480",
+      "kind": "logo",
+      "status": "current",
+      "localPath": "assets/logos/funk-schnueffler-logo-480.webp",
+      "publicPath": "/site/assets/logos/funk-schnueffler-logo-480.webp",
+      "targetPath": "public/site/assets/logos/funk-schnueffler-logo-480.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/logos/funk-schnueffler-logo-480.webp",
+      "bytes": 181342,
+      "sha256": "9d0e99ab0bb015c3bf3ebcdfc994a0ffcb897a74989c44766bb3fbefc8c34392",
+      "sourcePath": "public/assets/funk-schnueffler-logo.png",
+      "sourceSha256": "4ef44fd0ab0bbfa4306c06edd5fcafbde9fa0854d9b2cb292d657b7a4fef564d",
+      "width": 480,
+      "height": 320,
+      "alpha": true,
+      "variantOf": "funk-schnueffler-logo",
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "kreuzberg-street-rough-v1",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/kreuzberg-street-rough-v1.webp",
+      "publicPath": "/site/assets/backgrounds/kreuzberg-street-rough-v1.webp",
+      "targetPath": "public/site/assets/backgrounds/kreuzberg-street-rough-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/kreuzberg-street-rough-v1.webp",
+      "bytes": 688826,
+      "sha256": "84951b5ff0b75b7dc0fc66e54eb8376e2539698d0987676ca01535e78d0be411",
+      "sourcePath": "public/assets/kreuzberg-street-rough-v1.png",
+      "sourceSha256": "1c6e7425422a008cec8754babe0d178bc6354e0c04e011b84ebd4c1fbea9e411",
+      "width": 1860,
+      "height": 845,
+      "alpha": false,
+      "encoding": "webp-quality-90",
+      "description": "Approved-style flat scene plate; no independent depth, foreground, or light layers supplied.",
+      "section": "kiez"
+    },
+    {
+      "id": "kreuzberg-street-rough-v1-1280",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/kreuzberg-street-rough-v1-1280.webp",
+      "publicPath": "/site/assets/backgrounds/kreuzberg-street-rough-v1-1280.webp",
+      "targetPath": "public/site/assets/backgrounds/kreuzberg-street-rough-v1-1280.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/kreuzberg-street-rough-v1-1280.webp",
+      "bytes": 375690,
+      "sha256": "b67f21872d14d71fc56ba75ceda84038ed1f4eb1226d61a0f8a1160ad67ea0bd",
+      "sourcePath": "public/assets/kreuzberg-street-rough-v1.png",
+      "sourceSha256": "1c6e7425422a008cec8754babe0d178bc6354e0c04e011b84ebd4c1fbea9e411",
+      "width": 1280,
+      "height": 582,
+      "alpha": false,
+      "variantOf": "kreuzberg-street-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "kreuzberg-street-rough-v1-768",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/kreuzberg-street-rough-v1-768.webp",
+      "publicPath": "/site/assets/backgrounds/kreuzberg-street-rough-v1-768.webp",
+      "targetPath": "public/site/assets/backgrounds/kreuzberg-street-rough-v1-768.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/kreuzberg-street-rough-v1-768.webp",
+      "bytes": 148784,
+      "sha256": "62666a17751b2fd6ba230b12c75f813b8077aebb747c4e5cd1bd7909e475a2f2",
+      "sourcePath": "public/assets/kreuzberg-street-rough-v1.png",
+      "sourceSha256": "1c6e7425422a008cec8754babe0d178bc6354e0c04e011b84ebd4c1fbea9e411",
+      "width": 768,
+      "height": 349,
+      "alpha": false,
+      "variantOf": "kreuzberg-street-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "npc-arthur-standing-v1",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/npc-arthur-standing-v1.webp",
+      "publicPath": "/site/assets/characters/npc-arthur-standing-v1.webp",
+      "targetPath": "public/site/assets/characters/npc-arthur-standing-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-arthur-standing-v1.webp",
+      "bytes": 1054336,
+      "sha256": "507d6738012809d04a572eea9701705ab4c84df9df6c7ec6dda3b3233fb4957f",
+      "sourcePath": "public/assets/npc-arthur-standing-v1.png",
+      "sourceSha256": "b5cfa02806ac4a54cb6dc0d17799c1eea321316443f6e7786e09b25ba8126f12",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "grid": {
+        "columns": 1,
+        "rows": 1
+      },
+      "alphaThreshold": 180,
+      "coordinateSpace": "rect: atlas pixels; bounds/pivot: cell-local pixels; pivotNormalized: cell fractions",
+      "anchorMeaning": "visible sole baseline",
+      "cells": [
+        {
+          "index": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1536
+          },
+          "bounds": {
+            "x": 239,
+            "y": 41,
+            "width": 460,
+            "height": 1469
+          },
+          "pivot": {
+            "x": 469.0,
+            "y": 1510
+          },
+          "pivotNormalized": {
+            "x": 0.4580078,
+            "y": 0.9830729
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "warnings": [],
+      "section": "figuren"
+    },
+    {
+      "id": "npc-arthur",
+      "kind": "portrait",
+      "status": "current-dialogue",
+      "localPath": "assets/characters/npc-arthur.webp",
+      "publicPath": "/site/assets/characters/npc-arthur.webp",
+      "targetPath": "public/site/assets/characters/npc-arthur.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-arthur.webp",
+      "bytes": 1296694,
+      "sha256": "007d025e73c9a5ac4d93a0f8906eadf13db2d4dcda12d1ebe3962c8d36c2962f",
+      "sourcePath": "public/assets/npc-arthur.png",
+      "sourceSha256": "2b643250be99c9c121d349c6fb672a2d21a244b600b012a65d9881562b5ec1d6",
+      "width": 1312,
+      "height": 1199,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "description": "Upper-body portrait. Use for dialogue/cards; do not stand it directly on a scene floor.",
+      "section": "figuren"
+    },
+    {
+      "id": "npc-mona-standing-v1",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/npc-mona-standing-v1.webp",
+      "publicPath": "/site/assets/characters/npc-mona-standing-v1.webp",
+      "targetPath": "public/site/assets/characters/npc-mona-standing-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-mona-standing-v1.webp",
+      "bytes": 1099562,
+      "sha256": "60224e5b2c3a449805846240ea7b4f99ca13cd27f4b634abc8fafb77f3c064f0",
+      "sourcePath": "public/assets/npc-mona-standing-v1.png",
+      "sourceSha256": "9762b77401ee668b5c724d21a199276e3cd5e545c8ed0b070aefc006e3b4ca06",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "grid": {
+        "columns": 1,
+        "rows": 1
+      },
+      "alphaThreshold": 180,
+      "coordinateSpace": "rect: atlas pixels; bounds/pivot: cell-local pixels; pivotNormalized: cell fractions",
+      "anchorMeaning": "visible sole baseline",
+      "cells": [
+        {
+          "index": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1536
+          },
+          "bounds": {
+            "x": 227,
+            "y": 33,
+            "width": 485,
+            "height": 1479
+          },
+          "pivot": {
+            "x": 469.5,
+            "y": 1512
+          },
+          "pivotNormalized": {
+            "x": 0.4584961,
+            "y": 0.984375
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "warnings": [],
+      "section": "figuren"
+    },
+    {
+      "id": "npc-mona",
+      "kind": "portrait",
+      "status": "current-dialogue",
+      "localPath": "assets/characters/npc-mona.webp",
+      "publicPath": "/site/assets/characters/npc-mona.webp",
+      "targetPath": "public/site/assets/characters/npc-mona.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-mona.webp",
+      "bytes": 1096410,
+      "sha256": "75d2185f31ce0c495d5d8cbf6b170ab7e1ed5f1055979ca8788df4abcd21c072",
+      "sourcePath": "public/assets/npc-mona.png",
+      "sourceSha256": "e59cdac98b31e82ebd0a601527f76ab093b1efef5d814496afe59502610eabaa",
+      "width": 1312,
+      "height": 1199,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "description": "Upper-body portrait. Use for dialogue/cards; do not stand it directly on a scene floor.",
+      "section": "figuren"
+    },
+    {
+      "id": "npc-otto-standing-v1",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/npc-otto-standing-v1.webp",
+      "publicPath": "/site/assets/characters/npc-otto-standing-v1.webp",
+      "targetPath": "public/site/assets/characters/npc-otto-standing-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-otto-standing-v1.webp",
+      "bytes": 1141958,
+      "sha256": "f0cb7b54fc593e5e57153a20d0f0093a2ef25c7d1f4c0083b6f36b3b10ce1e52",
+      "sourcePath": "public/assets/npc-otto-standing-v1.png",
+      "sourceSha256": "43d50bc6f5e75ad5f8a3fdfc5692d5849149a377b79aad1b57f9713da5d476b9",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "grid": {
+        "columns": 1,
+        "rows": 1
+      },
+      "alphaThreshold": 180,
+      "coordinateSpace": "rect: atlas pixels; bounds/pivot: cell-local pixels; pivotNormalized: cell fractions",
+      "anchorMeaning": "visible sole baseline",
+      "cells": [
+        {
+          "index": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 1536
+          },
+          "bounds": {
+            "x": 234,
+            "y": 26,
+            "width": 589,
+            "height": 1484
+          },
+          "pivot": {
+            "x": 528.5,
+            "y": 1510
+          },
+          "pivotNormalized": {
+            "x": 0.5161133,
+            "y": 0.9830729
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "warnings": [],
+      "section": "figuren"
+    },
+    {
+      "id": "npc-otto",
+      "kind": "portrait",
+      "status": "current-dialogue",
+      "localPath": "assets/characters/npc-otto.webp",
+      "publicPath": "/site/assets/characters/npc-otto.webp",
+      "targetPath": "public/site/assets/characters/npc-otto.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/npc-otto.webp",
+      "bytes": 1247710,
+      "sha256": "2e359d7207d62f57e341b8ab7bcb832625c5652a4161fab92abaebd1a35143f4",
+      "sourcePath": "public/assets/npc-otto.png",
+      "sourceSha256": "050b594e8a0829093f9b612abbde039427880e474d951b6179dd1111f5fdbaf8",
+      "width": 1312,
+      "height": 1199,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "description": "Upper-body portrait. Use for dialogue/cards; do not stand it directly on a scene floor.",
+      "section": "figuren"
+    },
+    {
+      "id": "scene-fritte-rough-v1",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-fritte-rough-v1.webp",
+      "publicPath": "/site/assets/backgrounds/scene-fritte-rough-v1.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-fritte-rough-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-fritte-rough-v1.webp",
+      "bytes": 653422,
+      "sha256": "c26dcccd8b4000a5bc58d251ab091825cad932e687a61442815342d9def1ba21",
+      "sourcePath": "public/assets/scene-fritte-rough-v1.png",
+      "sourceSha256": "1b7f86f5eb1be4ac9e3df065fbd7585fa3cf255d4d0429dad9b94d465f808226",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "encoding": "webp-quality-90",
+      "description": "Approved-style flat scene plate; no independent depth, foreground, or light layers supplied.",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-fritte-rough-v1-1280",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-fritte-rough-v1-1280.webp",
+      "publicPath": "/site/assets/backgrounds/scene-fritte-rough-v1-1280.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-fritte-rough-v1-1280.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-fritte-rough-v1-1280.webp",
+      "bytes": 419774,
+      "sha256": "d94ae296fad3c6f0786f27800d17a8deea3f0ad0777a75dd93c491e79969c631",
+      "sourcePath": "public/assets/scene-fritte-rough-v1.png",
+      "sourceSha256": "1b7f86f5eb1be4ac9e3df065fbd7585fa3cf255d4d0429dad9b94d465f808226",
+      "width": 1280,
+      "height": 720,
+      "alpha": false,
+      "variantOf": "scene-fritte-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-fritte-rough-v1-768",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-fritte-rough-v1-768.webp",
+      "publicPath": "/site/assets/backgrounds/scene-fritte-rough-v1-768.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-fritte-rough-v1-768.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-fritte-rough-v1-768.webp",
+      "bytes": 169786,
+      "sha256": "7479b5a0045154bdbee01dcf0b3e5bd197b2de19fa5a37559f2e3463b03141b9",
+      "sourcePath": "public/assets/scene-fritte-rough-v1.png",
+      "sourceSha256": "1b7f86f5eb1be4ac9e3df065fbd7585fa3cf255d4d0429dad9b94d465f808226",
+      "width": 768,
+      "height": 432,
+      "alpha": false,
+      "variantOf": "scene-fritte-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-home-rough-v1",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-home-rough-v1.webp",
+      "publicPath": "/site/assets/backgrounds/scene-home-rough-v1.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-home-rough-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-home-rough-v1.webp",
+      "bytes": 637462,
+      "sha256": "91821ea204ae62a0f35bc0b8da14cb9815bf46d3f99b79ac7f7316f34ca0253c",
+      "sourcePath": "public/assets/scene-home-rough-v1.png",
+      "sourceSha256": "f9e8020220beba8e354d0cf606b253c9ae691416a06ae4b85bcbb6cff098e507",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "encoding": "webp-quality-90",
+      "description": "Approved-style flat scene plate; no independent depth, foreground, or light layers supplied.",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-home-rough-v1-1280",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-home-rough-v1-1280.webp",
+      "publicPath": "/site/assets/backgrounds/scene-home-rough-v1-1280.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-home-rough-v1-1280.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-home-rough-v1-1280.webp",
+      "bytes": 412684,
+      "sha256": "1aac6f4aeb0386527d0d6b7d99c6d9d6647d934d1dc64c2a182ad5b434496c37",
+      "sourcePath": "public/assets/scene-home-rough-v1.png",
+      "sourceSha256": "f9e8020220beba8e354d0cf606b253c9ae691416a06ae4b85bcbb6cff098e507",
+      "width": 1280,
+      "height": 720,
+      "alpha": false,
+      "variantOf": "scene-home-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-home-rough-v1-768",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-home-rough-v1-768.webp",
+      "publicPath": "/site/assets/backgrounds/scene-home-rough-v1-768.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-home-rough-v1-768.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-home-rough-v1-768.webp",
+      "bytes": 170150,
+      "sha256": "94ea4652c202701911a0b90adf4e8819a985d0ab1d1e8da1c76b6f9d307bb37c",
+      "sourcePath": "public/assets/scene-home-rough-v1.png",
+      "sourceSha256": "f9e8020220beba8e354d0cf606b253c9ae691416a06ae4b85bcbb6cff098e507",
+      "width": 768,
+      "height": 432,
+      "alpha": false,
+      "variantOf": "scene-home-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-otto-rough-v1",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-otto-rough-v1.webp",
+      "publicPath": "/site/assets/backgrounds/scene-otto-rough-v1.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-otto-rough-v1.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-otto-rough-v1.webp",
+      "bytes": 640386,
+      "sha256": "8d0b11bb1e093973cb99a8708e86e721e397d1e7bec98049b25d4034f3e8284d",
+      "sourcePath": "public/assets/scene-otto-rough-v1.png",
+      "sourceSha256": "e359b991e3dee8751a532d8a8a6b859f3956e1d92379dcc35465270d185b7471",
+      "width": 1672,
+      "height": 941,
+      "alpha": false,
+      "encoding": "webp-quality-90",
+      "description": "Approved-style flat scene plate; no independent depth, foreground, or light layers supplied.",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-otto-rough-v1-1280",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-otto-rough-v1-1280.webp",
+      "publicPath": "/site/assets/backgrounds/scene-otto-rough-v1-1280.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-otto-rough-v1-1280.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-otto-rough-v1-1280.webp",
+      "bytes": 410568,
+      "sha256": "8807988a954323a323d5626ae668b47dc866277d2a62b713254a493323c9d0a8",
+      "sourcePath": "public/assets/scene-otto-rough-v1.png",
+      "sourceSha256": "e359b991e3dee8751a532d8a8a6b859f3956e1d92379dcc35465270d185b7471",
+      "width": 1280,
+      "height": 720,
+      "alpha": false,
+      "variantOf": "scene-otto-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "scene-otto-rough-v1-768",
+      "kind": "background",
+      "status": "preferred",
+      "localPath": "assets/backgrounds/scene-otto-rough-v1-768.webp",
+      "publicPath": "/site/assets/backgrounds/scene-otto-rough-v1-768.webp",
+      "targetPath": "public/site/assets/backgrounds/scene-otto-rough-v1-768.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/backgrounds/scene-otto-rough-v1-768.webp",
+      "bytes": 167140,
+      "sha256": "993589dd619d79758302c86a5f2407c75ca1411ef6edfe610a858cd70685fc29",
+      "sourcePath": "public/assets/scene-otto-rough-v1.png",
+      "sourceSha256": "e359b991e3dee8751a532d8a8a6b859f3956e1d92379dcc35465270d185b7471",
+      "width": 768,
+      "height": 432,
+      "alpha": false,
+      "variantOf": "scene-otto-rough-v1",
+      "encoding": "webp-quality-90",
+      "section": "kiez"
+    },
+    {
+      "id": "schnueffler-comic",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/schnueffler-comic.webp",
+      "publicPath": "/site/assets/characters/schnueffler-comic.webp",
+      "targetPath": "public/site/assets/characters/schnueffler-comic.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/schnueffler-comic.webp",
+      "bytes": 1194794,
+      "sha256": "8bf0e66fb5c3d5c9cf28e9e3ef79589cf091754e0b3b02f354803ddd75fc66ff",
+      "sourcePath": "public/assets/schnueffler-comic.png",
+      "sourceSha256": "77793b4936b350ca5f79128bb1859ec7f3535403ee567e843349a7f07f8006a3",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "schnueffler-dj-sprites",
+      "kind": "sprite",
+      "status": "current",
+      "localPath": "assets/sprites/schnueffler-dj-sprites.webp",
+      "publicPath": "/site/assets/sprites/schnueffler-dj-sprites.webp",
+      "targetPath": "public/site/assets/sprites/schnueffler-dj-sprites.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/sprites/schnueffler-dj-sprites.webp",
+      "bytes": 1189830,
+      "sha256": "925209a47a446c9aa6b252078e07849eb845ca79e9110da3ef2bd0995446f75b",
+      "sourcePath": "public/assets/schnueffler-dj-sprites.png",
+      "sourceSha256": "061ef148c4df0277d89a83dc36554849b44c4153fd417ae81df977a0041e9a37",
+      "width": 1774,
+      "height": 887,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "grid": {
+        "columns": 4,
+        "rows": 1
+      },
+      "alphaThreshold": 180,
+      "coordinateSpace": "rect: atlas pixels; bounds/pivot: cell-local pixels; pivotNormalized: cell fractions",
+      "anchorMeaning": "bottom-center of visible content; DJ poses are waist-up, not standing feet",
+      "cells": [
+        {
+          "index": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 887
+          },
+          "bounds": {
+            "x": 10,
+            "y": 136,
+            "width": 434,
+            "height": 619
+          },
+          "pivot": {
+            "x": 227.0,
+            "y": 755
+          },
+          "pivotNormalized": {
+            "x": 0.5112613,
+            "y": 0.8511838
+          },
+          "touchesCellEdge": true
+        },
+        {
+          "index": 1,
+          "rect": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 887
+          },
+          "bounds": {
+            "x": 0,
+            "y": 150,
+            "width": 443,
+            "height": 605
+          },
+          "pivot": {
+            "x": 221.5,
+            "y": 755
+          },
+          "pivotNormalized": {
+            "x": 0.5,
+            "y": 0.8511838
+          },
+          "touchesCellEdge": true
+        },
+        {
+          "index": 2,
+          "rect": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 887
+          },
+          "bounds": {
+            "x": 0,
+            "y": 136,
+            "width": 431,
+            "height": 619
+          },
+          "pivot": {
+            "x": 215.5,
+            "y": 755
+          },
+          "pivotNormalized": {
+            "x": 0.486456,
+            "y": 0.8511838
+          },
+          "touchesCellEdge": true
+        },
+        {
+          "index": 3,
+          "rect": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 887
+          },
+          "bounds": {
+            "x": 0,
+            "y": 131,
+            "width": 438,
+            "height": 624
+          },
+          "pivot": {
+            "x": 219.0,
+            "y": 755
+          },
+          "pivotNormalized": {
+            "x": 0.4932432,
+            "y": 0.8511838
+          },
+          "touchesCellEdge": true
+        }
+      ],
+      "warnings": [
+        "Cell edges are rounded independently; do not assume uniform integer cell width."
+      ],
+      "section": "hero"
+    },
+    {
+      "id": "schnueffler-dj",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/schnueffler-dj.webp",
+      "publicPath": "/site/assets/characters/schnueffler-dj.webp",
+      "targetPath": "public/site/assets/characters/schnueffler-dj.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/schnueffler-dj.webp",
+      "bytes": 1544764,
+      "sha256": "ea5155035f28516a26cbcc4b948977e27d2e51912eeb3bedb647a5f0e49e562f",
+      "sourcePath": "public/assets/schnueffler-dj.png",
+      "sourceSha256": "a72c88b6053ed2d7bba316fcf22a9f93e88954d05ce13943d1dfa95f5360550a",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "schnueffler-walk-sprites",
+      "kind": "sprite",
+      "status": "current",
+      "localPath": "assets/sprites/schnueffler-walk-sprites.webp",
+      "publicPath": "/site/assets/sprites/schnueffler-walk-sprites.webp",
+      "targetPath": "public/site/assets/sprites/schnueffler-walk-sprites.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/sprites/schnueffler-walk-sprites.webp",
+      "bytes": 1390568,
+      "sha256": "43f8289c73d1d5d3dde7f8cb1b7cedcaaf4cb94f3bc539c335dd28fa2a60a62e",
+      "sourcePath": "public/assets/schnueffler-walk-sprites.png",
+      "sourceSha256": "1fb4e63d5f04f6e3685d42199b721a1bf37a049527144a75c216502dfe668172",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "encoding": "lossless-webp",
+      "grid": {
+        "columns": 4,
+        "rows": 1
+      },
+      "alphaThreshold": 180,
+      "coordinateSpace": "rect: atlas pixels; bounds/pivot: cell-local pixels; pivotNormalized: cell fractions",
+      "anchorMeaning": "visible sole baseline",
+      "cells": [
+        {
+          "index": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 1024
+          },
+          "bounds": {
+            "x": 31,
+            "y": 137,
+            "width": 353,
+            "height": 756
+          },
+          "pivot": {
+            "x": 207.5,
+            "y": 893
+          },
+          "pivotNormalized": {
+            "x": 0.5403646,
+            "y": 0.8720703
+          },
+          "touchesCellEdge": true
+        },
+        {
+          "index": 1,
+          "rect": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 1024
+          },
+          "bounds": {
+            "x": 0,
+            "y": 137,
+            "width": 382,
+            "height": 756
+          },
+          "pivot": {
+            "x": 191.0,
+            "y": 893
+          },
+          "pivotNormalized": {
+            "x": 0.4973958,
+            "y": 0.8720703
+          },
+          "touchesCellEdge": true
+        },
+        {
+          "index": 2,
+          "rect": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 1024
+          },
+          "bounds": {
+            "x": 2,
+            "y": 137,
+            "width": 371,
+            "height": 752
+          },
+          "pivot": {
+            "x": 187.5,
+            "y": 889
+          },
+          "pivotNormalized": {
+            "x": 0.4882812,
+            "y": 0.8681641
+          },
+          "touchesCellEdge": false
+        },
+        {
+          "index": 3,
+          "rect": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 1024
+          },
+          "bounds": {
+            "x": 43,
+            "y": 137,
+            "width": 319,
+            "height": 756
+          },
+          "pivot": {
+            "x": 202.5,
+            "y": 893
+          },
+          "pivotNormalized": {
+            "x": 0.5273438,
+            "y": 0.8720703
+          },
+          "touchesCellEdge": false
+        }
+      ],
+      "warnings": [],
+      "section": "hero"
+    },
+    {
+      "id": "fritte-standing-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/fritte-standing-desktop.webp",
+      "publicPath": "/site/standbilder/fritte-standing-desktop.webp",
+      "targetPath": "public/site/standbilder/fritte-standing-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/fritte-standing-desktop.webp",
+      "bytes": 469916,
+      "sha256": "c50eb198794db5dcec8e66835578b055ae6bde7cc994a8a94a8f9cb8d1c6be07",
+      "sourcePath": "production/qa/evidence/adventure-001/fritte-standing-desktop.png",
+      "sourceSha256": "bea0d54f8fde1a74d014cb3953e22f640bdf862a55b9a66555e15a8e7c1bee68",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "home-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/home-desktop.webp",
+      "publicPath": "/site/standbilder/home-desktop.webp",
+      "targetPath": "public/site/standbilder/home-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/home-desktop.webp",
+      "bytes": 465846,
+      "sha256": "4f85bdd9545b16538a1b7aa49a699ee54dbcecb0be8b8e0b8e2d1f8ba599e061",
+      "sourcePath": "production/qa/evidence/adventure-001/home-desktop.png",
+      "sourceSha256": "1f667244dcea8ef63bc874af6c43d60052529bee5952d37bf94c991d8b36cbb5",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "otto-dialogue-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/otto-dialogue-desktop.webp",
+      "publicPath": "/site/standbilder/otto-dialogue-desktop.webp",
+      "targetPath": "public/site/standbilder/otto-dialogue-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/otto-dialogue-desktop.webp",
+      "bytes": 362326,
+      "sha256": "826a015e86ac375addf7a4c53e4e1d18e79b86f3a02f081d2dfc40cddc37c463",
+      "sourcePath": "production/qa/evidence/adventure-001/otto-dialogue-desktop.png",
+      "sourceSha256": "773106dbbe003b24c77e3e16e03abfa1fcd5b9606c3e2f80d19ceaf6aad03b8e",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "otto-dialogue-phone",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/otto-dialogue-phone.webp",
+      "publicPath": "/site/standbilder/otto-dialogue-phone.webp",
+      "targetPath": "public/site/standbilder/otto-dialogue-phone.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/otto-dialogue-phone.webp",
+      "bytes": 78280,
+      "sha256": "0ace04fec3ebd0f984b1302c79c6d6c336f94474c9388368e50b0e0de8d33094",
+      "sourcePath": "production/qa/evidence/adventure-001/otto-dialogue-phone.png",
+      "sourceSha256": "c58c4b381aec35798c0d5727875ea9f2b35552491502211bffbdb76b4c6954c0",
+      "width": 390,
+      "height": 844,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "otto-standing-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/otto-standing-desktop.webp",
+      "publicPath": "/site/standbilder/otto-standing-desktop.webp",
+      "targetPath": "public/site/standbilder/otto-standing-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/otto-standing-desktop.webp",
+      "bytes": 479250,
+      "sha256": "68537988c1e03b230d0d83827f7ae0e82046a650f0f14f81e5af36dfbf018e8d",
+      "sourcePath": "production/qa/evidence/adventure-001/otto-standing-desktop.png",
+      "sourceSha256": "3fa56435eb5ab666a97a1b07c252b83e0219af51adcf33367e9f94b5dd7fcd96",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "otto-standing-phone",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/otto-standing-phone.webp",
+      "publicPath": "/site/standbilder/otto-standing-phone.webp",
+      "targetPath": "public/site/standbilder/otto-standing-phone.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/otto-standing-phone.webp",
+      "bytes": 111142,
+      "sha256": "dd4d422639627d128d212f28621b7042902ae78224d6aca19a8b11e5f1a79810",
+      "sourcePath": "production/qa/evidence/adventure-001/otto-standing-phone.png",
+      "sourceSha256": "e0c22cfc6cbe591e4dc17b12708426ea0863239d6e673a9eb1d6850612a4e5a6",
+      "width": 390,
+      "height": 844,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "street-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/street-desktop.webp",
+      "publicPath": "/site/standbilder/street-desktop.webp",
+      "targetPath": "public/site/standbilder/street-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/street-desktop.webp",
+      "bytes": 467548,
+      "sha256": "a96b08d333ecd923c33212c4e706a326620d41732e5537ecf84c248812222aea",
+      "sourcePath": "production/qa/evidence/adventure-001/street-desktop.png",
+      "sourceSha256": "41694caf1ebb4a092baea77f80a485cea42926cc22f5f5d28e237586ff07abcd",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "travel-map-desktop",
+      "kind": "screenshot",
+      "status": "current-evidence",
+      "localPath": "standbilder/travel-map-desktop.webp",
+      "publicPath": "/site/standbilder/travel-map-desktop.webp",
+      "targetPath": "public/site/standbilder/travel-map-desktop.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/standbilder/travel-map-desktop.webp",
+      "bytes": 408834,
+      "sha256": "131d62feeebdadd3e69dc887dc68bd8cddc26dbfb8a7cde01b55db2edcbb2dbd",
+      "sourcePath": "production/qa/evidence/adventure-001/travel-map-desktop.png",
+      "sourceSha256": "be2e72c74b80f86c4d678cbf566dcc5057f1ce2ef9e5d489dab4337021d36cda",
+      "width": 1440,
+      "height": 1000,
+      "alpha": false,
+      "description": "Actual game capture, not a concept render. Some captures precede the last frame-color or sprite-padding adjustment; see source verification.",
+      "section": "screenshots"
+    },
+    {
+      "id": "noziy-01-preview",
+      "kind": "audio",
+      "status": "preview-excerpt",
+      "localPath": "assets/audio/noziy-01-preview.m4a",
+      "publicPath": "/site/assets/audio/noziy-01-preview.m4a",
+      "targetPath": "public/site/assets/audio/noziy-01-preview.m4a",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/audio/noziy-01-preview.m4a",
+      "bytes": 196140,
+      "sha256": "42c7fdc82496e377482d3795d1a7f7e7760aec3a4edfb4e282ec9c282fd15c97",
+      "sourcePath": "public/audio/noziy-01.m4a",
+      "sourceSha256": "6abf5f246eae79573377b2fd326a34ae9a3302fbca2ed42d506b0d1f17426fec",
+      "title": "Gastbeat 01",
+      "artist": "DJ noziy neigbour aka Detektiv Funk Schnüffler",
+      "durationSeconds": 12.0,
+      "excerpt": {
+        "startSeconds": 0,
+        "requestedDurationSeconds": 12
+      },
+      "description": "12-second preview from the user-supplied original recording; no generated replacement music. Start only after explicit user action.",
+      "section": "platten"
+    },
+    {
+      "id": "noziy-02-preview",
+      "kind": "audio",
+      "status": "preview-excerpt",
+      "localPath": "assets/audio/noziy-02-preview.m4a",
+      "publicPath": "/site/assets/audio/noziy-02-preview.m4a",
+      "targetPath": "public/site/assets/audio/noziy-02-preview.m4a",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/audio/noziy-02-preview.m4a",
+      "bytes": 196941,
+      "sha256": "f1309803ce35126d6cc4038bee8063d0703d26568b8f62e72ae2e88680b2857c",
+      "sourcePath": "public/audio/noziy-02.m4a",
+      "sourceSha256": "4050ea28ac3e6fb92e7c4f3deac3bea64e313e0a7cbd6b3a2d456524c7e1d873",
+      "title": "Gastbeat 02",
+      "artist": "DJ noziy neigbour aka Detektiv Funk Schnüffler",
+      "durationSeconds": 12.0,
+      "excerpt": {
+        "startSeconds": 0,
+        "requestedDurationSeconds": 12
+      },
+      "description": "12-second preview from the user-supplied original recording; no generated replacement music. Start only after explicit user action.",
+      "section": "platten"
+    },
+    {
+      "id": "intro-original",
+      "kind": "cutscene",
+      "status": "prototype-not-final",
+      "localPath": "cutscenes/intro-original.mp4",
+      "publicPath": "/site/cutscenes/intro-original.mp4",
+      "targetPath": "public/site/cutscenes/intro-original.mp4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/cutscenes/intro-original.mp4",
+      "bytes": 4938896,
+      "sha256": "34b52a01fb05d2f1eaf9595e99bf2200abf1e440689b98dd9e0d4ed2ca0f5c03",
+      "sourcePath": "public/assets/funk-schnueffler-intro.mp4",
+      "sourceSha256": "34b52a01fb05d2f1eaf9595e99bf2200abf1e440689b98dd9e0d4ed2ca0f5c03",
+      "width": 1280,
+      "height": 720,
+      "durationSeconds": 10.026667,
+      "frameRate": "24/1",
+      "hasAudio": true,
+      "description": "Unchanged supplied intro. Logo/subline repair and rerender explicitly deferred; never present as final trailer.",
+      "section": "trailer-optional"
+    },
+    {
+      "id": "intro-original-poster",
+      "kind": "poster",
+      "status": "prototype-not-final",
+      "localPath": "cutscenes/intro-original-poster.jpg",
+      "publicPath": "/site/cutscenes/intro-original-poster.jpg",
+      "targetPath": "public/site/cutscenes/intro-original-poster.jpg",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/cutscenes/intro-original-poster.jpg",
+      "bytes": 106198,
+      "sha256": "b24f7f0312750af52c494fea572b3fd4a567a59e4e30334262c7337c4b8dc5d2",
+      "sourcePath": "public/assets/funk-schnueffler-intro.mp4",
+      "sourceSha256": "34b52a01fb05d2f1eaf9595e99bf2200abf1e440689b98dd9e0d4ed2ca0f5c03",
+      "width": 1280,
+      "height": 720,
+      "alpha": false,
+      "description": "First frame of supplied original video; poster extraction only, no video rerender.",
+      "section": "trailer-optional"
+    },
+    {
+      "id": "schnueffler-comic-512",
+      "kind": "character",
+      "status": "current",
+      "localPath": "assets/characters/schnueffler-comic-512.webp",
+      "publicPath": "/site/assets/characters/schnueffler-comic-512.webp",
+      "targetPath": "public/site/assets/characters/schnueffler-comic-512.webp",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/characters/schnueffler-comic-512.webp",
+      "bytes": 258640,
+      "sha256": "85c24c688a2c289d215863a7f0711963eb8a846300f316311d35d0451b2a282b",
+      "sourcePath": "public/assets/schnueffler-comic.png",
+      "sourceSha256": "77793b4936b350ca5f79128bb1859ec7f3535403ee567e843349a7f07f8006a3",
+      "width": 512,
+      "height": 768,
+      "alpha": true,
+      "variantOf": "schnueffler-comic",
+      "encoding": "lossless-webp",
+      "section": "hero"
+    },
+    {
+      "id": "funk-schnueffler-logo-original-png",
+      "kind": "logo",
+      "status": "fallback-original",
+      "localPath": "assets/logos/funk-schnueffler-logo-original.png",
+      "publicPath": "/site/assets/logos/funk-schnueffler-logo-original.png",
+      "targetPath": "public/site/assets/logos/funk-schnueffler-logo-original.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/assets/logos/funk-schnueffler-logo-original.png",
+      "bytes": 2243791,
+      "sha256": "4ef44fd0ab0bbfa4306c06edd5fcafbde9fa0854d9b2cb292d657b7a4fef564d",
+      "sourcePath": "public/assets/funk-schnueffler-logo.png",
+      "sourceSha256": "4ef44fd0ab0bbfa4306c06edd5fcafbde9fa0854d9b2cb292d657b7a4fef564d",
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "variantOf": "funk-schnueffler-logo",
+      "section": "hero"
+    },
+    {
+      "id": "og-image-1200x630",
+      "kind": "social",
+      "status": "current",
+      "localPath": "social/og-image-1200x630.png",
+      "publicPath": "/site/social/og-image-1200x630.png",
+      "targetPath": "public/site/social/og-image-1200x630.png",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/funk-schnueffler-v1/social/og-image-1200x630.png",
+      "bytes": 775810,
+      "sha256": "09bc99bcb73ca2a7aaa7dc80caf380dfc2ebb3f35170d4fde005b00340f81fa3",
+      "sourcePath": "website-brief/social-card.html",
+      "sourceSha256": "7f5b2f952885f89554bbc90d1e7e5093bb8cab257e0e3497bc0e15d299562566",
+      "width": 1200,
+      "height": 630,
+      "alpha": false,
+      "description": "Native HTML share-card composition using the supplied logo and actual game artwork; not a gameplay screenshot.",
+      "section": "meta"
+    }
+  ]
+}
