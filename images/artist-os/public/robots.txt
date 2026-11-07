@@ -1,0 +1,9 @@
+# Eine Gruppe fuer alle Crawler, KI-Crawler (GPTBot, ChatGPT-User, PerplexityBot,
+# ClaudeBot, anthropic-ai, Google-Extended, Applebot-Extended) eingeschlossen.
+# Eigene Gruppen pro Bot wuerden die Disallow-Regeln fuer diesen Bot aufheben.
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /noizy/admin
+Disallow: /api/admin
+Disallow: /noizy/api/admin

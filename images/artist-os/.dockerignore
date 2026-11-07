@@ -1,0 +1,9 @@
+node_modules
+.next
+.omc
+.env*
+*.swp
+tsconfig.tsbuildinfo
+public/assets/photos/*.jpg
+deploy
+data

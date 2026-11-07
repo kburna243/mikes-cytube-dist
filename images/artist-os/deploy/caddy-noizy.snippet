@@ -1,0 +1,7 @@
+	# --- /noizy (DJ Noizy Neighbour, Next.js basePath /noizy, oeffentlich) ---
+	# Kein Slash-Redirect: Next (trailingSlash:false) leitet /noizy/ selbst auf /noizy um.
+	@noizy path /noizy /noizy/*
+	handle @noizy {
+		reverse_proxy noizy-web:3000
+	}
+

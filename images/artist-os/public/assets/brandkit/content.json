@@ -1,0 +1,99 @@
+{
+  "_hinweis": "Echte Inhalte zum Befüllen der Vorlagen. Auf der Seite kommen gigs und gems später live aus /api; die Werkstatt bekommt sie als Props.",
+  "artist": {
+    "name": "DJ Noizy Neighbor",
+    "schreibweise": "immer NEIGHBOR (amerikanisch, ohne u)",
+    "city": "Berlin-Friedrichshain",
+    "tagline": "Rare Funk, Soul, Beats, Hip Hop, Lo-Fi",
+    "bio_kurz": "DJ und Underground-Beat-Produzent aus Berlin. Crate Digger, MPC, Vinyl-only.",
+    "web": "https://servermitte.tailecbf0f.ts.net/noizy"
+  },
+  "socials": [
+    {
+      "id": "instagram",
+      "handle": "@djnoizyneighbor",
+      "url": "https://www.instagram.com/djnoizyneighbor/"
+    },
+    {
+      "id": "youtube",
+      "handle": "@officialdjnoizyneighbor",
+      "url": "https://www.youtube.com/@officialdjnoizyneighbor"
+    },
+    {
+      "id": "spotify",
+      "handle": "DJ Noizy Neighbor",
+      "url": "https://open.spotify.com/artist/4VdvOFJE7lz9Fs1JqdzeK4"
+    },
+    {
+      "id": "applemusic",
+      "handle": "DJ Noizy Neighbor",
+      "url": "https://music.apple.com/us/artist/dj-noizy-neighbor/1672448233"
+    },
+    {
+      "id": "facebook",
+      "handle": "DjNoizyNeighbor",
+      "url": "https://www.facebook.com/DjNoizyNeighbor/"
+    },
+    {
+      "id": "mixcloud",
+      "handle": "djnoizyneighbor",
+      "url": "https://www.mixcloud.com/djnoizyneighbor/bad-thing-24-funk-45s"
+    }
+  ],
+  "release": {
+    "title": "Back on 16 pads",
+    "year": "2023",
+    "label": "NoizyNeighborProductions",
+    "blurb": "12 rohe, dreckige Hip-Hop-Beats und Instrumentals, alle auf 16 Pads gebaut. Plus ein Bonustrack.",
+    "cover": "/assets/releases/back-on-16-pads.webp"
+  },
+  "mix": {
+    "title": "BAD THING",
+    "subtitle": "24 tough Funk 45s, live in der Riva Bar Berlin, 2007",
+    "url": "https://www.mixcloud.com/djnoizyneighbor/bad-thing-24-funk-45s"
+  },
+  "upcoming": {
+    "title": "Noizy in Space",
+    "status": "Coming soon",
+    "note": "Analoge Synths, gemastert über Fairchild-Kompressor und Studer A80"
+  },
+  "gigs_beispiel": [
+    {
+      "date": "2026-12-12",
+      "venue": "Riva Bar",
+      "city": "Berlin",
+      "status": "TICKETS",
+      "note": "Funk 45s All Night"
+    },
+    {
+      "date": "2026-12-31",
+      "venue": "://about blank",
+      "city": "Berlin",
+      "status": "SOLD OUT",
+      "note": "NYE Vinyl-only"
+    }
+  ],
+  "gems": [
+    {
+      "title": "Themes From The Movies Starring Yuen Biao",
+      "label": "Victor VIP-28111",
+      "country": "Japan",
+      "badge": "Discogs: 1.337 €",
+      "img": "/assets/gems/yuen-biao.webp"
+    },
+    {
+      "title": "三大少林寺映画 Original Soundtrack",
+      "label": "Japan-Pressung",
+      "country": "Japan",
+      "badge": "Wu-Tang-Quelle",
+      "img": "/assets/gems/shaolin.webp"
+    },
+    {
+      "title": "Arita Shintaro",
+      "label": "Crown",
+      "country": "Japan",
+      "badge": "Nicht im Netz",
+      "img": "/assets/gems/arita-shintaro.webp"
+    }
+  ]
+}

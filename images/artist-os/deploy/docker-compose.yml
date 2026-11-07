@@ -1,0 +1,40 @@
+# /volume1/docker/noizy/docker-compose.yml on servermitte
+# Public via Caddy (:8450) + Tailscale Funnel: https://servermitte.tailecbf0f.ts.net/noizy
+services:
+  noizy-db:
+    image: postgres:16-alpine
+    container_name: noizy-db
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      POSTGRES_DB: noizy
+      POSTGRES_USER: noizy
+    volumes:
+      - noizy_db:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d:ro
+    networks: [noizy]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U noizy -d noizy"]
+      interval: 10s
+      retries: 10
+
+  noizy-web:
+    image: noizy-web:1.5.0
+    container_name: noizy-web
+    restart: unless-stopped
+    env_file: .env
+    depends_on:
+      noizy-db:
+        condition: service_healthy
+    volumes:
+      - noizy_uploads:/app/data/uploads # admin uploads (gems), survive image updates
+    networks: [noizy, db-net]
+
+volumes:
+  noizy_db:
+  noizy_uploads:
+
+networks:
+  noizy:
+  db-net:
+    external: true
