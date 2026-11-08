@@ -1,0 +1,76 @@
+{
+  "name": "pitchraum-start",
+  "prompt": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/ARENA-PROMPT.md",
+  "files": [
+    {
+      "path": "pitch-demo/ComposerHomeView.tsx",
+      "target": "src/components/pitch-demo/ComposerHomeView.tsx",
+      "bytes": 7087,
+      "sha256": "4fec532bb270ce016c4d557bebfd4a348753ba1c0758915ceb0bf47ac931530b",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/ComposerHomeView.tsx"
+    },
+    {
+      "path": "pitch-demo/DemoControlBar.tsx",
+      "target": "src/components/pitch-demo/DemoControlBar.tsx",
+      "bytes": 3922,
+      "sha256": "59d83ecf4c7960f0d4e7b56a430e4ed7920ef19d9a7bcb9ebdc3bbbea21c2488",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/DemoControlBar.tsx"
+    },
+    {
+      "path": "pitch-demo/InquiriesView.tsx",
+      "target": "src/components/pitch-demo/InquiriesView.tsx",
+      "bytes": 8833,
+      "sha256": "ecfe93bf6f1bfd5ff560d09531ec534a1a8fac5f59e27958604ebc4577f87e15",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/InquiriesView.tsx"
+    },
+    {
+      "path": "pitch-demo/MyMusicView.tsx",
+      "target": "src/components/pitch-demo/MyMusicView.tsx",
+      "bytes": 26283,
+      "sha256": "0ce5fda545c3aad6110eea7ecbe959b72b6f5b2df8018589291d9c88bb621c20",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/MyMusicView.tsx"
+    },
+    {
+      "path": "pitch-demo/PitchRoomDemo.tsx",
+      "target": "src/components/pitch-demo/PitchRoomDemo.tsx",
+      "bytes": 9507,
+      "sha256": "54b0ff81a0457d981845a60970071d9164b3782584947ad9600830e57cffe505",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/PitchRoomDemo.tsx"
+    },
+    {
+      "path": "pitch-demo/RecipientPitchView.tsx",
+      "target": "src/components/pitch-demo/RecipientPitchView.tsx",
+      "bytes": 19863,
+      "sha256": "1fd09d8c61f63376b8c7b5235afcb429fce1db2382df5c6c59b9c78da2b7fab9",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/RecipientPitchView.tsx"
+    },
+    {
+      "path": "pitch-demo/SendMusicWizard.tsx",
+      "target": "src/components/pitch-demo/SendMusicWizard.tsx",
+      "bytes": 19426,
+      "sha256": "b25fa79a97aa387c731a7f6e56bcffabab337824baedf621d445167280cadfab",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/SendMusicWizard.tsx"
+    },
+    {
+      "path": "pitch-demo/index.ts",
+      "target": "src/components/pitch-demo/index.ts",
+      "bytes": 954,
+      "sha256": "44ee0880f0806828d7f15f6487c571849fc78d0f7ec452a9ec9421acb6fa2cb2",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/index.ts"
+    },
+    {
+      "path": "pitch-demo/mockApi.ts",
+      "target": "src/components/pitch-demo/mockApi.ts",
+      "bytes": 16083,
+      "sha256": "b1523586e583e8c73c2bcf61719be571677d208e207edcb942a2464b552f5a7c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/mockApi.ts"
+    },
+    {
+      "path": "pitch-demo/types.ts",
+      "target": "src/components/pitch-demo/types.ts",
+      "bytes": 2294,
+      "sha256": "20bdd8b38cb099c9bd1805f16cc8190319167bd9f508bd957caf5e308d0c16b0",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-start/pitch-demo/types.ts"
+    }
+  ]
+}
