@@ -506,6 +506,180 @@
       "bytes": 11995,
       "sha256": "287650cef381bb2b958ac62e3543cbd653469aa10a38a2f56658d8539bb02c7b",
       "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-a/SceneCanvas.tsx"
+    },
+    {
+      "path": "reference-noizy/schleuder/ContentSchleuder.css",
+      "bytes": 33233,
+      "sha256": "0c00cc56547012e2e273465355aff435a7144e9c2caf1ed15dde8b248255b7d4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/ContentSchleuder.css"
+    },
+    {
+      "path": "reference-noizy/schleuder/ContentSchleuder.tsx",
+      "bytes": 61850,
+      "sha256": "4c5b61a64850eb0ca7f4da38ef1725bfb4fc240c25c675870e2c4de8e2a100a2",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/ContentSchleuder.tsx"
+    },
+    {
+      "path": "reference-noizy/schleuder/SchleuderClient.tsx",
+      "bytes": 3300,
+      "sha256": "4c8e161cb181fdaff108a70f060fdc5f7b1ab7b4e3cce9b776a30f563cae74a0",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/SchleuderClient.tsx"
+    },
+    {
+      "path": "reference-noizy/schleuder/captions.ts",
+      "bytes": 10027,
+      "sha256": "4450d2abf6a17cb94bd1f0d394849f25d845e40346a8a76d47cc3a169b2bd3ce",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/captions.ts"
+    },
+    {
+      "path": "reference-noizy/schleuder/ics.ts",
+      "bytes": 2296,
+      "sha256": "3247571ac8d3107cf56360fc140cd421ab4023ba046ae1a105a05aabd84a8efb",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/ics.ts"
+    },
+    {
+      "path": "reference-noizy/schleuder/plan.ts",
+      "bytes": 9255,
+      "sha256": "118c57d89562812f762269f03fefbc0f4cb92809abede16b463526323921d354",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/plan.ts"
+    },
+    {
+      "path": "reference-noizy/schleuder/platforms.ts",
+      "bytes": 5324,
+      "sha256": "3dd636d84a6538381e5d9018484186765ba84593cb935bbbdc12c3e196a1cb79",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/platforms.ts"
+    },
+    {
+      "path": "reference-noizy/schleuder/share.ts",
+      "bytes": 2755,
+      "sha256": "a96eaa13ce4ff158985e4ddf8e8ca3eb238aca5fa8fb53bd0e8c0ca4b167d460",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/share.ts"
+    },
+    {
+      "path": "reference-noizy/schleuder/types.ts",
+      "bytes": 2318,
+      "sha256": "0bcc8b4a0ba67ab618577f3ad160d44fdf3b295d93e312b1f9ee54acab7341de",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/schleuder/types.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/README.md",
+      "bytes": 4327,
+      "sha256": "ecb5637c755295f6951d865e82129a1ad1d8ef9be718ab67db0a4408eff34ab1",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/README.md"
+    },
+    {
+      "path": "reference-noizy/werkstatt/Werkstatt.css",
+      "bytes": 2703,
+      "sha256": "7d3a94bc230f6485475435714ad3c7f09f9841a33e2aed257ca2f36a4d975b45",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/Werkstatt.css"
+    },
+    {
+      "path": "reference-noizy/werkstatt/Werkstatt.tsx",
+      "bytes": 53941,
+      "sha256": "b257f5e6e2619273d3a5d6a2a85b7ecc300826d0a77db0a6a13b9f68fff49d2d",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/Werkstatt.tsx"
+    },
+    {
+      "path": "reference-noizy/werkstatt/WerkstattClient.tsx",
+      "bytes": 65,
+      "sha256": "64226d7abf0d22ccb40bbdb27393ecafb8a0b83eff7eb6d71382073aa1a348ea",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/WerkstattClient.tsx"
+    },
+    {
+      "path": "reference-noizy/werkstatt/captions.ts",
+      "bytes": 2745,
+      "sha256": "ac05a70937488b76f4fb6814111ccaaa61b3ccd57eac3460f749d8edcccb02f4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/captions.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/defaults.ts",
+      "bytes": 3930,
+      "sha256": "2d5ca12bb5304eb5ecb0a0b3d11ec0e8e79c80bacee5137414ebb6ae591028d5",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/defaults.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/draw.ts",
+      "bytes": 13631,
+      "sha256": "d536908c3e93dc230315c0c7d71558e83ebacd7321ae574f032b5d4c392d221e",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/draw.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/export.ts",
+      "bytes": 2424,
+      "sha256": "97f9cb77ca08de777abd68b045efa236ed7857a0990449330f10f9f89209ed21",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/export.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/formats.ts",
+      "bytes": 996,
+      "sha256": "577d9083b00a6cc0aa61513544140bdee432ec325f3c7a6fd7591ced09c19d9f",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/formats.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/library.ts",
+      "bytes": 10407,
+      "sha256": "eeeba711ce0a70a45d5e16e5f40901628e3d9cdbb36f8a7a057a006b0cdc3652",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/library.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/render.ts",
+      "bytes": 3280,
+      "sha256": "815c124664f7cff60503cb3ab45aff9e32667be647705b3cd4044ae331f3ab20",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/render.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/gem.ts",
+      "bytes": 2627,
+      "sha256": "ad63bc1d38a046b76e943e552a25b02eb99436eec835a28b1ad922449aca492e",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/gem.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/gig.ts",
+      "bytes": 2010,
+      "sha256": "87d97a2219d016e69ccb0bf09d31de9f463acc6df8a6482af709d1c523e0fc61",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/gig.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/mix.ts",
+      "bytes": 1990,
+      "sha256": "5198c289349fc20ad82a48b430101709d8057e9a2641f059308b1c890e54fa8e",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/mix.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/release.ts",
+      "bytes": 2645,
+      "sha256": "ad91f593179fd01711a7e8b64f7f09a2ebcf48f2ff5fe3d67d28f2f024b699bc",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/release.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/shared.ts",
+      "bytes": 870,
+      "sha256": "f879017fa1edc30e960aa38344611e533ebddf949426d969f8e0a0182af503d2",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/shared.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/statement.ts",
+      "bytes": 1056,
+      "sha256": "a0aebfdfd0cabe215ce84386ad55b67f5796e52ac49985caef7ca69fec6e85e6",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/statement.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/templates/studio.ts",
+      "bytes": 1255,
+      "sha256": "cbc2a7603da13b94998734145018101476b86239a5a80845f7a0c8f35dc8cf1c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/templates/studio.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/themes.ts",
+      "bytes": 943,
+      "sha256": "b36add6433ccc1aa1b1b09c65cdc18cae3791d446d78b31b1bab7c5119a26b94",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/themes.ts"
+    },
+    {
+      "path": "reference-noizy/werkstatt/types.ts",
+      "bytes": 2580,
+      "sha256": "892226dc41e6d891715169768d1d6c645724715291ff1dab634e02607b103468",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/pitchraum-r3/reference-noizy/werkstatt/types.ts"
     }
   ]
 }

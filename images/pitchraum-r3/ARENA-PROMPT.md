@@ -9,7 +9,12 @@ Der Ausgangsstand liegt öffentlich auf GitHub:
 Lade alle Einträge unter `files` in die Projektwurzel (`target`). Die Einträge unter `reference` sind nur zum Lesen: Kopiere sie nicht ins Projekt und importiere sie nicht. Andere Ordner dieses Repos gehören nicht zum Auftrag. Kannst du die Dateien nicht laden, sage das sofort und baue nichts aus der Beschreibung nach.
 
 ## Ziel
-Die Basis bleibt: Typografie, Farbsystem, Montage, Server und App sind gut. **Baue sie nicht neu.** Diese Runde hat genau eine Hauptaufgabe: Der Hero muss in der ersten Sekunde umhauen. Heute ist die Szene fast unsichtbar.
+Die Basis bleibt: Typografie, Farbsystem, Montage, Server und App sind gut. **Baue sie nicht neu.** Diese Runde hat zwei Aufgaben in dieser Reihenfolge:
+
+- **Teil A (Abschnitte 1 bis 4):** Der Hero muss in der ersten Sekunde umhauen. Heute ist die Szene fast unsichtbar.
+- **Teil B (Abschnitt 5):** Die Demo bekommt Markenwerkstatt und Content-Schleuder.
+
+Mache Teil A zuerst fertig.
 
 Die Referenz-Datei `reference-a/SceneCanvas.tsx` zeigt die Wucht, die fehlt: große Lichtquelle, viel Kontrast, klar sichtbarer Wechsel je Track. Übernimm diese Wirkung, nicht ihre Schwächen: Der Lichtfleck wirkt beliebig, die Tropfen sehen wie Ringe aus, und Text wird auf hellem Licht unlesbar.
 
@@ -50,10 +55,60 @@ Die Zielgruppe sind Musiker. Sie sollen die Wirkung erleben und keine Technik le
 - **Knopfgrößen:** Alle Knöpfe und Links, die als Bedienelement dienen, sind auf 375 px mindestens 44 px hoch.
 - **Neuer Produktivtest:** Baue die Website, starte den Server mit `NODE_ENV=production` und prüfe per HTTP: `index.html` antwortet mit CSP, jede in `index.html` verlinkte CSS- und JS-Datei liefert 200 mit passendem Inhaltstyp, und jede CSS-Datei enthält keine `data:font`-Quelle.
 
+## 5. Markenwerkstatt und Content-Schleuder
+Die Künstlerin soll in der Demo den ganzen Weg erleben: **Marke festlegen, Kampagne planen, Grafiken und Texte bekommen.**
+
+Es gilt eine klare Trennung:
+- **Meine Marke** legt fest, wer die Künstlerin ist. Hier entstehen keine Posts oder Grafiken.
+- **Kampagne** erzeugt daraus Fahrplan, Grafiken und Texte. Sie liest das Markenpaket nur.
+- **Meine Seite** und die Kampagne verwenden dasselbe Markenpaket. Ändert sich die Marke, ändern sich beide.
+
+Die neue Navigation der App: Start, Meine Musik, Anfragen, Meine Marke, Meine Seite, Kampagne. Weiter gilt: eine Aufgabe pro Bildschirm, Alltagssprache, ein Hauptknopf.
+
+### Meine Marke
+Ein Wizard mit fünf kurzen Schritten:
+1. **Worum geht es?** Name, Musikrichtung, für wen.
+2. **Wie soll es wirken?** Drei klar verschiedene Richtungen als große Live-Vorschau zur Auswahl, keine Tabelle.
+3. **Farben und Schrift:** Kuratierte Paare oder eigener Farbwert, mit Kontrastprüfung und lesbarer Alternative.
+4. **Tonfall:** Wenige Regler und Beispielsätze, die sich sofort mitändern, dazu eigene Do's und Don'ts.
+5. **Fertig:** Das Ergebnis auf einer Seite, dazu Download als Markenpaket.
+
+Das Markenpaket besteht aus `tokens.json` im DTCG-Format, `theme.css` mit den verbindlichen Variablen `--brand-*` und `--font-family-*`, `brand-voice.json` und einem einfachen Wortmarken-SVG aus Name und gewählter Schrift. Nichts davon kommt von einer KI, und es gibt keine Logo-Erzeugung. Beschrifte das Logo als "Einfache Wortmarke".
+
+### Kampagne
+Lies die Referenzen unter `reference-noizy/`. Sie zeigen den funktionierenden Noizy-Stand. Baue daraus ein neutrales Modul in `src/app-shell/campaign/`, ohne diese Dateien unverändert zu übernehmen. Sämtliche Noizy-Texte, -Pfade, -Farben und -Bilder bleiben draußen.
+
+Ablauf als Wizard:
+1. **Welche Veröffentlichung?** Track aus "Meine Musik", Datum, Ziel.
+2. **Fahrplan:** Zeitstrahl von 21 Tagen davor bis 14 Tage danach, nach dem Muster in `plan.ts`. Einzelne Termine lassen sich verschieben oder entfernen.
+3. **Grafiken:** Vorlagen aus den Zeichenfunktionen von `templates/` und `draw.ts`, per Canvas 2D gerendert, ausschließlich mit dem Markenpaket und den Track-Daten. Formate: Post, Story, Hochformat und A5-Flyer. Eigenes Bild per Datei-Auswahl nur lokal im Browser, ohne Upload.
+4. **Texte:** Vorlagen je Termin im gewählten Tonfall, frei bearbeitbar. Keine KI und keine Reichweitenzusagen.
+5. **Ausliefern:** PNG herunterladen, Text kopieren, Teilen über `navigator.share`, Kalender als `.ics`.
+
+**Kein automatisches Posten und keine Verbindung zu Plattform-Konten.** Zeige das klar an, zum Beispiel: "Du postest selbst. Pitchraum bereitet alles vor." Spotify und Apple Music erscheinen höchstens als Aufgabe auf der Liste. Keine Konto-Felder, Passwörter oder API-Schlüssel.
+
+### Server und Website
+- Markenpaket und Kampagne liegen im Demo-Arbeitsbereich, mit derselben Trennung und Prüfung wie der Rest. Grafiken werden nur im Browser erzeugt.
+- Die Montage bekommt einen neuen Akt zwischen "Die Akte" und "Fünf Gesichter": Eine kurze Live-Vorführung zeigt, wie eine Marke sich ändert und Fahrplan, Grafik und Künstlerseite sofort mitziehen. Texte auf Website und in "Fragen" entsprechend ergänzen, einschließlich des Hinweises, dass nichts automatisch gepostet wird.
+
+### Tests
+- Markenpaket: `tokens.json` und `theme.css` enthalten alle Pflichtvariablen, und schwache Kontraste werden erkannt.
+- Fahrplan: Termine stimmen um das Datum herum, auch über Monats- und Jahreswechsel.
+- `.ics`: gültiges Format mit korrekten Daten und maskierten Sonderzeichen.
+- Arbeitsbereich A kann Marke und Kampagne von Arbeitsbereich B weder lesen noch ändern.
+- Ungültige Eingaben werden abgelehnt.
+- Ein Test durchsucht `src`, `server` und `index.html` und schlägt fehl, sobald "noizy", "neighbor" oder "martin" (ohne Groß- und Kleinschreibung) vorkommt.
+
+### Abnahme zu Teil B
+6. Marke anlegen, Paket herunterladen: Die drei Dateien plus Wortmarke stimmen.
+7. Marke ändern: Die Grafik in der Kampagne und "Meine Seite" ändern sich mit.
+8. Kampagne für einen Track anlegen, Termin verschieben, PNG und `.ics` herunterladen.
+9. Nirgends erscheinen Noizy-Reste oder Konto-Felder.
+
 ## Nicht ändern
 - Server-Sicherheit, Cookie, Token, Trennung der Arbeitsbereiche und Empfängerdaten bleiben wie sie sind. Alle vorhandenen Tests bleiben grün, keiner wird gelöscht oder abgeschwächt.
 - Ablauf und Sprache der App, Montage und Gestalten nur anfassen, wo dieser Auftrag es verlangt.
-- Keine neuen Abhängigkeiten. Keine externen CDNs oder Google Fonts, keine Analyse-Tools, keine Stockbilder oder Videos.
+- Keine neuen Abhängigkeiten, auch nicht `lucide-react` aus der Referenz. Keine externen CDNs oder Google Fonts, keine Analyse-Tools, keine Stockbilder oder Videos.
 - Alle Personen und Werke bleiben erfunden. Keine erfundenen Kunden, Zitate, Logos oder Zahlen. Nicht verwenden: "cleared", "verifiziert", "rechtssicher", "KI-Schutz", "Kopierschutz", "DSGVO-konform".
 - `prefers-reduced-motion`: Die Szene zeigt ein ruhiges, trotzdem erkennbares Standbild je Track. Ohne WebGL2 gibt es einen gestalteten Rückfall. Ton startet nur nach einem Klick.
 

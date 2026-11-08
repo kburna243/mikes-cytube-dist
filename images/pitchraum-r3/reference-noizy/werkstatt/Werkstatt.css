@@ -1,0 +1,51 @@
+.noizy-werkstatt {
+  font-family: var(--wk-display), sans-serif;
+  isolation: isolate;
+}
+
+.noizy-werkstatt .font-mono { font-family: var(--wk-mono), monospace; }
+.noizy-werkstatt .type-condensed { font-family: var(--wk-display), sans-serif; }
+.noizy-werkstatt button, .noizy-werkstatt a, .noizy-werkstatt summary { -webkit-tap-highlight-color: transparent; }
+.noizy-werkstatt :is(button, a, input, select, textarea, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-vinyl, #e85c0d);
+  outline-offset: 4px;
+}
+.noizy-werkstatt input, .noizy-werkstatt select, .noizy-werkstatt textarea { border-radius: 0; }
+.noizy-werkstatt input[type="range"] { accent-color: var(--color-vinyl, #e85c0d); }
+.noizy-werkstatt input[type="date"] { min-width: 0; }
+.wk-paper { position: relative; }
+.wk-paper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: var(--wk-texture);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.045;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+.wk-canvas > canvas { display: block; width: 100%; height: auto; }
+.wk-gallery-canvas > canvas { display: block; width: 100%; height: auto; }
+.wk-enter { animation: wk-enter 550ms cubic-bezier(.2,.7,.2,1) both; }
+.wk-enter-delayed { animation: wk-enter 650ms 80ms cubic-bezier(.2,.7,.2,1) both; }
+.wk-dialog { animation: wk-dialog 180ms ease-out both; }
+.wk-dialog::backdrop { background: rgb(20 19 17 / 65%); }
+.wk-tab-content { animation: wk-tab 180ms ease-out both; }
+.wk-switch-thumb { transition: transform 160ms ease; }
+.wk-template-button { transition: background-color 150ms ease, border-color 150ms ease, transform 150ms ease; }
+.wk-template-button:hover { transform: translateY(-2px); }
+.wk-export { transition: transform 150ms ease, box-shadow 150ms ease, background-color 150ms ease; }
+.wk-export:hover:not(:disabled) { transform: translate(-1px, -2px); box-shadow: 5px 6px 0 var(--color-ink, #141311); }
+.wk-export:active:not(:disabled) { transform: translate(3px, 3px); box-shadow: 1px 1px 0 var(--color-ink, #141311); }
+.wk-safe-zone { background: rgb(20 19 17 / 45%); }
+@keyframes wk-enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes wk-dialog { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes wk-tab { from { opacity: .5; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) {
+  .noizy-werkstatt *, .noizy-werkstatt *::before, .noizy-werkstatt *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
