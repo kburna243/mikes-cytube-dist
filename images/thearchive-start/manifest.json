@@ -1,0 +1,616 @@
+{
+  "name": "thearchive-start",
+  "source_commit": "b26843d",
+  "prompt": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/ARENA-PROMPT.md",
+  "files": [
+    {
+      "path": "base/app/(auth)/login/page.tsx",
+      "target": "app/(auth)/login/page.tsx",
+      "bytes": 6993,
+      "sha256": "bcb460927e72441e78f4823520d7fc544b1276289b8138b1adf30959c930a6bb",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/%28auth%29/login/page.tsx"
+    },
+    {
+      "path": "base/app/collection/page.tsx",
+      "target": "app/collection/page.tsx",
+      "bytes": 4303,
+      "sha256": "bb2a1fdc19b06525056337db0300a815086f81c1490f4017bc9cbd5dbae604b7",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/collection/page.tsx"
+    },
+    {
+      "path": "base/app/community/page.tsx",
+      "target": "app/community/page.tsx",
+      "bytes": 1205,
+      "sha256": "2c0da41b63451e41a03029faebfabc58233f465a4c4c992a44aec124312f3eb2",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/community/page.tsx"
+    },
+    {
+      "path": "base/app/dashboard/page.tsx",
+      "target": "app/dashboard/page.tsx",
+      "bytes": 26924,
+      "sha256": "64225b584c92b07bf278557bf99644d90a6a57fcb2250a794ef8b53b559b0867",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/dashboard/page.tsx"
+    },
+    {
+      "path": "base/app/globals.css",
+      "target": "app/globals.css",
+      "bytes": 33942,
+      "sha256": "5beb835a71ef8e124aa2b1429544967feae8c0e5d642c54a3fb905472e5c4ce6",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/globals.css"
+    },
+    {
+      "path": "base/app/identify/page.tsx",
+      "target": "app/identify/page.tsx",
+      "bytes": 15303,
+      "sha256": "1f0e5e25476d10354eab3baace126646d917ccced2187052662b7acc8fac0251",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/identify/page.tsx"
+    },
+    {
+      "path": "base/app/item/page.tsx",
+      "target": "app/item/page.tsx",
+      "bytes": 748,
+      "sha256": "ebdc56ca4876bb8a12c8bd9f40beeecf21f92eab5d5d075828073272b364469f",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/item/page.tsx"
+    },
+    {
+      "path": "base/app/items/[id]/item-detail-view.tsx",
+      "target": "app/items/[id]/item-detail-view.tsx",
+      "bytes": 9177,
+      "sha256": "ba2cd1da1d8ad6e216854b7d47bb205da02437c6b72e52c5a9462de1f98a85bc",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/items/%5Bid%5D/item-detail-view.tsx"
+    },
+    {
+      "path": "base/app/items/[id]/page.tsx",
+      "target": "app/items/[id]/page.tsx",
+      "bytes": 308,
+      "sha256": "59e9204d9bcc7dc956ffb2bda443c915c91ba02300dac88f3a8e18ad2438ea8d",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/items/%5Bid%5D/page.tsx"
+    },
+    {
+      "path": "base/app/layout.tsx",
+      "target": "app/layout.tsx",
+      "bytes": 1276,
+      "sha256": "316c3d67ca284da027c88e231c1c4e767683c88cc02fd7a63d182d659644ead8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/layout.tsx"
+    },
+    {
+      "path": "base/app/manifest.ts",
+      "target": "app/manifest.ts",
+      "bytes": 1014,
+      "sha256": "d893c64a315c1dd1bb498241feece1d681f5913094f438d2abeef68a5c759d46",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/manifest.ts"
+    },
+    {
+      "path": "base/app/onboarding/page.tsx",
+      "target": "app/onboarding/page.tsx",
+      "bytes": 7970,
+      "sha256": "0634951338af267a33fc8a5c08fcff3ec98740d5ee7e1a9adf61ca9defd008a3",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/onboarding/page.tsx"
+    },
+    {
+      "path": "base/app/page.tsx",
+      "target": "app/page.tsx",
+      "bytes": 6278,
+      "sha256": "933e9f78937839c5f716e4d5ac1c15bce24c4f16dd1346433a30083198be47b7",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/page.tsx"
+    },
+    {
+      "path": "base/app/providers.tsx",
+      "target": "app/providers.tsx",
+      "bytes": 993,
+      "sha256": "0f563493dc723ebf31ac3075baa25f0a49308743dfd1c477049fe95c5fd80d68",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/providers.tsx"
+    },
+    {
+      "path": "base/app/settings/page.tsx",
+      "target": "app/settings/page.tsx",
+      "bytes": 10636,
+      "sha256": "dbbdca90a71810f29c38799ea48c8dac76ec981119b0b4961c9387bc74cd8dc8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/settings/page.tsx"
+    },
+    {
+      "path": "base/app/vault/preselect/page.tsx",
+      "target": "app/vault/preselect/page.tsx",
+      "bytes": 3495,
+      "sha256": "ed355ddf6f6a2c9ce176a5928e478e18e9ffc4069e899ddee7ba9c0f1b1f27f8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/vault/preselect/page.tsx"
+    },
+    {
+      "path": "base/app/vault/showcase/page.tsx",
+      "target": "app/vault/showcase/page.tsx",
+      "bytes": 1012,
+      "sha256": "4239f64046ad7d474f3efbb14d002392a7573c9d734de271bc46754797e0d1c1",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/vault/showcase/page.tsx"
+    },
+    {
+      "path": "base/app/verify-email/page.tsx",
+      "target": "app/verify-email/page.tsx",
+      "bytes": 3665,
+      "sha256": "d14b00d2dd54ca6c6b99df3b3e1ebd5ece444f4bbdac078a7225a1883417285f",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/app/verify-email/page.tsx"
+    },
+    {
+      "path": "base/capacitor.config.ts",
+      "target": "capacitor.config.ts",
+      "bytes": 677,
+      "sha256": "f821ebd5489d314484cf4356652f846b67680b1dd7570469fa01a81b2d9de1c6",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/capacitor.config.ts"
+    },
+    {
+      "path": "base/components/app/NativeInit.tsx",
+      "target": "components/app/NativeInit.tsx",
+      "bytes": 332,
+      "sha256": "4644e84d54e7f58fa261e8d521cd1affa12b285ecd7da02891aa1256ea9ee630",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/app/NativeInit.tsx"
+    },
+    {
+      "path": "base/components/auth/ProtectedRoute.tsx",
+      "target": "components/auth/ProtectedRoute.tsx",
+      "bytes": 1085,
+      "sha256": "880e5b199159f16a59edb827dc18567cec8bc04a32fa12964d290a01decf32c4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/auth/ProtectedRoute.tsx"
+    },
+    {
+      "path": "base/components/identify/AttributeEditor.tsx",
+      "target": "components/identify/AttributeEditor.tsx",
+      "bytes": 11984,
+      "sha256": "61d1dbb13f6c7d23a98a296f7ac9d3f878c911d913e60fe712e26379450755e1",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/AttributeEditor.tsx"
+    },
+    {
+      "path": "base/components/identify/CaptureDeviceActions.tsx",
+      "target": "components/identify/CaptureDeviceActions.tsx",
+      "bytes": 6272,
+      "sha256": "5cb09feb0b604790fe6915bb1b85118c7c511979373154aca8159e3a3123019c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/CaptureDeviceActions.tsx"
+    },
+    {
+      "path": "base/components/identify/CaptureSuggestions.tsx",
+      "target": "components/identify/CaptureSuggestions.tsx",
+      "bytes": 4510,
+      "sha256": "c73b2ad3b5543f419f959b1058b33226e0495f69ea75a6a219cbf97355906915",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/CaptureSuggestions.tsx"
+    },
+    {
+      "path": "base/components/identify/GuidedCapture.tsx",
+      "target": "components/identify/GuidedCapture.tsx",
+      "bytes": 20922,
+      "sha256": "ffd68b825adeeb34092ecfea6f58d18d11885add39de7d45b8b3a32768cc66fe",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/GuidedCapture.tsx"
+    },
+    {
+      "path": "base/components/identify/ImagePreview.tsx",
+      "target": "components/identify/ImagePreview.tsx",
+      "bytes": 6196,
+      "sha256": "114aaac27694c5fbf57b0c381f28db9bfac6d8acc34a0c662e0a3d44f09aada8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/ImagePreview.tsx"
+    },
+    {
+      "path": "base/components/identify/ResultCard.tsx",
+      "target": "components/identify/ResultCard.tsx",
+      "bytes": 16669,
+      "sha256": "12e74d3b013171222fd26caa6628d3c79e5a79b1184d60dbf77380c535f4fd0b",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/ResultCard.tsx"
+    },
+    {
+      "path": "base/components/identify/ShareArchiveItem.tsx",
+      "target": "components/identify/ShareArchiveItem.tsx",
+      "bytes": 1833,
+      "sha256": "01d6cc492ad4e96a978a4a9d8bb74564fece1ee16b467e26ff9939e312039dab",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/ShareArchiveItem.tsx"
+    },
+    {
+      "path": "base/components/identify/UploadZone.tsx",
+      "target": "components/identify/UploadZone.tsx",
+      "bytes": 8813,
+      "sha256": "767f163ab77cc5cc1b41ad41cfa5d6f492416b490e17d6e7171d0821026d3ec6",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/identify/UploadZone.tsx"
+    },
+    {
+      "path": "base/components/landing/ArchiveGallery.tsx",
+      "target": "components/landing/ArchiveGallery.tsx",
+      "bytes": 3292,
+      "sha256": "2bdeb50dc6310ba0e284a67a77f4c43ea3ac347acbf801932f0190e744ffe6c1",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/landing/ArchiveGallery.tsx"
+    },
+    {
+      "path": "base/components/landing/ArchiveScene3D.tsx",
+      "target": "components/landing/ArchiveScene3D.tsx",
+      "bytes": 3773,
+      "sha256": "62185f8a69cb638057766291a340a8f8a45d6f17ef81e255f80260a8dce24e82",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/landing/ArchiveScene3D.tsx"
+    },
+    {
+      "path": "base/components/layout/BottomNavBar.tsx",
+      "target": "components/layout/BottomNavBar.tsx",
+      "bytes": 1378,
+      "sha256": "278d044db6bcbe9faf7c40919de4550ebbf337c831358d5b339afd3895122a31",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/layout/BottomNavBar.tsx"
+    },
+    {
+      "path": "base/components/layout/Footer.tsx",
+      "target": "components/layout/Footer.tsx",
+      "bytes": 1829,
+      "sha256": "57532e3ce415d6242428649e22a17443b951f48f1e0ef43792253e4a97177c77",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/layout/Footer.tsx"
+    },
+    {
+      "path": "base/components/layout/TopAppBar.tsx",
+      "target": "components/layout/TopAppBar.tsx",
+      "bytes": 1882,
+      "sha256": "867c1fe0cbbc954994673ad9044b319ddd7d01d4394e3403010b524972031483",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/layout/TopAppBar.tsx"
+    },
+    {
+      "path": "base/components/motion/CountUp.tsx",
+      "target": "components/motion/CountUp.tsx",
+      "bytes": 1622,
+      "sha256": "6a88792b9f5782e7a1f3edce15c6b7fae1b49ba498a3ff02b67fee6f075e3dd0",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/CountUp.tsx"
+    },
+    {
+      "path": "base/components/motion/CursorGlow.tsx",
+      "target": "components/motion/CursorGlow.tsx",
+      "bytes": 1923,
+      "sha256": "6f3e2b1891ff332603cf88ecfbc981020f8cb06838203a9c46705b0688e2ed76",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/CursorGlow.tsx"
+    },
+    {
+      "path": "base/components/motion/Magnetic.tsx",
+      "target": "components/motion/Magnetic.tsx",
+      "bytes": 1643,
+      "sha256": "e2081f7324de1fa42631e65f5d0ec33da9c5484e4e99bff79b72f3d16d7feeeb",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/Magnetic.tsx"
+    },
+    {
+      "path": "base/components/motion/MotionProvider.tsx",
+      "target": "components/motion/MotionProvider.tsx",
+      "bytes": 1400,
+      "sha256": "f9afc93be36f34fd36abec58d5010d3d8353b0f5fec0a9e10a2aa542d97c6bd4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/MotionProvider.tsx"
+    },
+    {
+      "path": "base/components/motion/Parallax.tsx",
+      "target": "components/motion/Parallax.tsx",
+      "bytes": 1190,
+      "sha256": "bac3f1c72416d429734deeec217c796405cd571c6dfe18852eafb5a776b980f9",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/Parallax.tsx"
+    },
+    {
+      "path": "base/components/motion/Reveal.tsx",
+      "target": "components/motion/Reveal.tsx",
+      "bytes": 2043,
+      "sha256": "99f6e55768630fe9c893fba643d96f447bbbfe574b45b9c53c3faae153da62f4",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/Reveal.tsx"
+    },
+    {
+      "path": "base/components/motion/SplitHeading.tsx",
+      "target": "components/motion/SplitHeading.tsx",
+      "bytes": 2042,
+      "sha256": "eed59e5c7d294b8b4392ff18296dbe75b020a01aed99ea7684bfb8828972ec82",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/motion/SplitHeading.tsx"
+    },
+    {
+      "path": "base/components/showcase/RetroThemeRenderer.tsx",
+      "target": "components/showcase/RetroThemeRenderer.tsx",
+      "bytes": 22557,
+      "sha256": "1594c46d5fac071a06520f7a118550626ccb09dd6b687b9a338bc7243d83621c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/showcase/RetroThemeRenderer.tsx"
+    },
+    {
+      "path": "base/components/ui/Button.tsx",
+      "target": "components/ui/Button.tsx",
+      "bytes": 1569,
+      "sha256": "c63dcea41b76fe7e7d00da044b33a44d70318834000847fc7bf7fc444b37c066",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/Button.tsx"
+    },
+    {
+      "path": "base/components/ui/EmptyState.tsx",
+      "target": "components/ui/EmptyState.tsx",
+      "bytes": 2519,
+      "sha256": "46f80ccdc103ddf37d10d242b267dec8531c7ca930084086f489b54bb80adc13",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/EmptyState.tsx"
+    },
+    {
+      "path": "base/components/ui/ErrorBoundary.tsx",
+      "target": "components/ui/ErrorBoundary.tsx",
+      "bytes": 3357,
+      "sha256": "ece34bcbdd287d728eaba809d77800c91b0f273b829abafa430ba210367e353b",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/ErrorBoundary.tsx"
+    },
+    {
+      "path": "base/components/ui/LoadingSkeleton.tsx",
+      "target": "components/ui/LoadingSkeleton.tsx",
+      "bytes": 4612,
+      "sha256": "a479ce24e03912edf064f628ef31f8a59ebea9e2fb547d002d166328bad36dd8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/LoadingSkeleton.tsx"
+    },
+    {
+      "path": "base/components/ui/OfflineIndicator.tsx",
+      "target": "components/ui/OfflineIndicator.tsx",
+      "bytes": 692,
+      "sha256": "b3d1bfa74e755bf1c981e723a53bb7722c80ef42067c095a29d405922b417e19",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/OfflineIndicator.tsx"
+    },
+    {
+      "path": "base/components/ui/TechnicalLine.tsx",
+      "target": "components/ui/TechnicalLine.tsx",
+      "bytes": 197,
+      "sha256": "42b564f63e3c7686dca3da7185f87487f9c9f235a4cd7ff7f7580a4f98978dfd",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/TechnicalLine.tsx"
+    },
+    {
+      "path": "base/components/ui/Toast.tsx",
+      "target": "components/ui/Toast.tsx",
+      "bytes": 2519,
+      "sha256": "f74449fa9174f742a05d5226c2d5a5bfef533f2665f7df3109d68c9ea86ec740",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/ui/Toast.tsx"
+    },
+    {
+      "path": "base/components/wizard/PreselectWizardUI.tsx",
+      "target": "components/wizard/PreselectWizardUI.tsx",
+      "bytes": 18907,
+      "sha256": "3f17a81f0bdee14387eb127852a5662de3bd8e4ac392a820642f12750030aef0",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/components/wizard/PreselectWizardUI.tsx"
+    },
+    {
+      "path": "base/lib/api.ts",
+      "target": "lib/api.ts",
+      "bytes": 5582,
+      "sha256": "5c229a5a1feb4490e4e26fe547508740a876e90dd4268a0c4a6f1ed33d187125",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/api.ts"
+    },
+    {
+      "path": "base/lib/auth-context.tsx",
+      "target": "lib/auth-context.tsx",
+      "bytes": 5817,
+      "sha256": "ea535451dd073d4f99ab44f548a62738b2628ccc5d23f58d08ff779540307e2c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/auth-context.tsx"
+    },
+    {
+      "path": "base/lib/config.ts",
+      "target": "lib/config.ts",
+      "bytes": 749,
+      "sha256": "3bc52b886405942aa9372e9d99dc668e444aa09cf9ddd449471d5ab51878c517",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/config.ts"
+    },
+    {
+      "path": "base/lib/hooks/useBilling.ts",
+      "target": "lib/hooks/useBilling.ts",
+      "bytes": 1421,
+      "sha256": "de0d563f717a999e75fa33725189671c6c4246b4fbb8ef2571f46b843617499c",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useBilling.ts"
+    },
+    {
+      "path": "base/lib/hooks/useCollections.ts",
+      "target": "lib/hooks/useCollections.ts",
+      "bytes": 927,
+      "sha256": "92f8bcc9ea1d7832e1fb38ebdd6c096018a3f2fc59ede67a32d6721b368bdd3a",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useCollections.ts"
+    },
+    {
+      "path": "base/lib/hooks/useDashboard.ts",
+      "target": "lib/hooks/useDashboard.ts",
+      "bytes": 504,
+      "sha256": "b04801fab5cbfa1cbd68e1af4e1cab4d6169e72d0b0bfdbc78564fba505d08d3",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useDashboard.ts"
+    },
+    {
+      "path": "base/lib/hooks/useIdentify.ts",
+      "target": "lib/hooks/useIdentify.ts",
+      "bytes": 4208,
+      "sha256": "e69b6f7a30a8f3b8a859ad3e24db71d98f2be70c07d850cea3a323a35a417a19",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useIdentify.ts"
+    },
+    {
+      "path": "base/lib/hooks/useItems.ts",
+      "target": "lib/hooks/useItems.ts",
+      "bytes": 956,
+      "sha256": "e74e2d54ed6eb6c27aecb32e702aac8173448861f1b934ee631e90be21a2d8cf",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useItems.ts"
+    },
+    {
+      "path": "base/lib/hooks/useUpload.ts",
+      "target": "lib/hooks/useUpload.ts",
+      "bytes": 8250,
+      "sha256": "37bbd8ec3ffc9933c56bbf3f0728990715ce9ba06a4a41706bdf47fb30cb20cb",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/hooks/useUpload.ts"
+    },
+    {
+      "path": "base/lib/native/camera.ts",
+      "target": "lib/native/camera.ts",
+      "bytes": 1301,
+      "sha256": "e9d064f1f462cd60c46f6647b99afd2ea32e76863974743f3e843ab1d6569698",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/camera.ts"
+    },
+    {
+      "path": "base/lib/native/database.ts",
+      "target": "lib/native/database.ts",
+      "bytes": 2743,
+      "sha256": "cabaeb6b859f565544f72bec580300ba3f84eb50c138d2df9a656be00f051b56",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/database.ts"
+    },
+    {
+      "path": "base/lib/native/filesystem.ts",
+      "target": "lib/native/filesystem.ts",
+      "bytes": 1136,
+      "sha256": "188bd0ad0d68ec2a041fb28c606173ee506dde266b0c8e5093b4004e05c9c347",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/filesystem.ts"
+    },
+    {
+      "path": "base/lib/native/network.ts",
+      "target": "lib/native/network.ts",
+      "bytes": 1447,
+      "sha256": "397996b038ab18fbc4c2db29e0865f7712bb8afef7c8a3acd74a6c9290ee20a3",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/network.ts"
+    },
+    {
+      "path": "base/lib/native/notifications.ts",
+      "target": "lib/native/notifications.ts",
+      "bytes": 1729,
+      "sha256": "2653ebd32d6602e4986c13727e4bfaba96d503955170beb532044a43d3fccbff",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/notifications.ts"
+    },
+    {
+      "path": "base/lib/native/storage.ts",
+      "target": "lib/native/storage.ts",
+      "bytes": 1004,
+      "sha256": "d3a17e21c554268e81fd11f75fb9eef2cadf690b36bdd28a05469e5acaee7ef8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/native/storage.ts"
+    },
+    {
+      "path": "base/lib/offline/capture-draft.ts",
+      "target": "lib/offline/capture-draft.ts",
+      "bytes": 1777,
+      "sha256": "1ee8670d062a883ab8e8ed030f08abc9a34b01ed20dce813ac79badacb54822f",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/offline/capture-draft.ts"
+    },
+    {
+      "path": "base/lib/offline/offline-query.ts",
+      "target": "lib/offline/offline-query.ts",
+      "bytes": 2079,
+      "sha256": "19b0deffa0a9570785e514ba36789cbd6cec9e017537fed2acf191a79bda6a78",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/offline/offline-query.ts"
+    },
+    {
+      "path": "base/lib/offline/sync-queue.ts",
+      "target": "lib/offline/sync-queue.ts",
+      "bytes": 1987,
+      "sha256": "a41844c1bd1eddad84cbaa848af37dd261886bcf435433c4830d988f6f04ea7f",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/offline/sync-queue.ts"
+    },
+    {
+      "path": "base/lib/platform.ts",
+      "target": "lib/platform.ts",
+      "bytes": 3786,
+      "sha256": "06c95a56ab2b4286e22034eff6a601137eb2df2cb67c36c6393b4c83f8d2e7e6",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/platform.ts"
+    },
+    {
+      "path": "base/lib/query-provider.tsx",
+      "target": "lib/query-provider.tsx",
+      "bytes": 702,
+      "sha256": "6da2fb444347a280ba71245c581bd2dec8a204695062cf2f039b63eecb17e358",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/query-provider.tsx"
+    },
+    {
+      "path": "base/lib/token-store.ts",
+      "target": "lib/token-store.ts",
+      "bytes": 989,
+      "sha256": "b49e612703909020a90da7982856bda4d5d1dc870e5afabbd1dce7e1157bde06",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/lib/token-store.ts"
+    },
+    {
+      "path": "base/middleware.ts",
+      "target": "middleware.ts",
+      "bytes": 1374,
+      "sha256": "537f18af8a8b073d735f920c0e1e3d893a436355101d7846cd1918c4d41a35fd",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/middleware.ts"
+    },
+    {
+      "path": "base/next.config.ts",
+      "target": "next.config.ts",
+      "bytes": 1166,
+      "sha256": "94bda3b07e188ac2374af5d8638636cfa91603977b096e864e53e62ded3e35e0",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/next.config.ts"
+    },
+    {
+      "path": "base/package.json",
+      "target": "package.json",
+      "bytes": 1457,
+      "sha256": "93c64efbd221932df7f33469a8e065018db53726f503313a260a555c8a89f847",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/package.json"
+    },
+    {
+      "path": "base/postcss.config.mjs",
+      "target": "postcss.config.mjs",
+      "bytes": 146,
+      "sha256": "ab4805b77935e8d8a2036e5de3d3a15d6e21229e8e3a1a4aea10b09327709460",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/postcss.config.mjs"
+    },
+    {
+      "path": "base/public/.gitkeep",
+      "target": "public/.gitkeep",
+      "bytes": 57,
+      "sha256": "8e5fd4f05152aca797d4b909dd7a65a6eb68515dec4e890d2535e2bb5a8488dc",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/.gitkeep"
+    },
+    {
+      "path": "base/public/brand/archive-mark-192.png",
+      "target": "public/brand/archive-mark-192.png",
+      "bytes": 4835,
+      "sha256": "5d7a3c6606b6fc8261f82759669e259ac447fdf69568ad4bd41dcf79f5957656",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/brand/archive-mark-192.png"
+    },
+    {
+      "path": "base/public/brand/archive-mark-512.png",
+      "target": "public/brand/archive-mark-512.png",
+      "bytes": 18277,
+      "sha256": "7075814ef164db00ba7ca0f28861d7af33506a7dd856733ebe8953277805eaab",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/brand/archive-mark-512.png"
+    },
+    {
+      "path": "base/public/brand/archive-mark.svg",
+      "target": "public/brand/archive-mark.svg",
+      "bytes": 524,
+      "sha256": "33a8bd5fb314c2d604bb2c8762cfc0ff27a6b7515270b15fc8b3d69f5d9ff063",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/brand/archive-mark.svg"
+    },
+    {
+      "path": "base/public/capture-worker.js",
+      "target": "public/capture-worker.js",
+      "bytes": 1231,
+      "sha256": "0c64aa16604d5bf4dde411ff89a8e742b707751b114db8184359650dc05fe085",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/capture-worker.js"
+    },
+    {
+      "path": "base/public/images/archive-mark.svg",
+      "target": "public/images/archive-mark.svg",
+      "bytes": 524,
+      "sha256": "33a8bd5fb314c2d604bb2c8762cfc0ff27a6b7515270b15fc8b3d69f5d9ff063",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/archive-mark.svg"
+    },
+    {
+      "path": "base/public/images/item-gameboy.svg",
+      "target": "public/images/item-gameboy.svg",
+      "bytes": 1250,
+      "sha256": "cf773924dc643e4e25698132f7dce5dc569d6ebf1cc69c4f4d98458121c85d65",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/item-gameboy.svg"
+    },
+    {
+      "path": "base/public/images/item-pokemon.svg",
+      "target": "public/images/item-pokemon.svg",
+      "bytes": 1212,
+      "sha256": "35bb23f7a3414dd14a20e114b1118b1440b74e6551e124f5c9ae10806a495ce8",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/item-pokemon.svg"
+    },
+    {
+      "path": "base/public/images/item-streetwear.svg",
+      "target": "public/images/item-streetwear.svg",
+      "bytes": 1104,
+      "sha256": "a33c221aacff38a1a3b27824ab72222472899e9dbfc3e2e2e316cac76d2e9991",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/item-streetwear.svg"
+    },
+    {
+      "path": "base/public/images/item-toys.svg",
+      "target": "public/images/item-toys.svg",
+      "bytes": 1120,
+      "sha256": "986efb90e7e35d89c531362d01102c1e28621c2f4b147ad2966db9b38b947656",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/item-toys.svg"
+    },
+    {
+      "path": "base/public/images/item-vinyl.svg",
+      "target": "public/images/item-vinyl.svg",
+      "bytes": 1234,
+      "sha256": "3d90f85ee53e25232ef3925ac5e4513e4590de1a685b4fc193884e8ef5e53dbf",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/public/images/item-vinyl.svg"
+    },
+    {
+      "path": "base/tsconfig.json",
+      "target": "tsconfig.json",
+      "bytes": 750,
+      "sha256": "11f6b166074aef955414b95dcb29144edfc3961bbb88aba7bbce706786d03829",
+      "url": "https://raw.githubusercontent.com/kburna243/mikes-cytube-dist/main/images/thearchive-start/base/tsconfig.json"
+    }
+  ]
+}
